@@ -11,6 +11,11 @@ A fully automated data scraping and intelligence pipeline that discovers, extrac
 - **LLM Extraction** — Groq-powered extraction with automatic model fallback on rate limits
 - **Streamlit Dashboard** — Dark-mode UI with real-time terminal streaming and interactive tables
 
+## 📸 UI Preview
+
+![TechStack Intelligence Dashboard](ui.jpg)
+
+
 ## 🏗️ Architecture
 
 ```mermaid
