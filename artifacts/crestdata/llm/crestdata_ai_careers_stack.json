@@ -1,0 +1,41 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Splunk",
+            "category": "Observability",
+            "evidence": "We actively take interest in each employee\u2019s development plan and offer opportunities to develop their technical expertise in various areas including Splunk, Cisco, VMware, RedHat, or Microsoft certifications",
+            "reasoning": "The text explicitly mentions Splunk as one of the technologies in which Crest Data offers development opportunities for its employees.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Cisco",
+            "category": "Networking",
+            "evidence": "We actively take interest in each employee\u2019s development plan and offer opportunities to develop their technical expertise in various areas including Splunk, Cisco, VMware, RedHat, or Microsoft certifications",
+            "reasoning": "The text explicitly mentions Cisco as one of the technologies in which Crest Data offers development opportunities for its employees.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "VMware",
+            "category": "Virtualization",
+            "evidence": "We actively take interest in each employee\u2019s development plan and offer opportunities to develop their technical expertise in various areas including Splunk, Cisco, VMware, RedHat, or Microsoft certifications",
+            "reasoning": "The text explicitly mentions VMware as one of the technologies in which Crest Data offers development opportunities for its employees.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "RedHat",
+            "category": "Operating System",
+            "evidence": "We actively take interest in each employee\u2019s development plan and offer opportunities to develop their technical expertise in various areas including Splunk, Cisco, VMware, RedHat, or Microsoft certifications",
+            "reasoning": "The text explicitly mentions RedHat as one of the technologies in which Crest Data offers development opportunities for its employees.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Microsoft",
+            "category": "Cloud Provider",
+            "evidence": "We actively take interest in each employee\u2019s development plan and offer opportunities to develop their technical expertise in various areas including Splunk, Cisco, VMware, RedHat, or Microsoft certifications",
+            "reasoning": "The text explicitly mentions Microsoft as one of the technologies in which Crest Data offers development opportunities for its employees.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/careers"
+}

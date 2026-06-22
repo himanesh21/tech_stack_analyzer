@@ -1,0 +1,41 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Pinecone",
+            "category": "Vector Database",
+            "evidence": "Pinecone",
+            "reasoning": "Pinecone is listed under the Technology Stack section, indicating its use in the project.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "LlamaIndex",
+            "category": "Data Indexing",
+            "evidence": "LlamaIndex",
+            "reasoning": "LlamaIndex is listed under the Technology Stack section, indicating its use in the project.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "LangChain",
+            "category": "AI Framework",
+            "evidence": "LangChain",
+            "reasoning": "LangChain is listed under the Technology Stack section, indicating its use in the project.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "OpenAI Models (GPT-4 and GPT-4 Vision)",
+            "category": "Large Language Models",
+            "evidence": "OpenAI Models (GPT-4 and GPT-4 Vision)",
+            "reasoning": "OpenAI Models (GPT-4 and GPT-4 Vision) are listed under the Technology Stack section, indicating their use in the project.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "TruLens",
+            "category": "Model Interpretability",
+            "evidence": "TruLens: Utilized for model interpretability, ensuring transparency in the chatbot\u2019s decision-making processes and enhancing trustworthiness.",
+            "reasoning": "TruLens is mentioned as being utilized for model interpretability, indicating its use in ensuring the chatbot's decision-making transparency.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/revolutionizing/it/helpdesk/with/generative/ai"
+}

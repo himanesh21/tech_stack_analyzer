@@ -1,0 +1,55 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS Bedrock",
+            "category": "Cloud Provider",
+            "evidence": "The solution was built using modern and solid technological stack as below: * AWS Bedrock",
+            "reasoning": "AWS Bedrock is explicitly mentioned as a technology used in the solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "LangGraph",
+            "category": "AI/ML Framework",
+            "evidence": "The solution was built using modern and solid technological stack as below: * LangGraph",
+            "reasoning": "LangGraph is explicitly mentioned as a technology used in the solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Anthropic Claude",
+            "category": "AI/ML Model",
+            "evidence": "The solution was built using modern and solid technological stack as below: * Anthropic Claude",
+            "reasoning": "Anthropic Claude is explicitly mentioned as a technology used in the solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Streamlit",
+            "category": "Data Science Platform",
+            "evidence": "The solution was built using modern and solid technological stack as below: * Streamlit",
+            "reasoning": "Streamlit is explicitly mentioned as a technology used in the solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Kubernetes",
+            "category": "Container Orchestration",
+            "evidence": "The solution was built using modern and solid technological stack as below: * Kubernetes",
+            "reasoning": "Kubernetes is explicitly mentioned as a technology used in the solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Okta",
+            "category": "Identity and Access Management",
+            "evidence": "Critical security information siloed across the customer, Okta, Crowdstrike, and other platforms.",
+            "reasoning": "Okta is mentioned as a platform where critical security information is siloed.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Crowdstrike",
+            "category": "Cybersecurity",
+            "evidence": "Critical security information siloed across the customer, Okta, Crowdstrike, and other platforms.",
+            "reasoning": "Crowdstrike is mentioned as a platform where critical security information is siloed.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/multi/agentic/ai/solution/for/enhanced/security/operations"
+}

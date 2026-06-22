@@ -1,0 +1,69 @@
+{
+    "subject_company": "Crest Data Solutions",
+    "technologies": [
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "We design and implement enterprise workflow automation, ITSM, ITOM, CMDB, and SecOps solutions with deep integration, governance, and managed support capabilities. [**Explore ServiceNow Services \u2192**](https://www.crestdata.ai/solutions/servicenow/)",
+            "reasoning": "Crest Data Solutions explicitly mentions ServiceNow as one of the platforms they specialize in, offering services such as workflow automation, ITSM, ITOM, CMDB, and SecOps solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "As a strategic Datadog partner, we specialize in large-scale migrations, complex integrations, and AI-driven observability optimization across distributed systems. [**Explore Datadog Services**](https://www.crestdata.ai/solutions/datadog/)",
+            "reasoning": "Crest Data Solutions explicitly mentions Datadog as a strategic partner, offering services such as large-scale migrations, complex integrations, and AI-driven observability optimization.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Google SecOps",
+            "category": "Security Operations",
+            "evidence": "We help enterprises build and optimize next-gen security operations with advanced threat detection, telemetry engineering, and scalable SIEM transformations. [**Explore Google SecOps Services \u2192**](https://www.crestdata.ai/solutions/google-secops/)",
+            "reasoning": "Crest Data Solutions explicitly mentions Google SecOps as one of the areas they specialize in, offering services such as advanced threat detection, telemetry engineering, and scalable SIEM transformations.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "We deliver AI-led migrations, implementations, custom integrations, and managed services to optimize observability and security across AWS environments. [**Explore Amazon CloudWatch Services**](https://www.crestdata.ai/solutions/amazon-cloudwatch)",
+            "reasoning": "Crest Data Solutions explicitly mentions AWS as one of the cloud environments they specialize in, offering services such as AI-led migrations, implementations, custom integrations, and managed services.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "We accelerate modernization with AI-driven migrations, performance engineering, and enterprise-scale observability transformations. [**Explore Dynatrace Services**](https://www.crestdata.ai/solutions/dynatrace/)",
+            "reasoning": "Crest Data Solutions explicitly mentions Dynatrace as one of the platforms they specialize in, offering services such as AI-driven migrations, performance engineering, and enterprise-scale observability transformations.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "IBM QRadar",
+            "category": "SIEM",
+            "evidence": "Our expertise spans large-scale SIEM implementations, log engineering, integrations, and performance optimization for high-volume enterprise security environments. [**Explore IBM QRadar Services \u2192**](https://www.crestdata.ai/solutions/ibm-qradar/)",
+            "reasoning": "Crest Data Solutions explicitly mentions IBM QRadar as one of the SIEM solutions they specialize in, offering services such as large-scale implementations, log engineering, integrations, and performance optimization.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Wazuh",
+            "category": "Threat Intelligence",
+            "evidence": "[ Extending Threat Intelligence Reach with a Native Wazuh Integration ](https://www.crestdata.ai/case-studies/threat-intelligence-with-native-wazuh-integration/)",
+            "reasoning": "Crest Data Solutions mentions Wazuh in the context of extending threat intelligence reach with a native integration, implying its usage.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "CyberArk",
+            "category": "Privileged Access Management",
+            "evidence": "[ Improving Privileged Access Management Visibility and Governance with Datadog ](https://www.crestdata.ai/case-studies/strengthening-access-management-visibility-and-governance-with-datadog/)",
+            "reasoning": "Crest Data Solutions mentions CyberArk in the context of improving privileged access management visibility and governance with Datadog, implying its usage.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ThreatQ",
+            "category": "Threat Intelligence",
+            "evidence": "[ Enabling Enterprise-Scale Threat Investigations with a Browser-Based Intelligence Extension ](https://www.crestdata.ai/case-studies/enterprise-scale-threat-investigations-with-browser-based-intelligence-extension/)",
+            "reasoning": "Crest Data Solutions explicitly mentions ThreatQ in the context of enabling enterprise-scale threat investigations, implying its usage.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions"
+}

@@ -1,0 +1,7 @@
+requests==2.34.2
+python-dotenv==1.1.0
+crawl4ai==0.9.0
+groq==1.4.0
+pydantic==2.12.4
+streamlit==1.58.0
+pandas==3.0.2

@@ -1,0 +1,13 @@
+{
+    "subject_company": "CrestData",
+    "technologies": [
+        {
+            "name": "React",
+            "category": "Frontend Framework",
+            "evidence": "We\u2019re hiring React & Fullstack Engineers at CrestData",
+            "reasoning": "The text explicitly states that the company is hiring for roles requiring React, indicating direct usage of the technology.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://linkedin/com/posts/jignesh/patel2208/hiring/reactjs/fullstack/activity/7376990024355155970/mf32"
+}

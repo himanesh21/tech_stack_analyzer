@@ -1,0 +1,55 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "We deploy and optimize tailored Infrastructure, Application, and AI Observability solutions to drive unified visibility. Our strategic pillars include Service Level Governance, where we implement the right SLIs to meet critical SLOs, and establishing data-driven observability maturity.",
+            "reasoning": "Crest Data uses AWS for cloud migration and observability solutions, as mentioned in the case study 'Driving RegTech Business Growth and Operational Efficiency Through AWS Cloud Migration'.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Our hands-on experience delivering observability cloud solutions across all eight Gartner-recognized observability leaders.",
+            "reasoning": "Crest Data has experience with Dynatrace, as mentioned in the case study 'Accelerating Dynatrace Migration for Better Observability and Business Outcomes'.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Having built 5,000+ integrations across a wide range of technologies and platforms, we utilize autonomous AI agents to rapidly develop custom connectors (OTel/CNCF) and analytics.",
+            "reasoning": "Crest Data has integrated Datadog for observability solutions, as mentioned in the case studies 'Scaling Enterprise Sybase Monitoring Through Datadog Integration' and 'Strengthening CDN Observability and Digital Experience Visibility for Retail with Datadog'.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "Crest Data has experience with ServiceNow, specifically for SAM (Software Asset Management) automation.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Wazuh",
+            "category": "SIEM",
+            "evidence": "Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "Crest Data has integrated Wazuh for threat intelligence and security solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ThreatQ",
+            "category": "Threat Intelligence",
+            "evidence": "Enabling Enterprise-Scale Threat Investigations with a Browser-Based Intelligence Extension",
+            "reasoning": "Crest Data has experience with ThreatQ for threat intelligence and investigations.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CyberArk",
+            "category": "Privileged Access Management",
+            "evidence": "Improving Privileged Access Management Visibility and Governance with Datadog",
+            "reasoning": "Crest Data has integrated CyberArk with Datadog for PAM visibility and governance.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/observability"
+}

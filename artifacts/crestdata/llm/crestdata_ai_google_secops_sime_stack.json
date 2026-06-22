@@ -1,0 +1,76 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Google SecOps",
+            "category": "Security Information and Event Management (SIEM)",
+            "evidence": "Google SecOps is a unified, cloud-native security operations platform built to collect, normalize, detect, and respond to threats at scale.",
+            "reasoning": "Google SecOps is explicitly mentioned as a key offering for Crest Data, highlighting its use in security operations.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Google SecOps SOAR",
+            "category": "Security Orchestration, Automation, and Response (SOAR)",
+            "evidence": "Our Google SecOps Offerings Delivering end-to-end Google SecOps services from integration and deployment to automation and managed security operations designed to help enterprises implement, scale, and optimize modern security operations with confidence.",
+            "reasoning": "Google SecOps SOAR is explicitly mentioned as part of Crest Data's offerings for security operations automation.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Google Cloud Platform",
+            "category": "Cloud Provider",
+            "evidence": "We build custom applications covering ingestion, parsing, rule creation, and dashboards. Our scripts leverage Google Cloud Functions to ingest data from third-party sources seamlessly into Google SecOps environments.",
+            "reasoning": "Google Cloud Platform is strongly implied through the mention of Google Cloud Functions, indicating its use for cloud-based operations.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "HashiCorp Vault",
+            "category": "Secret Management",
+            "evidence": "We\u2019ve developed specialized tools to migrate secrets from vault solutions such as HashiCorp Vault to GCP Secret Manager, ensuring secure transitions and alignment with cloud-native best practices.",
+            "reasoning": "HashiCorp Vault is explicitly mentioned as a tool used for secret management, highlighting its integration with Crest Data's services.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "GCP Secret Manager",
+            "category": "Secret Management",
+            "evidence": "We\u2019ve developed specialized tools to migrate secrets from vault solutions such as HashiCorp Vault to GCP Secret Manager, ensuring secure transitions and alignment with cloud-native best practices.",
+            "reasoning": "GCP Secret Manager is explicitly mentioned as a tool used for secret management, highlighting its integration with Crest Data's services.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Case Study Scaling Enterprise Sybase Monitoring Through Datadog Integration",
+            "reasoning": "Datadog is mentioned in the context of a case study for scaling enterprise Sybase monitoring, implying its use for observability.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Case Study Accelerating Dynatrace Migration for Better Observability and Business Outcomes",
+            "reasoning": "Dynatrace is mentioned in the context of a case study for accelerating migration for better observability, implying its use for observability.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Case Study Driving RegTech Business Growth and Operational Efficiency Through AWS Cloud Migration",
+            "reasoning": "AWS is mentioned in the context of a case study for driving business growth and operational efficiency through cloud migration, implying its use for cloud-based operations.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Case Study Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "ServiceNow is mentioned in the context of a case study for intelligent SAM, implying its use for IT service management.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Wazuh",
+            "category": "Threat Intelligence",
+            "evidence": "Case Study Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "Wazuh is mentioned in the context of a case study for extending threat intelligence reach, implying its use for threat intelligence.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/google/secops/sime"
+}

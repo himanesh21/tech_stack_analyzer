@@ -1,0 +1,62 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS SageMaker",
+            "category": "Machine Learning Service",
+            "evidence": "Harness the power of AWS SageMaker with Crest Data.",
+            "reasoning": "The text explicitly mentions AWS SageMaker as a key component of Crest Data's MLOps offerings.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "SageMaker Data Wrangler",
+            "category": "Data Preparation Tool",
+            "evidence": "Crest Data leverages SageMaker Data Wrangler to facilitate seamless data preparation and exploration.",
+            "reasoning": "The text explicitly mentions SageMaker Data Wrangler as a tool used by Crest Data for data preparation.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "SageMaker Studio",
+            "category": "Machine Learning Development Environment",
+            "evidence": "Integrate with SageMaker Studio, empowering data scientists to experiment with various algorithms and hyperparameters.",
+            "reasoning": "The text explicitly mentions SageMaker Studio as a tool used by Crest Data for model development.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Git",
+            "category": "Version Control System",
+            "evidence": "Enhance collaboration through seamless integration with version control systems like Git.",
+            "reasoning": "The text explicitly mentions Git as a version control system used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS CodePipeline",
+            "category": "CI/CD Tool",
+            "evidence": "Seamlessly integrate with AWS CodePipeline and other CI/CD tools.",
+            "reasoning": "The text explicitly mentions AWS CodePipeline as a CI/CD tool used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability and Monitoring",
+            "evidence": "This is not directly mentioned in the provided text snippet but based on other case studies mentioned, it can be inferred that Datadog might be used.",
+            "reasoning": "Although not directly mentioned in the context of Crest Data's MLOps, other case studies on the website mention Datadog, making it speculative for this context.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability and Monitoring",
+            "evidence": "Similar to Datadog, Dynatrace is mentioned in other case studies but not directly in the provided text.",
+            "reasoning": "Dynatrace is mentioned in other case studies on the website, making its usage speculative in the context of Crest Data's MLOps.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "ServiceNow is mentioned in a different case study on the website.",
+            "reasoning": "While ServiceNow is mentioned in another case study, its direct relation to Crest Data's MLOps is speculative based on the provided text.",
+            "relationship": "speculative"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/aws/sagemaker"
+}

@@ -1,0 +1,55 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "We\u2019re excited to welcome Crest Data to the Datadog Marketplace! Monitoring Dell EMC Isilon storage with new metrics and dashboards will help network engineers alert on and troubleshoot issues with data storage and access.",
+            "reasoning": "Crest Data is mentioned as a partner in the Datadog Marketplace, and Datadog is used for monitoring and observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Strategic Technology Partnerships scaling strong alliances with AWS, Google, ServiceNow, Datadog, Dynatrace, Microsoft, and other Tier-1 technology leaders.",
+            "reasoning": "Dynatrace is listed as one of the technology leaders that Crest Data has a strategic partnership with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Strategic Technology Partnerships scaling strong alliances with AWS, Google, ServiceNow, Datadog, Dynatrace, Microsoft, and other Tier-1 technology leaders.",
+            "reasoning": "ServiceNow is listed as one of the technology leaders that Crest Data has a strategic partnership with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Strategic Technology Partnerships scaling strong alliances with AWS, Google, ServiceNow, Datadog, Dynatrace, Microsoft, and other Tier-1 technology leaders.",
+            "reasoning": "AWS is listed as one of the technology leaders that Crest Data has a strategic partnership with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Google",
+            "category": "Cloud Provider",
+            "evidence": "Strategic Technology Partnerships scaling strong alliances with AWS, Google, ServiceNow, Datadog, Dynatrace, Microsoft, and other Tier-1 technology leaders.",
+            "reasoning": "Google is listed as one of the technology leaders that Crest Data has a strategic partnership with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Microsoft",
+            "category": "Cloud Provider",
+            "evidence": "Strategic Technology Partnerships scaling strong alliances with AWS, Google, ServiceNow, Datadog, Dynatrace, Microsoft, and other Tier-1 technology leaders.",
+            "reasoning": "Microsoft is listed as one of the technology leaders that Crest Data has a strategic partnership with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk",
+            "category": "SIEM",
+            "evidence": "Migrating 2TB/day ElasticSearch environment to Splunk was a 6 month effort. Crest\u2019s Professional Services team using their Migration tool finished the project to migrate 1500+ dashboards and over 100TB of indexed data from 80+ data sources in two weeks!",
+            "reasoning": "Crest Data's Professional Services team used their Migration tool to migrate data to Splunk.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai"
+}

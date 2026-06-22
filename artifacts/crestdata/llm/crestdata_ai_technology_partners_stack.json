@@ -1,0 +1,48 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Google Cloud",
+            "category": "Cloud Provider",
+            "evidence": "Google Cloud logo",
+            "reasoning": "The presence of the Google Cloud logo implies that Crest Data uses or is associated with Google Cloud services.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Datadog logo",
+            "reasoning": "The presence of the Datadog logo implies that Crest Data uses or is associated with Datadog's observability and monitoring services.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Dynatrace Logo",
+            "reasoning": "The presence of the Dynatrace logo implies that Crest Data uses or is associated with Dynatrace's observability and monitoring services.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "ServiceNow logo",
+            "reasoning": "The presence of the ServiceNow logo implies that Crest Data uses or is associated with ServiceNow's IT service management solutions.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Carahsoft",
+            "category": "IT Service Management",
+            "evidence": "Carahsoft logo",
+            "reasoning": "The presence of the Carahsoft logo implies that Crest Data uses or is associated with Carahsoft's IT service management and cybersecurity solutions.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Microsoft Security Copilot",
+            "category": "Security",
+            "evidence": "MicrosoftSecurityCopilot",
+            "reasoning": "The presence of the Microsoft Security Copilot image implies that Crest Data uses or is associated with Microsoft's security solutions.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/technology/partners"
+}

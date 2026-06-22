@@ -1,0 +1,20 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Netskope",
+            "category": "Cloud Security Platform",
+            "evidence": "Netskope is a leading cloud security platform that provides comprehensive security solutions for cloud services, web, and private apps.",
+            "reasoning": "Netskope is explicitly mentioned as a cloud security platform used for securing cloud environments.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability and Security Platform",
+            "evidence": "Netskope-Datadog-App-Datasheet",
+            "reasoning": "Datadog is strongly implied to be used in conjunction with Netskope, as indicated by the mention of a joint datasheet.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/data/sheet/netskope/integration/with/datadog"
+}

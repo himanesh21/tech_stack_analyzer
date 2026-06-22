@@ -1,0 +1,41 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Crest Data implemented a purpose-built Datadog integration for Sybase ASE, bringing performance data, audit activity, and error logs together in one place.",
+            "reasoning": "The text explicitly mentions Datadog as a central part of the observability strategy and details its integration with Sybase ASE.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Sybase ASE",
+            "category": "Database",
+            "evidence": "The customer had more than 20 Sybase ASE databases under management and needed a solution to monitor them effectively.",
+            "reasoning": "The text explicitly mentions Sybase ASE as the database technology being monitored.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Crest Data's Datadog Marketplace integration",
+            "category": "Integration",
+            "evidence": "Crest Data implemented Crest Data\u2019s Datadog Marketplace integration for Sybase ASE.",
+            "reasoning": "The text explicitly mentions the integration as a solution to bring Sybase ASE into the Datadog ecosystem.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "There is a link to another article about 'Accelerating Dynatrace Migration for Better Observability and Business Outcomes'.",
+            "reasoning": "Although Dynatrace is mentioned in a different context, it implies that Dynatrace is another observability tool, but its usage by Crest Data or the customer is speculative.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "There is a link to another article about 'Delivering High-Availability Business Applications Through a Resilient AWS Architecture'.",
+            "reasoning": "AWS is mentioned in a different context, implying its relevance to cloud architecture, but its usage by Crest Data or the customer is speculative.",
+            "relationship": "speculative"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/scaling/enterprise/sybase/monitoring/through/datadog/integration"
+}

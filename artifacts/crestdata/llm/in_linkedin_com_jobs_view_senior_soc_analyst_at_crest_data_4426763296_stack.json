@@ -1,0 +1,76 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Splunk",
+            "category": "SIEM",
+            "evidence": "Proficiency in SIEM tools such as Splunk, Wazuh or ELK Stack to analyze and correlate security events is a plus.",
+            "reasoning": "The job posting explicitly lists Splunk as a required SIEM tool for security event analysis.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Wazuh",
+            "category": "SIEM",
+            "evidence": "Proficiency in SIEM tools such as Splunk, Wazuh or ELK Stack to analyze and correlate security events is a plus.",
+            "reasoning": "The job posting explicitly lists Wazuh as a required SIEM tool for security event analysis.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ELK Stack",
+            "category": "SIEM",
+            "evidence": "Proficiency in SIEM tools such as Splunk, Wazuh or ELK Stack to analyze and correlate security events is a plus.",
+            "reasoning": "The job posting explicitly lists ELK Stack as a required SIEM tool for security event analysis.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Elastic Search",
+            "category": "Data Analytics",
+            "evidence": "The job requires understanding of technologies such as Data Analytics (Splunk, Elastic Search, Apache Spark, Hadoop).",
+            "reasoning": "Elastic Search is explicitly mentioned as a Data Analytics tool in the job requirements.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Apache Spark",
+            "category": "Data Analytics",
+            "evidence": "The job requires understanding of technologies such as Data Analytics (Splunk, Elastic Search, Apache Spark, Hadoop).",
+            "reasoning": "Apache Spark is explicitly mentioned as a Data Analytics tool in the job requirements.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Hadoop",
+            "category": "Data Analytics",
+            "evidence": "The job requires understanding of technologies such as Data Analytics (Splunk, Elastic Search, Apache Spark, Hadoop).",
+            "reasoning": "Hadoop is explicitly mentioned as a Data Analytics tool in the job requirements.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Cisco ACI",
+            "category": "Software Defined Networking (SDN)",
+            "evidence": "The job requires understanding of technologies such as Software Defined Networking (Cisco ACI, VMware NSX).",
+            "reasoning": "Cisco ACI is explicitly mentioned as an SDN tool in the job requirements.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "VMware NSX",
+            "category": "Software Defined Networking (SDN)",
+            "evidence": "The job requires understanding of technologies such as Software Defined Networking (Cisco ACI, VMware NSX).",
+            "reasoning": "VMware NSX is explicitly mentioned as an SDN tool in the job requirements.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "The job requires understanding of technologies such as Cloud Providers (AWS, Azure).",
+            "reasoning": "AWS is explicitly mentioned as a Cloud Provider in the job requirements.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Azure",
+            "category": "Cloud Provider",
+            "evidence": "The job requires understanding of technologies such as Cloud Providers (AWS, Azure).",
+            "reasoning": "Azure is explicitly mentioned as a Cloud Provider in the job requirements.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://in/linkedin/com/jobs/view/senior/soc/analyst/at/crest/data/4426763296"
+}

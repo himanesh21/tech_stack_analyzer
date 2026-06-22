@@ -1,0 +1,34 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Splunk",
+            "category": "SIEM",
+            "evidence": "The text mentions 'Splunk to Datadog Migration App by Crest Data' and discusses Splunk's capabilities as a SIEM.",
+            "reasoning": "The text explicitly mentions Splunk as a SIEM and a tool for log analysis and security use cases.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "The text discusses migrating from Splunk to Datadog and highlights Datadog's observability platform.",
+            "reasoning": "The text explicitly mentions Datadog as a replacement for Splunk and discusses its features and capabilities.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog Bits AI",
+            "category": "AI-powered observability",
+            "evidence": "The text mentions 'Datadog Bits AI' as a suite of AI-powered agents designed to help engineering teams.",
+            "reasoning": "The text explicitly mentions Datadog Bits AI as a feature of Datadog.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Cisco",
+            "category": "Technology company",
+            "evidence": "The text mentions that 'Cisco completed its acquisition of Splunk in March 2024'.",
+            "reasoning": "The text explicitly mentions Cisco's acquisition of Splunk.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/splunk/to/datadog/migration"
+}

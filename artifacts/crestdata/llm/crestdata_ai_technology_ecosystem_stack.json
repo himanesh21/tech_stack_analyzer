@@ -1,0 +1,139 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Google Cloud",
+            "category": "Cloud Provider",
+            "evidence": "![Google Cloud logo](https://www.crestdata.ai/wp-content/uploads/2026/01/Google-Cloud.png)",
+            "reasoning": "The presence of the Google Cloud logo implies that Crest Data uses Google Cloud services.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Google Kubernetes Engine",
+            "category": "Container Orchestration",
+            "evidence": "![Google K Engine](https://www.crestdata.ai/wp-content/uploads/2025/11/Google-K-Engine.png)",
+            "reasoning": "The presence of the Google Kubernetes Engine logo implies that Crest Data uses Google Kubernetes Engine for container orchestration.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Google Security Operations",
+            "category": "Security Operations",
+            "evidence": "![Google SecOps-up](https://www.crestdata.ai/wp-content/uploads/2026/02/Google-SecOps-up.png)",
+            "reasoning": "The presence of the Google Security Operations logo implies that Crest Data uses Google Security Operations for security operations.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Checkpoint",
+            "category": "Network Security",
+            "evidence": "![](https://www.crestdata.ai/wp-content/uploads/2025/11/checkpoint.jpg)",
+            "reasoning": "The presence of the Checkpoint logo implies that Crest Data uses Checkpoint for network security.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "AWS Security Hub",
+            "category": "Security Operations",
+            "evidence": "![](https://www.crestdata.ai/wp-content/uploads/2025/11/AWSSecurityHub.jpg)",
+            "reasoning": "The presence of the AWS Security Hub logo implies that Crest Data uses AWS Security Hub for security operations.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Hashicorp Consul",
+            "category": "Service Mesh",
+            "evidence": "![](https://www.crestdata.ai/wp-content/uploads/2025/11/Hashicorp-consul.png)",
+            "reasoning": "The presence of the Hashicorp Consul logo implies that Crest Data uses Hashicorp Consul for service mesh.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Palo Alto",
+            "category": "Network Security",
+            "evidence": "![](https://www.crestdata.ai/wp-content/uploads/2025/11/paloalto.jpg)",
+            "reasoning": "The presence of the Palo Alto logo implies that Crest Data uses Palo Alto for network security.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "IBM",
+            "category": "Technology Provider",
+            "evidence": "![](https://www.crestdata.ai/wp-content/uploads/2025/11/IBM.jpg)",
+            "reasoning": "The presence of the IBM logo implies that Crest Data uses IBM technology.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Crowdstrike",
+            "category": "Endpoint Security",
+            "evidence": "![](https://www.crestdata.ai/wp-content/uploads/2025/11/Crowdstrike.jpg)",
+            "reasoning": "The presence of the Crowdstrike logo implies that Crest Data uses Crowdstrike for endpoint security.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Nutanix",
+            "category": "Hyperconverged Infrastructure",
+            "evidence": "![](https://www.crestdata.ai/wp-content/uploads/2025/11/Nutanix.png)",
+            "reasoning": "The presence of the Nutanix logo implies that Crest Data uses Nutanix for hyperconverged infrastructure.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "AWS EKS",
+            "category": "Container Orchestration",
+            "evidence": "![AWS EKS logo](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20409%20231'%2F%3E)",
+            "reasoning": "The presence of the AWS EKS logo implies that Crest Data uses AWS EKS for container orchestration.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Amazon CloudWatch",
+            "category": "Monitoring",
+            "evidence": "![Amazon CloudWatch](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20409%20231'%2F%3E)",
+            "reasoning": "The presence of the Amazon CloudWatch logo implies that Crest Data uses Amazon CloudWatch for monitoring.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Datadog",
+            "category": "Monitoring",
+            "evidence": "![Datadog logo](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20409%20231'%2F%3E)",
+            "reasoning": "The presence of the Datadog logo implies that Crest Data uses Datadog for monitoring.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Monitoring",
+            "evidence": "![Dynatrace Logo](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20409%20231'%2F%3E)",
+            "reasoning": "The presence of the Dynatrace logo implies that Crest Data uses Dynatrace for monitoring.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Elastic",
+            "category": "Search and Analytics",
+            "evidence": "![Elastic](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20409%20231'%2F%3E)",
+            "reasoning": "The presence of the Elastic logo implies that Crest Data uses Elastic for search and analytics.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Grafana",
+            "category": "Visualization",
+            "evidence": "![Grafana logo](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20409%20231'%2F%3E)",
+            "reasoning": "The presence of the Grafana logo implies that Crest Data uses Grafana for visualization.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Nagios",
+            "category": "Monitoring",
+            "evidence": "![NAgios logo](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20409%20231'%2F%3E)",
+            "reasoning": "The presence of the Nagios logo implies that Crest Data uses Nagios for monitoring.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "New Relic",
+            "category": "Monitoring",
+            "evidence": "![New Relic logo](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20409%20231'%2F%3E)",
+            "reasoning": "The presence of the New Relic logo implies that Crest Data uses New Relic for monitoring.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Nginx",
+            "category": "Web Server",
+            "evidence": "![Nginx logo](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20409%20231'%2F%3E)",
+            "reasoning": "The presence of the Nginx logo implies that Crest Data uses Nginx for web server.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/technology/ecosystem"
+}

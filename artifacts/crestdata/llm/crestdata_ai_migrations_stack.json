@@ -1,0 +1,76 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Crest Data provides comprehensive enterprise migration services and purpose-build AI-driven tools that facilitate effortless transitions between various data analysis, and monitoring tools, with a focus on observability and security analytics use-cases. The New Relic to Datadog Migration Platform is an innovative Application designed to facilitate the seamless migration of visualizations from New Relic to Datadog.",
+            "reasoning": "Datadog is explicitly mentioned as a tool that Crest Data helps migrate to and from, indicating its usage in observability and security analytics.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Crest Data provides comprehensive enterprise migration services and purpose-build AI-driven tools that facilitate effortless transitions between various data analysis, and monitoring tools, with a focus on observability and security analytics use-cases. Crest Data has successfully migrated over 3000+ dashboard and alerts preserving complex monitoring logic to Dynatrace.",
+            "reasoning": "Dynatrace is explicitly mentioned as a tool that Crest Data helps migrate to, indicating its usage in observability and security analytics.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk",
+            "category": "SIEM",
+            "evidence": "Crest Data provides comprehensive enterprise migration services and purpose-build AI-driven tools that facilitate effortless transitions between various data analysis, and monitoring tools, with a focus on observability and security analytics use-cases. Crest Data offers migration services from Splunk to various platforms including Datadog, Dynatrace, and Amazon CloudWatch.",
+            "reasoning": "Splunk is explicitly mentioned as a tool that Crest Data helps migrate from, indicating its usage in SIEM and observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon CloudWatch",
+            "category": "Cloud Provider",
+            "evidence": "Crest Data offers migration services from Splunk to Amazon CloudWatch with a direct and secure transfer process that minimizes downtime.",
+            "reasoning": "Amazon CloudWatch is explicitly mentioned as a tool that Crest Data helps migrate to, indicating its usage in cloud monitoring.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Elastic",
+            "category": "Database",
+            "evidence": "Crest Data offers migration services from Splunk to Elastic with their state-of-the-art Migration Platform.",
+            "reasoning": "Elastic is explicitly mentioned as a tool that Crest Data helps migrate to, indicating its usage in data analytics.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Microsoft Sentinel",
+            "category": "SIEM",
+            "evidence": "Crest Data offers migration services from Splunk to Microsoft Sentinel with automation of dashboards, queries & visualizations.",
+            "reasoning": "Microsoft Sentinel is explicitly mentioned as a tool that Crest Data helps migrate to and from, indicating its usage in SIEM.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "New Relic",
+            "category": "Observability",
+            "evidence": "The New Relic to Datadog Migration Platform is an innovative Application designed to facilitate the seamless migration of visualizations from New Relic to Datadog.",
+            "reasoning": "New Relic is explicitly mentioned as a tool that Crest Data helps migrate from, indicating its usage in observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Crest Data migrated RegTech business applications to AWS Cloud for operational efficiency.",
+            "reasoning": "AWS is explicitly mentioned as a cloud provider used by Crest Data for migration services.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Crest Data implemented Intelligent SAM on ServiceNow for automated licensing and provisioning.",
+            "reasoning": "ServiceNow is explicitly mentioned as a tool used by Crest Data for IT service management.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Wazuh",
+            "category": "Threat Intelligence",
+            "evidence": "Crest Data extended threat intelligence reach with a native Wazuh integration.",
+            "reasoning": "Wazuh is explicitly mentioned as a tool used by Crest Data for threat intelligence.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/migrations"
+}

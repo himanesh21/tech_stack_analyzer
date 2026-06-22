@@ -1,0 +1,69 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Crest Data provides SRE consulting services backed by Certified SRE engineers with hands-on experience across AWS, Azure, GCP, OCI, and on-prem environments",
+            "reasoning": "The text mentions that Crest Data has experience with AWS, indicating that they likely use it as part of their services.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Azure",
+            "category": "Cloud Provider",
+            "evidence": "Crest Data provides SRE consulting services backed by Certified SRE engineers with hands-on experience across AWS, Azure, GCP, OCI, and on-prem environments",
+            "reasoning": "The text mentions that Crest Data has experience with Azure, indicating that they likely use it as part of their services.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "GCP",
+            "category": "Cloud Provider",
+            "evidence": "Crest Data provides SRE consulting services backed by Certified SRE engineers with hands-on experience across AWS, Azure, GCP, OCI, and on-prem environments",
+            "reasoning": "The text mentions that Crest Data has experience with GCP, indicating that they likely use it as part of their services.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "OCI",
+            "category": "Cloud Provider",
+            "evidence": "Crest Data provides SRE consulting services backed by Certified SRE engineers with hands-on experience across AWS, Azure, GCP, OCI, and on-prem environments",
+            "reasoning": "The text mentions that Crest Data has experience with OCI, indicating that they likely use it as part of their services.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Scaling Enterprise Sybase Monitoring Through Datadog Integration",
+            "reasoning": "The text mentions a case study about integrating Datadog, indicating that Datadog is used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Accelerating Dynatrace Migration for Better Observability and Business Outcomes",
+            "reasoning": "The text mentions a case study about migrating to Dynatrace, indicating that Dynatrace is used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Wazuh",
+            "category": "Threat Intelligence",
+            "evidence": "Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "The text mentions a case study about integrating Wazuh, indicating that Wazuh is used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CyberArk",
+            "category": "Privileged Access Management",
+            "evidence": "Improving Privileged Access Management Visibility and Governance with Datadog",
+            "reasoning": "The text mentions a case study about integrating CyberArk with Datadog, indicating that CyberArk is used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "The text mentions a case study about automating ServiceNow, indicating that ServiceNow is used by Crest Data.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/site/reliability/engineering/sre"
+}

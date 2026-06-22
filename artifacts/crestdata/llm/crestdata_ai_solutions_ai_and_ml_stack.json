@@ -1,0 +1,41 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "LangGraph",
+            "category": "AI Framework",
+            "evidence": "Built using modern agent frameworks such as LangGraph, LlamaIndex, and CrewAI",
+            "reasoning": "LangGraph is mentioned as one of the modern agent frameworks used by Crest Data for building Agentic AI solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "LlamaIndex",
+            "category": "AI Framework",
+            "evidence": "Built using modern agent frameworks such as LangGraph, LlamaIndex, and CrewAI",
+            "reasoning": "LlamaIndex is mentioned as one of the modern agent frameworks used by Crest Data for building Agentic AI solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CrewAI",
+            "category": "AI Framework",
+            "evidence": "Built using modern agent frameworks such as LangGraph, LlamaIndex, and CrewAI",
+            "reasoning": "CrewAI is mentioned as one of the modern agent frameworks used by Crest Data for building Agentic AI solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Accelerating Enterprise Observability with AI-Driven Migration to Dynatrace",
+            "reasoning": "Dynatrace is mentioned in the context of a case study where Crest Data accelerated enterprise observability with an AI-driven migration to Dynatrace.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Bedrock",
+            "category": "Cloud Provider",
+            "evidence": "Leveraging AWS Bedrock to develop a Multi-Agentic AI System for Netskope",
+            "reasoning": "AWS Bedrock is mentioned as being used by Crest Data for developing a Multi-Agentic AI System for Netskope.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/ai/and/ml"
+}

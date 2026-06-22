@@ -1,0 +1,1098 @@
+
+You are a technology due diligence analyst.
+
+Goal:
+Identify which headings are useful for discovering:
+
+- Technology Stack
+- Programming Languages
+- Frameworks
+- Cloud Platforms
+- DevOps Tools
+- Databases
+- AI/ML Technologies
+- Security Technologies
+- Engineering Capabilities
+
+Classify every heading into:
+
+1. KEEP
+   High technical value.
+
+2. REVIEW
+   Might contain technical information.
+
+3. DISCARD
+   Marketing, legal, contact,
+   FAQ, footer, testimonials,
+   privacy, careers, etc.
+
+Return STRICT JSON:
+
+{
+  "KEEP": [],
+  "REVIEW": [],
+  "DISCARD": []
+}
+
+HEADINGS:
+
+- Source URL
+- [Crest Data](https://www.crestdata.ai/author/admin/)
+- [Security](https://www.crestdata.ai/solutions/security/)
+- Capabilities
+- Product Engineering
+- AI & ML
+- Cloud & Infrastructure
+- Data Analytics
+- SRE
+- DevOps
+- MLOps
+- Security
+- Observability
+- Workflow Automation
+- Google SecOps
+- Datadog
+- Amazon CloudWatch
+- Dynatrace
+- ServiceNow
+- IBM QRadar
+- Elastic
+- Splunk
+- [Is Your Security Operations Mythos-Ready?](https://www.crestdata.ai/blogs/ai-vulnerability-storm-is-here-is-your-security-operations-mythos-ready/)
+- Neuwave AI-native
+- Neuwave Agentic AI
+- [Security and Observability Migrations](https://www.crestdata.ai/migrations/)
+- Blogs
+- Quick Start Datadog Observability
+- The Rise of Non-Human Identities
+- [Case Studies](https://www.crestdata.ai/case-studies/)
+- CDN Observability with Datadog
+- ServiceNow SAM Automation
+- Life at Crest
+- [Corporate Governance](https://www.crestdata.ai/corporate-governance/)
+- Empowering Innovation with Data-Driven Solutions
+- AI and ML
+- Cloud
+- Why Crest Data
+- Trusted by the world's most innovative companies
+- Testimonials
+- Sr. Director of Product Management, Datadog
+- Fortune 500 Hi-Tech Enterprise
+- Latest Updates
+- [You Wouldn’t Fly Blind, So Why Are Your LLM Applications Running Without Observability?](https://www.crestdata.ai/blogs/llm-observability-datadog-genai-production-guide/)
+- [Quick Start Your Datadog Observability Journey](https://www.crestdata.ai/blogs/llm-observability-quick-start-datadog/)
+- [Monitor Citrix DaaS Performance and User Experience with Crest Data and Datadog](https://www.crestdata.ai/blogs/monitor-citrix-daas-performance-and-user-experience-with-crest-data-and-datadog/)
+- Key Capabilities
+- Company Information
+- Contact Us
+- Advisor
+- Director, WW Technical Support
+- Director, Business Development
+- Director, Security Ecosystem and Solutions, US South East
+- Director, WW Technical Sales
+- Senior Director, US West Sales
+- Director, Marketing
+- Company Secretary and Compliance Officer
+- VP of Sales
+- Director, Business Development, US West
+- VP, Engineering
+- Director, Business Development​
+- Director, IT
+- Director, HR
+- Chief Financial Officer
+- Co-founder and Chief Techology Officer
+- Co-founder and Chief Executive Officer
+- Please enter your details to view the Data Sheet
+- Please enter your details to view the brochure
+- A Data & AI-Driven Partner for Cybersecurity and Observability
+- Crest Data is a data and AI-driven technology solutions provider for enterprises and technology innovators in Cybersecurity and Observability.
+- Our Mission
+- Our Vision
+- Customer First
+- Move Fast
+- Empower the Team
+- Equality
+- Continuous Learning
+- Our People are Our Core Strength
+- Meet our Leadership Team
+- Malhar Shah
+- Neha Shah
+- Nirav Thakkar
+- Colwin Fernandes
+- Mili Khamar
+- Kushal Shah
+- Devanshi Raichura
+- Neha Mashruwala
+- Damion Desai
+- Jeet Thakkar
+- Vance Cochrane
+- Mike Saurbaugh
+- Rishi Divate
+- Rajeev Goyal
+- Aditya Khetan
+- Customer Advisory Board
+- David Willis
+- Sumeet Mathur
+- [Crest Data](https://www.crestdata.ai/author/admin/ "Posts by Crest Data")
+- [Khushbu Jaha](https://www.crestdata.ai/author/crestdata/ "Posts by Khushbu Jaha")
+- We provide an opportunity to solve difficult problems creatively, and the infrastructure to ensure you are constantly developing.
+- We are Hiring!
+- Why work with Crest Data?
+- Our Culture
+- Case Studies
+- Accelerating Autonomous Driving Research
+- **Client Overview**
+- **Key Challenges**
+- **Crest Data Solution**
+- **Custom MLOps Infrastructure**
+- **Research Acceleration**
+- **Advanced Data Labeling**
+- **Implementation Approach**
+- **Business Impact**
+- **Technologies Leveraged**
+- Accelerating Dynatrace Migration for Better Observability and Business Outcomes
+- **Executive Summary
+- **About the Customer**
+- **Customer Challenge**
+- **Proposed Solution**
+- **Outcomes & Success Metrics**
+- **Efficiency Gains:**
+- **Key Takeaways:**
+- **About Crest Data**
+- Accelerating Enterprise Observability with AI-Driven Migration to Dynatrace
+- **Migration Efficiency**
+- **Operational Impact**
+- **Unified Observability**
+- **AI-Driven Outcomes**
+- **Why Crest Data for Dynatrace Migration**
+- Generating High-Quality Labeled Datasets for AI-enabled Threat Detection through Expert-Led Security Annotation
+- Executive Summary
+- **Customer Solution**
+- **Outcomes**
+- Anomaly Detection of Enterprise Web Traffic for a Technology Company
+- **Executive Summary**
+- Isolation Forest efficiently isolates anomalies through isolation trees. It’s suited for unsupervised tasks as it doesn’t require prior knowledge.
+- A high-quality training dataset is vital. Sources include:
+- Data cleaning ensures model accuracy and reliability
+- Key steps in training the anomaly detection model:
+- **Conclusion**
+- Delivering High-Availability Business Applications Through a Resilient AWS Architecture
+- **Why AWS Over LiquidWeb?**
+- **Architecture Implementation** :
+- **Environment Setup**
+- **Networking**
+- **Database and Application Layer**
+- **Security & Access Control**
+- **Automation & Observability**
+- **Infrastructure Automation**
+- **Monitoring & Logging**
+- **Centralized Observability**
+- **DevSecOps Best Practices**
+- **Why AWS?**
+- **High Availability:**
+- **Security:**
+- **Operational Efficiency:**
+- **Observability:**
+- Strengthening CDN Observability and Digital Experience Visibility for Retail with Datadog
+- **Key challenges included:**
+- **Unified CDN Visibility**
+- **Performance Monitoring and Experience Assurance**
+- **Incident Detection and Operational Response**
+- **Cache Visibility and Origin Protection**
+- **Security and Traffic Risk Monitoring**
+- **Outcomes and Business Impact**
+- **Centralized Visibility**
+- **Improving Campaign Readiness**
+- **Faster Incident Detection and Resolution**
+- **Improved Customer Experience Oversight**
+- **Better Cache and Origin Efficiency**
+- **Stronger Security Context**
+- **Scalable Operations**
+- Dexter.ai – AI-Powered Code Smell Remediator
+- **Problem Overview**
+- **1. Detecting Code Smells**
+- **2. Tracking Dynamic Updates in the Code**
+- **3. Providing Context-Aware AI Fix Suggestions**
+- **4. Balancing Automation with Developer Control**
+- **5.Ensuring Compatibility with Multiple IDEs and Linting Tools**
+- **6.Handling Different Programming Languages and Frameworks**
+- **7.Providing Accurate and Meaningful AI Fixes for Complex Code Smells**
+- **8.Performance and Scalability**
+- **9.Ensuring Security and Privacy of Code**
+- **10.Continuous Improvement of AI Models**
+- Dexter.ai acts as an assistant in the code remediation process rather than an automatic fixer. Here’s how it operates:
+- Dexter.ai not only saves developers valuable time but also contributes to long-term improvements in code quality and maintainability. Here are the key benefits:
+- **Value Addition**
+- **Key Metrics and Benefits Summary:**
+- Enhancing SRE Operations for a Unicorn Security Startup with an AI-Powered Chat Application
+- Modernizing Enterprise DevSecOps with an AI-Enabled, Multi-Tenant AWS Platform
+- **Outcomes & Success Metrics
+- Enabling Enterprise-Scale Threat Investigations with a Browser-Based Intelligence Extension
+- **Implementation**
+- **Inline Indicator Investigation**
+- **Extension Popup for Holistic Page Analysis**
+- **Reduced Context Switching**
+- **Faster Threat Validation**
+- **Improved Analyst Productivity**
+- **Enhanced Intelligence Enrichment**
+- **Persistence context storage**
+- The MSSP Portal Cloud Operations Solution
+- **Introduction**
+- **Problem Statement / Definition**
+- **Proposed Solution & Architecture**
+- **Why AWS**
+- **Outcomes of Project & Success Metrics**
+- Leveraging High-Volume Alerts to Derive Actionable Insights with Multi-Agentic AI Solution
+- **Specialized Agent Architecture**
+- **Agent Orchestration System**
+- **Multi-Agent Implementation Approach**
+- Operationalize Twitter’s Observability Infrastructure
+- To enhance visibility and ensure reliability, Crest Data provided a comprehensive solution for managing Twitter’s Observability and Splunk Infrastructure.
+- **Business Challenge**
+- **The Crest Difference**
+- Driving RegTech Business Growth and Operational Efficiency Through AWS Cloud Migration
+- **Infrastructure Automation:**
+- **Monitoring** :
+- **Security Best Practices** :
+- **Scalability & Flexibility:**
+- **Security & Compliance:**
+- **High Availability & Disaster Recovery:**
+- **Cost Optimization:**
+- **Agility & Faster Deployments:**
+- **Enhanced Security & Compliance:**
+- **Disaster Recovery Readiness:**
+- Revolutionizing IT Helpdesk with Generative AI
+- **The Challenge**
+- Crest Data addressed these challenges with a multi-faceted AI chatbot solution, focusing on:
+- Critical to the project’s success was addressing the risk of AI “hallucinations.” Crest Data’s strategy included:
+- **Technology Stack**
+- **Results and Benefits**
+- Scaling Enterprise Sybase Monitoring Through Datadog Integration
+- **Performance Monitoring**
+- **Monitoring and Alerting**
+- **Audit and Error Visibility**
+- Scaling Business Operations with a Secure AWS Cloud Platform and Advanced Identity Management
+- Environment Setup
+- Networking
+- Database Layer
+- Security & Access Control
+- Infrastructure Automation
+- Monitoring & Logging
+- Centralized Observability
+- DevSecOps Best Practices
+- Security:
+- Operational Efficiency:
+- Observability:
+- Intelligent SAM on ServiceNow: Automated Licensing & Provisioning
+- **Automation Process Flow:**
+- Improving Privileged Access Management Visibility and Governance with Datadog
+- Strengthening Privileged Access Management Visibility and Governance with Datadog
+- Extending Threat Intelligence Reach with a Native Wazuh Integration
+- **What Mutual Customers Were Missing**
+- **1. No Automated IOC Contextualization in Wazuh**
+- **2. File Events Without MITRE ATT &CK Context**
+- **3. CVEs Without Exploit Intelligence**
+- **A Production-Ready Threat Intelligence Integration for Wazuh**
+- **IOC Ingestion Engine**
+- **Alert Enrichment**
+- **IOC Enrichment**
+- **File MITRE ATT &CK Mapping**
+- **Vulnerability Exploit Intelligence**
+- **Custom Ruleset & Installer**
+- **Ecosystem Reach**
+- **Faster SOC Triage**
+- **Stronger Customer Outcomes**
+- **Analyst Efficiency**
+- Mastering Distributed Security with Real-Time Federated Monitoring and Automated Deployment for Global XDR
+- Delivering Resilient Cloud Infrastructure Services for Enterprise Transformation
+- As enterprises embark on a digital transformation journey,
+- Why Crest for Cloud and Infrastructure Services?
+- [ Unparalleled High Availability and Resilience ](https://www.crestdata.ai/solutions/cloud-and-infrastructure/#collapse-8571)
+- [ Significant Infrastructure and Operational Cost Savings ](https://www.crestdata.ai/solutions/cloud-and-infrastructure/#collapse-8572)
+- [ Enterprise-Grade Security and Continuous Compliance ](https://www.crestdata.ai/solutions/cloud-and-infrastructure/#collapse-8573)
+- [ Rapid Provisioning and Accelerated Time-to-Market ](https://www.crestdata.ai/solutions/cloud-and-infrastructure/#collapse-8574)
+- Comprehensive Cloud Solutions
+- Managed Services
+- Migrations
+- AI-SRE
+- CASE STUDIES
+- [ How does Crest Data help enterprises modernize cloud and infrastructure environments? ](https://www.crestdata.ai/solutions/cloud-and-infrastructure/#collapse-7341)
+- [ Does Crest Data support multi-cloud and hybrid cloud environments? ](https://www.crestdata.ai/solutions/cloud-and-infrastructure/#collapse-7342)
+- [ What cloud and infrastructure technologies does Crest Data specialize in? ](https://www.crestdata.ai/solutions/cloud-and-infrastructure/#collapse-7343)
+- [ How does Crest Data improve infrastructure reliability and operational performance? ](https://www.crestdata.ai/solutions/cloud-and-infrastructure/#collapse-7344)
+- [ Does Crest Data provide infrastructure automation and DevOps services? ](https://www.crestdata.ai/solutions/cloud-and-infrastructure/#collapse-7345)
+- [ How does Crest Data help enterprises optimize cloud operations and infrastructure costs? ](https://www.crestdata.ai/solutions/cloud-and-infrastructure/#collapse-7346)
+- [ Does Crest Data provide ongoing cloud operations and managed infrastructure support? ](https://www.crestdata.ai/solutions/cloud-and-infrastructure/#collapse-7347)
+- [ What makes Crest Data different from other cloud and infrastructure service providers? ](https://www.crestdata.ai/solutions/cloud-and-infrastructure/#collapse-7348)
+- Start Your Journey with Us
+- Crest Data helps you build and deploy platforms and applications across
+- Our Approach to Cloud Migration
+- Assessment
+- Migration
+- Readiness and Planning
+- Support and Optimization
+- Our Cloud Migration Professional Services
+- Infrastructure Migration
+- Data Migration
+- Platform Migration
+- Application Migration
+- Why Choose Crest Data?
+- [ Extensive Migration Experience ](https://www.crestdata.ai/solutions/cloudops/cloud-migration/#collapse-2381)
+- [ Mature and Reliable Migration Process ](https://www.crestdata.ai/solutions/cloudops/cloud-migration/#collapse-2382)
+- [ Customer-Centric Approach ](https://www.crestdata.ai/solutions/cloudops/cloud-migration/#collapse-2383)
+- Our proven KPIs while migrating to Cloud
+- Contact our Experts!
+- Send a message
+- San Jose, California,
+- Ahmedabad, Gujarat,
+- Pune, Maharashtra,
+- Contact us
+- Careers
+- Feedbacks
+- info@crestdata.ai
+- At Crest Data
+- We are committed to upholding the highest standards of corporate governance to ensure transparency, accountability, & ethical business practices.
+- ANNUAL RETURNS
+- CORPORATE SOCIAL RESPONSIBILITY
+- Trusted by Worlds Most Innovative Companies
+- Enabling Enterprises with Scalable Data Platforms and Advanced Analytics
+- Crest Data delivers enterprise data analytics services
+- Why Crest Data for Data Analytics Solutions?
+- [ Measurable Performance Improvements ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-8571)
+- [ Real-Time & High-Performance Analytics ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-8572)
+- [ Cost Optimization & Efficiency ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-8573)
+- [ Strong Technology & Strategic Partnerships ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-8574)
+- [ Security & Compliance Focused ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-8575)
+- Data Strategy & Consulting
+- Data Science & Machine Learning
+- Data Engineering & Advanced Analytics
+- Security Data Analytics
+- AI for IT Operations (AIOps)
+- Data Analytics Integrations
+- Our Experiences Define Our Identity
+- [ How does Crest Data help enterprises modernize data and analytics environments? ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-1081)
+- [ What data and analytics services does Crest Data provide? ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-1082)
+- [ Does Crest Data support cloud-native data platforms and modern analytics architectures? ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-1083)
+- [ How does Crest Data help enterprises scale real-time analytics and operational intelligence? ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-1084)
+- [ Does Crest Data support AI and machine learning initiatives through data engineering? ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-1085)
+- [ How does Crest Data improve enterprise data reliability and governance? ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-1086)
+- [ Does Crest Data provide end-to-end data modernization and managed analytics services? ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-1087)
+- [ What makes Crest Data different from other enterprise data and analytics service providers? ](https://www.crestdata.ai/solutions/data-and-analytics/#collapse-1088)
+- Advanced Security and Real-time Observability
+- Key
+- Integration Requirements
+- Maximize the performance and security
+- Key Benefits
+- Use-Cases
+- Comprehensive Cloud Security and Real-time Observability
+- Data Sheets
+- AI-Driven Google SecOps Services for Scalable, Automated Security Operations
+- Google SecOps is a unified, cloud-native security operations platform
+- Why Crest Data for Google SecOps?
+- [ 5000+ Integrations Delivered ](https://www.crestdata.ai/solutions/google-secops/#collapse-1011)
+- [ 100+ Customers Rely on Our Gold Parsers ](https://www.crestdata.ai/solutions/google-secops/#collapse-1012)
+- [ End-to-End Services ](https://www.crestdata.ai/solutions/google-secops/#collapse-1013)
+- [ Agentic AI Leadership ](https://www.crestdata.ai/solutions/google-secops/#collapse-1014)
+- [ Reduced Alert Fatigue ](https://www.crestdata.ai/solutions/google-secops/#collapse-1015)
+- Our Google SecOps Offerings
+- Gold Parsers
+- Content Packs
+- Back Office Portal Development
+- User Interface (UI) Enhancement
+- Native Dashboard Migration & ML Parsing
+- Third-Party SIEM Integration
+- API Migration
+- GCP Secret Migration
+- Integration Development
+- Playbook Creation & Delivery
+- Implementation Services
+- Integration Development Services
+- Migration Services
+- Optimization Services
+- Custom Solutions
+- Security Expertise
+- Agentic AI Enablement
+- Ongoing Support & Maintenance
+- [ How does Crest Data help organizations get more value from Google SecOps? ](https://www.crestdata.ai/solutions/google-secops/#collapse-2061)
+- [ How does Crest Data improve threat detection within Google SecOps? ](https://www.crestdata.ai/solutions/google-secops/#collapse-2062)
+- [ How does Crest Data help reduce operational complexity in security operations? ](https://www.crestdata.ai/solutions/google-secops/#collapse-2063)
+- [ How does Crest Data help organizations maximize the value of Google SecOps across their security ecosystem? ](https://www.crestdata.ai/solutions/google-secops/#collapse-2064)
+- [ What makes Crest Data different from other Google SecOps service providers? ](https://www.crestdata.ai/solutions/google-secops/#collapse-2065)
+- [ How can Crest Data help with Google SecOps implementation? ](https://www.crestdata.ai/solutions/google-secops/#collapse-2066)
+- [ Can Crest Data migrate from Splunk, QRadar, Sentinel, or other SIEM platforms to Google SecOps? ](https://www.crestdata.ai/solutions/google-secops/#collapse-2067)
+- [ What should organizations consider before migrating to Google SecOps? ](https://www.crestdata.ai/solutions/google-secops/#collapse-2068)
+- Real-Time Threat Detection and Deep Security Visibility with Expert IBM QRadar Services
+- Crest Data offers comprehensive IBM QRadar Services
+- Why Crest Data for IBM QRadar Services?
+- [ Advanced Automation and Reduced MTTD ](https://www.crestdata.ai/solutions/ibm-qradar/#collapse-4261)
+- [ Accelerated Time-to-Value & Deployment ](https://www.crestdata.ai/solutions/ibm-qradar/#collapse-4262)
+- [ Zero-Disruption Migration Framework ](https://www.crestdata.ai/solutions/ibm-qradar/#collapse-4263)
+- [ Significant Operational Cost Savings ](https://www.crestdata.ai/solutions/ibm-qradar/#collapse-4264)
+- IBM QRadar Implementation Services
+- IBM QRadar Migration
+- IBM QRadar Integration Services
+- IBM QRadar Managed Services
+- [ How does Crest Data help organizations maximize the value of IBM QRadar? ](https://www.crestdata.ai/solutions/ibm-qradar/#collapse-2081)
+- [ How does Crest Data improve threat detection within QRadar? ](https://www.crestdata.ai/solutions/ibm-qradar/#collapse-2082)
+- [ Does Crest Data provide QRadar health checks and platform optimization services? ](https://www.crestdata.ai/solutions/ibm-qradar/#collapse-2083)
+- [ What makes Crest Data different from other IBM QRadar service providers? ](https://www.crestdata.ai/solutions/ibm-qradar/#collapse-2084)
+- [ Can Crest Data integrate IBM QRadar with other security and IT platforms? ](https://www.crestdata.ai/solutions/ibm-qradar/#collapse-2085)
+- Ahmedabad/Pune
+- Apply now
+- Ahmedabad
+- Pune/Ahmedabad
+- Remote/Ahmedabad/Pune
+- Technical Sales Engineer
+- We accelerate and automate security operations and incident resolution by orchestration of security resources and integrating disparate security systems on SOAR Platforms.
+- Our SOAR Services
+- Security Orchestration
+- Security Automation
+- Incident Management and Collaboration
+- Leverage Innovative Enterprise Migration Services Engineered for Secured and Seamless Transitions
+- Inclusive Migration Services for Enterprises
+- Why Crest for Enterprise Migrations?
+- [ Accelerated Time-to-Value via Proprietary Automation ](https://www.crestdata.ai/migrations/#collapse-2411)
+- [ High-Precision Migration at Enterprise Scale ](https://www.crestdata.ai/migrations/#collapse-2412)
+- [ Rapid Deployment and Minimal Business Disruption ](https://www.crestdata.ai/migrations/#collapse-2413)
+- [ Embedded Security and Continuous Compliance ](https://www.crestdata.ai/migrations/#collapse-2414)
+- Splunk to Datadog
+- Splunk to Dynatrace
+- Splunk to Amazon CloudWatch
+- New Relic to Datadog
+- Splunk to Elastic
+- Elasticsearch to Splunk
+- Splunk To Microsoft Sentinel
+- Microsoft Sentinel to Any platform
+- We have deep expertise and experience in providing high-performance services for many leaders in the Gartner Magic Quadrant in the observability and security space
+- Effortlessly Transition from New Relic to Datadog
+- The New Relic to Datadog Migration Platform is an innovative Application designed to facilitate the seamless migration of visualizations from New Relic to Datadog.
+- Automated Conversion
+- Query Translation
+- Flexible Migration Options
+- Success-Based Billing
+- Comprehensive Reports
+- Product Snapshots
+- System with Greater than 50 Memory Usage
+- Minimum Process Count by Services
+- Disk Usage Statistics
+- [ Expertise ](https://www.crestdata.ai/new-relic-to-datadog-migration/#collapse-1061)
+- [ Efficiency ](https://www.crestdata.ai/new-relic-to-datadog-migration/#collapse-1062)
+- [ Customer Support ](https://www.crestdata.ai/new-relic-to-datadog-migration/#collapse-1063)
+- [ Future-Ready ](https://www.crestdata.ai/new-relic-to-datadog-migration/#collapse-1064)
+- Webinar on Migrating from Legacy
+- Splunk to Datdog
+- [ What is New Relic and what does it do? ](https://www.crestdata.ai/new-relic-to-datadog-migration/#collapse-1231)
+- [ Is New Relic free, and how is it priced? ](https://www.crestdata.ai/new-relic-to-datadog-migration/#collapse-1232)
+- [ What are the main observability platforms considered alongside New Relic? ](https://www.crestdata.ai/new-relic-to-datadog-migration/#collapse-1233)
+- [ Can my New Relic dashboards and NRQL queries be automatically converted to Datadog? ](https://www.crestdata.ai/new-relic-to-datadog-migration/#collapse-1234)
+- [ How does the New Relic to Datadog migration process work? ](https://www.crestdata.ai/new-relic-to-datadog-migration/#collapse-1235)
+- Getting Started
+- Sign Up
+- This Privacy Statement is effective as of July 2019
+- This Privacy Statement applies to all personal information we collect about you
+- We collect and process several types of personal information we receive from you depending on the ways you interact with us.
+- To understand the navigational trends on our website, we use third-party analytics tools which collect information which your browser sends when you visit our web page.
+- We want to know you better, so we can serve you better. But the choice of whether you want this kind of service is of course up to you.
+- We do not sell or license your personal information to third parties.
+- We recognize our responsibility to protect the personal information we collect. We make sure that our measures are in compliance with applicable data protection and data security laws.
+- We retain your personal information as long as it is necessary to fulfill the specific purposes, as explained under the section “Why do we collect your personal information”
+- International transfers to third parties
+- To unsubscribe from our communications
+- Attention:
+- Updates to this statement
+- Contact Information
+- Precision-Engineered AI Products for Enterprises
+- Neuwave is an AI-native product suite
+- Why Enterprises Choose Neuwave AI-native Products
+- [ Proven Scale & Expertise ](https://www.crestdata.ai/products/neuwave/#collapse-3701)
+- [ Accelerated Time-to-Market ](https://www.crestdata.ai/products/neuwave/#collapse-3702)
+- [ Significant Cost Efficiency ](https://www.crestdata.ai/products/neuwave/#collapse-3703)
+- [ High Accuracy & Quality ](https://www.crestdata.ai/products/neuwave/#collapse-3704)
+- [ Enterprise-Grade Automation ](https://www.crestdata.ai/products/neuwave/#collapse-3705)
+- [ Multi-Platform Compatibility ](https://www.crestdata.ai/products/neuwave/#collapse-3706)
+- Our AI-native Product Suite
+- Integration Fabric
+- Security Operations
+- Infra Operations
+- Accelerating Enterprise Operations with ServiceNow Workflow Automation
+- Crest Data enables organizations to run business-critical workflows through ServiceNow with speed and precision.
+- Why Crest Data for ServiceNow Solutions?
+- [ ServiceNow-Focused Delivery ](https://www.crestdata.ai/solutions/servicenow/#collapse-1001)
+- [ Deep Integration Engineering ](https://www.crestdata.ai/solutions/servicenow/#collapse-1002)
+- [ Performance-First Solutions ](https://www.crestdata.ai/solutions/servicenow/#collapse-1003)
+- [ CMDB & Service Graph Expertise ](https://www.crestdata.ai/solutions/servicenow/#collapse-1004)
+- Custom Workflow Development
+- IT Service Management
+- Finance Workflows
+- Legal Workflows
+- HR Workflows
+- Security Incident & Threat Intel Workflows
+- Vulnerability Response Workflows
+- Governance, Risk & ComplianceWorkflows
+- Operational Technology (OT) Workflows
+- [ Why choose Crest Data as your ServiceNow implementation partner? ](https://www.crestdata.ai/solutions/servicenow/#collapse-2081)
+- [ How does Crest Data help organizations automate workflows with ServiceNow? ](https://www.crestdata.ai/solutions/servicenow/#collapse-2082)
+- [ Does Crest Data provide ServiceNow integration services? ](https://www.crestdata.ai/solutions/servicenow/#collapse-2083)
+- [ How does Crest Data help organizations leverage AI and automation within ServiceNow? ](https://www.crestdata.ai/solutions/servicenow/#collapse-2084)
+- [ What is Crest Data's expertise in improving ITSM and service operations with ServiceNow? ](https://www.crestdata.ai/solutions/servicenow/#collapse-2085)
+- [ What makes Crest Data different from other ServiceNow service providers? ](https://www.crestdata.ai/solutions/servicenow/#collapse-2086)
+- [ How does Crest Data help organizations integrate ServiceNow with their enterprise technology ecosystem? ](https://www.crestdata.ai/solutions/servicenow/#collapse-2087)
+- Leveraging Software Product Engineering to Drive Enterprise Innovation and Market Leadership
+- Inclusive software product engineering services
+- Why Crest Data for Software Product Engineering?
+- [ Proven Operational Excellence and Massive Cost Optimization ](https://www.crestdata.ai/solutions/software-product-engineering/#collapse-8571)
+- [ Accelerated Time-to-Market with Agile Excellence ](https://www.crestdata.ai/solutions/software-product-engineering/#collapse-8572)
+- [ Proven Enterprise-scale Delivery ](https://www.crestdata.ai/solutions/software-product-engineering/#collapse-8573)
+- [ Deep Expertise in AI-Infused Engineering ](https://www.crestdata.ai/solutions/software-product-engineering/#collapse-8574)
+- [ Enterprise-Grade Security, Scalability and Compliance ](https://www.crestdata.ai/solutions/software-product-engineering/#collapse-8575)
+- Enterprise Integrations​
+- Custom Application Development
+- Enterprise Migrations
+- Integrated DevOps Services
+- MCP Solutions
+- [ How does Crest Data accelerate product development and time-to-market? ](https://www.crestdata.ai/solutions/software-product-engineering/#collapse-2561)
+- [ Does Crest Data support AI-driven product engineering? ](https://www.crestdata.ai/solutions/software-product-engineering/#collapse-2562)
+- [ Does Crest Data provide enterprise integration services? ](https://www.crestdata.ai/solutions/software-product-engineering/#collapse-2563)
+- [ What technologies and engineering approaches does Crest Data specialize in? ](https://www.crestdata.ai/solutions/software-product-engineering/#collapse-2564)
+- [ Does Crest Data provide post-deployment support and managed services? ](https://www.crestdata.ai/solutions/software-product-engineering/#collapse-2565)
+- [ How does Crest Data reduce engineering and operational overhead? ](https://www.crestdata.ai/solutions/software-product-engineering/#collapse-2566)
+- [ How does Crest Data ensure security throughout the product engineering lifecycle? ](https://www.crestdata.ai/solutions/software-product-engineering/#collapse-2567)
+- AI-first, Security-led Enterprise Solutions Built for enterprise growth
+- Crest Data Solutions delivers
+- Why Enterprises Choose Crest Data?
+- [ AI-First Engineering DNA ](https://www.crestdata.ai/solutions/#collapse-8571)
+- [ Proven at Enterprise Scale ](https://www.crestdata.ai/solutions/#collapse-8572)
+- [ Accelerated Time-to-Value ](https://www.crestdata.ai/solutions/#collapse-8573)
+- [ Operational Excellence ](https://www.crestdata.ai/solutions/#collapse-8574)
+- [ Cost Optimization at Scale ](https://www.crestdata.ai/solutions/#collapse-8575)
+- [ Full-Lifecycle Ownership ](https://www.crestdata.ai/solutions/#collapse-8576)
+- Our Platform Expertise
+- Build intelligent, autonomous AI Agents services that reason, act, and scale securely across your organization
+- AI Agents represent the next evolution of enterprise automation systems
+- Why Crest Data for AI Agents?
+- [ Production-Ready in Weeks ](https://www.crestdata.ai/solutions/ai-agents/#collapse-7101)
+- [ Enterprise-Grade Integrations ](https://www.crestdata.ai/solutions/ai-agents/#collapse-7102)
+- [ Multi-Agent Expertise ](https://www.crestdata.ai/solutions/ai-agents/#collapse-7103)
+- [ Cost-Optimized Architectures ](https://www.crestdata.ai/solutions/ai-agents/#collapse-7104)
+- [ Measurable Business Impact ](https://www.crestdata.ai/solutions/ai-agents/#collapse-7105)
+- Agentic AI Consulting & Requirements Analysis
+- Architecture Design
+- Tool Integration (MCP)
+- Reasoning Implementation
+- Deployment & Optimization
+- End-to-End Enterprise AI Solutions Across Data, AI Models, and Autonomous Systems Delivering Measurable AI Outcomes
+- Artificial intelligence is becoming foundational to modern enterprise and security operations,
+- Why Crest Data for AI-driven Solutions?
+- [ Proven Enterprise Impact ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8571)
+- [ Faster Time to Value ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8572)
+- [ Deep Domain Expertise ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8573)
+- [ Responsible & Secure AI ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8574)
+- [ Scalable at Enterprise Scale ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8575)
+- [ Measurable ROI ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8576)
+- Agentic AI
+- Generative AI
+- Machine Learning
+- Data Annotation
+- Model Context Protocol (MCP)
+- Agentic Workflows
+- [ How does Crest Data improve enterprise operations using AI-led intelligence? ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8831)
+- [ Does Crest Data provide enterprise AI automation services? ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8832)
+- [ Does Crest Data develop AI agents and agentic workflows? ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8833)
+- [ Does Crest Data support AI integration with enterprise platforms and cloud ecosystems? ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8834)
+- [ How does Crest Data help enterprises operationalize and scale machine learning environments? ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8835)
+- [ What makes Crest Data different from other enterprise AI and ML service providers? ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8836)
+- [ What is Model Context Protocol (MCP), and how does it help enterprise AI? ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8837)
+- [ How can AI help improve cybersecurity and security operations? ](https://www.crestdata.ai/solutions/ai-and-ml/#collapse-8838)
+- Scale enterprise observability with AI-driven Amazon CloudWatch services
+- As an Amazon Web Services Advanced Services Partner, with the AWS Cloud Operations Competency in Monitoring and Observability,
+- Why Crest Data for Amazon CloudWatch?
+- [ AWS Cloud Operations Competency (Monitoring & Observability) ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-2091)
+- [ 100+ Successful Migrations ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-2092)
+- [ Up to 60% Faster & More Cost-Effective Migrations ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-2093)
+- [ Multi-Vendor Integration Expertise Across 300+ Technologies ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-2094)
+- [ Reduced Risk, Zero Disruption Approach ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-2095)
+- [ End-to-End Ownership ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-2096)
+- Implementation
+- Custom Integration Development
+- AWS Marketplace Offerings
+- Splunk to Amazon CloudWatch Migrations
+- Blog on Migrations to CloudWatch
+- [ How does Crest Data help enterprises optimize existing Amazon CloudWatch environments? ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-1971)
+- [ Does Crest Data provide Amazon CloudWatch assessments? ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-1972)
+- [ How does Crest Data improve alerting and incident response in CloudWatch? ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-1973)
+- [ Can Crest Data help reduce Amazon CloudWatch monitoring costs? ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-1974)
+- [ Does Crest Data build custom CloudWatch dashboards for enterprise operations teams? ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-1975)
+- [ How does Crest Data support CloudWatch for AWS modernization initiatives? ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-1976)
+- [ Does Crest Data provide ongoing Amazon CloudWatch managed services? ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-1977)
+- [ What makes Crest Data different from other Amazon CloudWatch service providers? ](https://www.crestdata.ai/solutions/amazon-cloudwatch/#collapse-1978)
+- Machine learning service by Amazon Web Services, streamlining the
+- Enabling Seamless and Cost-Effective Machine Learning Operations
+- Unified Data Preparation and Exploration
+- Enhanced Model Development and Training
+- Collaborative Version Control
+- Streamlined Model Deployment
+- CI/CD Integration for Automation
+- Proactive Monitoring and Performance Management
+- Robust Security and Compliance
+- Effortless Model Retraining and Updates
+- Model Governance and Auditability
+- We help you build, deploy and manage platforms across hybrid multi-cloud infrastructure to maximize ROI.
+- Reliable, Scalable, and Efficient Cloud Operations Management
+- Cloud Migration
+- Cloud Infrastructure Management
+- Cloud Application Management
+- Cloud Cost Optimization
+- Benefits We Deliver
+- [ Improved Efficiency ](https://www.crestdata.ai/solutions/cloudops/#collapse-2161)
+- [ Cost Savings ](https://www.crestdata.ai/solutions/cloudops/#collapse-2162)
+- [ Scalability ](https://www.crestdata.ai/solutions/cloudops/#collapse-2163)
+- [ Increased Reliability ](https://www.crestdata.ai/solutions/cloudops/#collapse-2164)
+- Transform raw enterprise data into AI-ready intelligence with secure, domain-driven data labeling at scale.
+- High-quality labeled data is the foundation of high-performing AI systems.
+- Why Crest Data for Data Labeling?
+- [ Proven Scale & Volume ](https://www.crestdata.ai/solutions/data-labeling-services/#collapse-5241)
+- [ Measurable Model Impact ](https://www.crestdata.ai/solutions/data-labeling-services/#collapse-5242)
+- [ Deep Domain Expertise ](https://www.crestdata.ai/solutions/data-labeling-services/#collapse-5243)
+- [ Enterprise-Grade Security ](https://www.crestdata.ai/solutions/data-labeling-services/#collapse-5244)
+- [ Custom-Built Annotation Pipelines ](https://www.crestdata.ai/solutions/data-labeling-services/#collapse-5245)
+- Security and Confidentiality
+- Domain Preprocessing
+- Expert Annotation Services
+- Custom Annotation Pipelines
+- Rigorous Quality Assurance
+- Accelerate Your Data Innovation with Crest Databricks Solutions
+- Unlock the full potential of your data with Crest Data Databricks services
+- Custom AI & Machine Learning Solutions
+- Implementation & Integration
+- Maximize Datadog performance with expert-led observability, security, and automation
+- Crest Data is an Advanced Datadog partner
+- Why Crest Data?
+- [ Marketplace Leadership ](https://www.crestdata.ai/solutions/datadog/#collapse-1861)
+- [ Accelerated Migrations ](https://www.crestdata.ai/solutions/datadog/#collapse-1862)
+- [ Quick Start Services ](https://www.crestdata.ai/solutions/datadog/#collapse-1863)
+- [ Measurable Cost Optimization ](https://www.crestdata.ai/solutions/datadog/#collapse-1864)
+- [ Enterprise-Scale Security Expertise ](https://www.crestdata.ai/solutions/datadog/#collapse-1865)
+- [ End-to-End Managed Support ](https://www.crestdata.ai/solutions/datadog/#collapse-1866)
+- Implementations
+- Integrations
+- Quick Start services to fast-track LLM and full-stack observability into production in weeks
+- Unlock the full potential of Datadog with seamless integrations powered by Crest Data’s Datadog Marketplace Apps
+- Dell EMC Isilon Integration with Datadog
+- Microsoft 365 Defender Integration with Datadog
+- Datadog Marketplace
+- [ How does Crest Data help organizations maximize their Datadog investment? ](https://www.crestdata.ai/solutions/datadog/#collapse-1181)
+- [ How does Crest Data improve observability across cloud-native environments with Datadog? ](https://www.crestdata.ai/solutions/datadog/#collapse-1182)
+- [ Does Crest Data provide AI Observability services for Datadog? ](https://www.crestdata.ai/solutions/datadog/#collapse-1183)
+- [ How does Crest Data help organizations implement LLM Observability with Datadog? ](https://www.crestdata.ai/solutions/datadog/#collapse-1184)
+- [ How does Crest Data help organizations unify observability across cloud, applications, and AI workloads with Datadog? ](https://www.crestdata.ai/solutions/datadog/#collapse-1185)
+- [ What makes Crest Data different from other Datadog service providers? ](https://www.crestdata.ai/solutions/datadog/#collapse-1186)
+- [ Can Crest Data migrate from Splunk, New Relic, Dynatrace, AppDynamics, or other monitoring platforms to Datadog? ](https://www.crestdata.ai/solutions/datadog/#collapse-1187)
+- [ Why do organizations choose Crest Data for Datadog integrations? ](https://www.crestdata.ai/solutions/datadog/#collapse-1188)
+- Foster Agility Through DevOps and Automation Services Ensuring Faster Time-to-Market Product Delivery
+- To stay competitive in this dynamic marketplace, enterprises must expedite product delivery.
+- Why Crest Data for DevOps & Automation?
+- [ Accelerated Time-to-Market and Agility ](https://www.crestdata.ai/solutions/dev-ops-services/#collapse-1811)
+- [ Enterprise-scale DevSecOps Maturity ](https://www.crestdata.ai/solutions/dev-ops-services/#collapse-1812)
+- [ Operational Excellence and Reliability ](https://www.crestdata.ai/solutions/dev-ops-services/#collapse-1813)
+- [ Significant Cost-Optimization ](https://www.crestdata.ai/solutions/dev-ops-services/#collapse-1814)
+- Our DevOps & Automation Expertise
+- Source Code Management
+- Continuous Integration
+- SEIM
+- Test Automation and Performance Engineering
+- Configuration Management
+- Cloud-Native Application Platforms
+- Monitoring, Logging & Observability
+- DevOps on AWS
+- Tools and Technologies We Use
+- [ How does Crest Data help enterprises accelerate software delivery and operational efficiency? ](https://www.crestdata.ai/solutions/dev-ops-services/#collapse-1091)
+- [ What DevOps and automation services does Crest Data provide? ](https://www.crestdata.ai/solutions/dev-ops-services/#collapse-1092)
+- [ Does Crest Data support cloud-native DevOps environments? ](https://www.crestdata.ai/solutions/dev-ops-services/#collapse-1093)
+- [ How does Crest Data improve deployment reliability and operational stability? ](https://www.crestdata.ai/solutions/dev-ops-services/#collapse-1094)
+- [ Does Crest Data provide Infrastructure as Code (IaC) and automation services? ](https://www.crestdata.ai/solutions/dev-ops-services/#collapse-1095)
+- [ Which cloud and enterprise platforms does Crest Data support for DevOps operations? ](https://www.crestdata.ai/solutions/dev-ops-services/#collapse-1096)
+- [ Does Crest Data provide AI-led automation and intelligent DevOps operations? ](https://www.crestdata.ai/solutions/dev-ops-services/#collapse-1097)
+- [ What makes Crest Data different from other DevOps and automation service providers? ](https://www.crestdata.ai/solutions/dev-ops-services/#collapse-1098)
+- Delivering AI-Enabled Dynatrace Services for Enterprise Observability
+- Reimagine AI-Driven Full-Stack Observability with Dynatrace
+- Why Crest Data for Dynatrace Solutions?
+- [ Proven expertise with 100+ implementations ](https://www.crestdata.ai/solutions/dynatrace/#collapse-1151)
+- [ AI-driven Migration Engine ](https://www.crestdata.ai/solutions/dynatrace/#collapse-1152)
+- [ Integration Expertise ](https://www.crestdata.ai/solutions/dynatrace/#collapse-1153)
+- [ Enterprise-class Managed Observability Services ](https://www.crestdata.ai/solutions/dynatrace/#collapse-1154)
+- [ Deep Technical Proficiency ](https://www.crestdata.ai/solutions/dynatrace/#collapse-1155)
+- Our Dynatrace Solutions
+- [ Implementations ](https://www.crestdata.ai/solutions/dynatrace/#collapse-8571)
+- [ Migrations ](https://www.crestdata.ai/solutions/dynatrace/#collapse-8572)
+- [ Integrations ](https://www.crestdata.ai/solutions/dynatrace/#collapse-8573)
+- [ Managed Services ](https://www.crestdata.ai/solutions/dynatrace/#collapse-8574)
+- What our clients say
+- Observability Migration Assessment
+- Dynatrace and Crest Data Partnernership
+- [ How does Crest Data help organizations accelerate time-to-value with Dynatrace? ](https://www.crestdata.ai/solutions/dynatrace/#collapse-2671)
+- [ Can Crest Data migrate from Datadog, Splunk, New Relic, AppDynamics, or other monitoring platforms to Dynatrace? ](https://www.crestdata.ai/solutions/dynatrace/#collapse-2672)
+- [ How does Crest Data help organizations improve incident detection and root-cause analysis with Dynatrace? ](https://www.crestdata.ai/solutions/dynatrace/#collapse-2674)
+- [ How does Crest Data help organizations get more value from Dynatrace's AI-driven observability capabilities? ](https://www.crestdata.ai/solutions/dynatrace/#collapse-2675)
+- [ What makes Crest Data different from other Dynatrace service providers? ](https://www.crestdata.ai/solutions/dynatrace/#collapse-2676)
+- [ How long does a Dynatrace migration typically take? ](https://www.crestdata.ai/solutions/dynatrace/#collapse-2677)
+- Unifying Data Intelligence with Elasticsearch, Observability, and Security to Drive Operational Resilience
+- With hyper-distributed digital ecosystems churning out exponential volumes of data,
+- Why Crest Data for Elastic Services?
+- [ Proven Open-Source Contribution and Standardization ](https://www.crestdata.ai/solutions/elastic/#collapse-5261)
+- [ Unified Observability ](https://www.crestdata.ai/solutions/elastic/#collapse-5262)
+- [ Expert Security Analytics & Detection ](https://www.crestdata.ai/solutions/elastic/#collapse-5263)
+- [ Best Implementation Standards ](https://www.crestdata.ai/solutions/elastic/#collapse-5264)
+- [ Accelerated AI-Driven Migration ](https://www.crestdata.ai/solutions/elastic/#collapse-5265)
+- Elastic Implementation Services
+- Elastic Migration Services
+- Elastic Integration Services
+- Elastic Managed Services
+- [ How does Crest Data help organizations get more value from Elastic? ](https://www.crestdata.ai/solutions/elastic/#collapse-2101)
+- [ How does Crest Data help organizations migrate to Elastic from legacy observability and security platforms?  ](https://www.crestdata.ai/solutions/elastic/#collapse-2102)
+- [ Does Crest Data develop custom Elastic integrations? ](https://www.crestdata.ai/solutions/elastic/#collapse-2103)
+- [ How does Crest Data help organizations improve Elastic Security operations? ](https://www.crestdata.ai/solutions/elastic/#collapse-2104)
+- [ How does Crest Data support Elastic Enterprise Search initiatives? ](https://www.crestdata.ai/solutions/elastic/#collapse-2105)
+- [ What makes Crest Data different from other Elastic service providers? ](https://www.crestdata.ai/solutions/elastic/#collapse-2106)
+- [ Can Elastic Security replace traditional SIEM platforms? ](https://www.crestdata.ai/solutions/elastic/#collapse-2107)
+- Turn enterprise data into intelligent actions with Generative AI built for real-world decision-making.
+- Generative AI is redefining how enterprises operate, enabling faster decision-making, intelligent automation, and entirely new ways to engage customers and employees.
+- Why Crest Data for Generative AI?
+- [ Faster Time-to-Market ](https://www.crestdata.ai/solutions/generative-ai/#collapse-1021)
+- [ Proven Operational Gains ](https://www.crestdata.ai/solutions/generative-ai/#collapse-1022)
+- [ Enterprise-Ready Architecture ](https://www.crestdata.ai/solutions/generative-ai/#collapse-1023)
+- [ AI Embedded in Workflows ](https://www.crestdata.ai/solutions/generative-ai/#collapse-1024)
+- AI Agents
+- RAG Systems
+- Intelligent Chatbots
+- Fine-Tuning LLMs
+- Guardrails
+- Engage our experienced ITOps to automate routine tasks, proactively deliver high-quality IT support and increase productivity by leveraging best-practices and rapidly implementing or consolidating IT apps to the most innovative ITSM platforms.
+- Our Managed ITSM Services
+- Our qualified and experienced IT professionals provide the technical expertise and skills required to manage multi-vendor IT environments.
+- ITSM Administration and Management
+- IT Operations Monitoring
+- [ 360-degree IT Services Intelligence ](https://www.crestdata.ai/solutions/itsm/#collapse-2161)
+- [ Improve the productivity of IT staff ](https://www.crestdata.ai/solutions/itsm/#collapse-2162)
+- [ Automate incident management ](https://www.crestdata.ai/solutions/itsm/#collapse-2163)
+- [ Reduce cost of security operations ](https://www.crestdata.ai/solutions/itsm/#collapse-2164)
+- [ Complete SLA-based services ](https://www.crestdata.ai/solutions/itsm/#collapse-2165)
+- Secure, Scalable AI Agent Connectivity Across Enterprise Systems
+- 
+- Model Context Protocol (MCP) is emerging as a critical layer for enabling seamless interaction between AI systems and enterprise environments.
+- [ Faster AI Integration ](https://www.crestdata.ai/solutions/mcp-solution/#collapse-1251)
+- [ Enterprise-Grade Security ](https://www.crestdata.ai/solutions/mcp-solution/#collapse-1252)
+- [ Scalable Architecture ](https://www.crestdata.ai/solutions/mcp-solution/#collapse-1253)
+- [ Operational Efficiency ](https://www.crestdata.ai/solutions/mcp-solution/#collapse-1254)
+- [ Future-Ready Design ](https://www.crestdata.ai/solutions/mcp-solution/#collapse-1255)
+- MCP Strategy & Architecture
+- Secure Tool & Data Access Enablement
+- Testing, Deployment & Validation
+- Custom MCP Tools Development
+- Documentation, Training & Enablement
+- Your Trusted MLOps Services Provider for Enterprise-Scale AI
+- Modern enterprises struggle to move machine learning models from experimentation to production while maintaining high standards of performance, governance, and scalability.
+- Why Crest Data for MLOps?
+- [ Proven Production Scale ](https://www.crestdata.ai/solutions/mlops/#collapse-1551)
+- [ Faster Time-to-Value ](https://www.crestdata.ai/solutions/mlops/#collapse-1552)
+- [ High-Quality Data Foundations ](https://www.crestdata.ai/solutions/mlops/#collapse-1553)
+- [ CI/CD for ML ](https://www.crestdata.ai/solutions/mlops/#collapse-1554)
+- [ Cloud-Native & Flexible ](https://www.crestdata.ai/solutions/mlops/#collapse-1555)
+- Data Pipeline Development
+- Model Development
+- CI/CD for ML
+- Deployment and Monitoring
+- MLOps Tools and Platforms We Use
+- [ How does Crest Data help enterprises operationalize and scale AI initiatives? ](https://www.crestdata.ai/solutions/mlops/#collapse-1371)
+- [ What MLOps services does Crest Data provide? ](https://www.crestdata.ai/solutions/mlops/#collapse-1372)
+- [ Does Crest Data support cloud-native MLOps environments? ](https://www.crestdata.ai/solutions/mlops/#collapse-1373)
+- [ How does Crest Data improve machine learning reliability and operational visibility? ](https://www.crestdata.ai/solutions/mlops/#collapse-1374)
+- [ What is the difference between AIOps and MLOps? ](https://www.crestdata.ai/solutions/mlops/#collapse-1375)
+- [ Does Crest Data provide AI-led automation for MLOps operations? ](https://www.crestdata.ai/solutions/mlops/#collapse-1376)
+- [ Does Crest Data provide ongoing MLOps support and managed AI operations? ](https://www.crestdata.ai/solutions/mlops/#collapse-1377)
+- [ What makes Crest Data different from other enterprise MLOps service providers? ](https://www.crestdata.ai/solutions/mlops/#collapse-1378)
+- Transforming Enterprise Visibility With AI-Led Data Observability Solutions
+- Crest Data develops comprehensive observability integrations for enterprise applications
+- Why Crest Data for Observability Solutions?
+- [ Proven at Scale ](https://www.crestdata.ai/solutions/observability/#collapse-1541)
+- [ AI-first Approach ](https://www.crestdata.ai/solutions/observability/#collapse-1542)
+- [ Faster time-to-value ](https://www.crestdata.ai/solutions/observability/#collapse-1543)
+- [ Lower Total Cost ](https://www.crestdata.ai/solutions/observability/#collapse-1544)
+- [ Future-ready Expertise ](https://www.crestdata.ai/solutions/observability/#collapse-1545)
+- Leverage Innovative Enterprise Data Migration Services Engineered for Secured and Seamless Transitions
+- [ How does Crest Data help enterprises improve operational visibility across modern environments? ](https://www.crestdata.ai/solutions/observability/#collapse-1741)
+- [ What enterprise observability services does Crest Data provide? ](https://www.crestdata.ai/solutions/observability/#collapse-1742)
+- [ Which observability and monitoring platforms does Crest Data support? ](https://www.crestdata.ai/solutions/observability/#collapse-1743)
+- [ How does Crest Data improve enterprise incident detection and operational response? ](https://www.crestdata.ai/solutions/observability/#collapse-1744)
+- [ Does Crest Data provide AI-led observability and AIOps services? ](https://www.crestdata.ai/solutions/observability/#collapse-1745)
+- [ How does Crest Data support cloud-native and Kubernetes observability? ](https://www.crestdata.ai/solutions/observability/#collapse-1746)
+- [ Does Crest Data provide observability automation and managed monitoring services? ](https://www.crestdata.ai/solutions/observability/#collapse-1747)
+- [ What makes Crest Data different from other enterprise observability service providers? ](https://www.crestdata.ai/solutions/observability/#collapse-1748)
+- Strengthening Modern Enterprises with Intelligent Enterprise Security Services
+- Crest Data is a leading security solutions provider
+- Why Crest Data for Security Services?
+- [ Proven at Enterprise Scale ](https://www.crestdata.ai/solutions/security/#collapse-1661)
+- [ Faster Time to Value ](https://www.crestdata.ai/solutions/security/#collapse-1662)
+- [ Advanced Threat Detection ](https://www.crestdata.ai/solutions/security/#collapse-1663)
+- [ Operational Excellence ](https://www.crestdata.ai/solutions/security/#collapse-1664)
+- Managed Security
+- SIEM & SOAR
+- Data Security (DLP, CASB & DSPM)
+- Cloud Security
+- Network Security
+- Endpoint Management
+- Vulnerability Management
+- Identity & Access Management
+- Threat Detection & Response
+- Navigating AI Vulnerabilities with a Mythos-Ready Security Program
+- Security Startup
+- [ How does Crest Data help enterprises modernize security operations? ](https://www.crestdata.ai/solutions/security/#collapse-4111)
+- [ What enterprise security services does Crest Data provide? ](https://www.crestdata.ai/solutions/security/#collapse-4112)
+- [ Does Crest Data support cloud-native and hybrid security environments? ](https://www.crestdata.ai/solutions/security/#collapse-4113)
+- [ How does Crest Data improve threat detection and security visibility? ](https://www.crestdata.ai/solutions/security/#collapse-4114)
+- [ Does Crest Data provide AI-led security operations and automation services? ](https://www.crestdata.ai/solutions/security/#collapse-4115)
+- [ Which enterprise security and observability platforms does Crest Data support? ](https://www.crestdata.ai/solutions/security/#collapse-4116)
+- [ How does Crest Data integrate security into DevOps and cloud operations? ](https://www.crestdata.ai/solutions/security/#collapse-4117)
+- [ What makes Crest Data different from other enterprise security service providers? ](https://www.crestdata.ai/solutions/security/#collapse-4118)
+- [ How does Crest Data compare to cybersecurity consulting companies that specialize only in SIEM deployments? ](https://www.crestdata.ai/solutions/security/#collapse-4119)
+- AI-led SRE to help enterprises run secure and always-available cloud platforms.
+- Enterprise SRE Services at Crest Data
+- Why Crest Data for SRE Services?
+- [ Measurable Reliability Gains ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1831)
+- [ AI-Led Toil Reduction ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1832)
+- [ Cloud & SRE Expertise at Scale ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1833)
+- [ Global Reliability Operations ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1834)
+- [ Scalable & Cost-Efficient Operations ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1835)
+- Reliability Assessment & Optimization
+- Reliable System Architecture Design
+- Monitoring, Incident & SLA Management
+- SRE as a Service
+- Our Experiences Define Our Identity​
+- [ How does Crest Data help enterprises improve system reliability and operational resilience? ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1691)
+- [ What Site Reliability Engineering (SRE) services does Crest Data provide? ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1692)
+- [ Does Crest Data support cloud-native and Kubernetes-based SRE environments? ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1693)
+- [ How does Crest Data reduce operational downtime and improve incident response? ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1694)
+- [ Does Crest Data provide AI-led SRE and operational intelligence services? ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1695)
+- [ Which observability and cloud platforms does Crest Data support for SRE operations? ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1696)
+- [ Does Crest Data provide ongoing SRE and managed reliability operations support? ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1697)
+- [ What makes Crest Data different from other enterprise SRE service providers? ](https://www.crestdata.ai/solutions/site-reliability-engineering-sre/#collapse-1698)
+- Strengthening Enterprise Analytics with Splunk Solutions
+- Navigating the exponential growth of data in this hyper-connected digital ecosystem demands an AI-native platform
+- Why Crest Data for Splunk Services?
+- [ Dominant Market Presence in App Development ](https://www.crestdata.ai/solutions/splunk/#collapse-1691)
+- [ Massive Dedicated Expert Workforce ](https://www.crestdata.ai/solutions/splunk/#collapse-1692)
+- [ Proven Cost Optimization ](https://www.crestdata.ai/solutions/splunk/#collapse-1693)
+- [ Extensive Implementation Experience ](https://www.crestdata.ai/solutions/splunk/#collapse-1694)
+- Crest Data’s Splunk Offerings
+- Splunk Professional Services
+- Splunk Development and Integration
+- Splunk Managed Services
+- Splunk Migration
+- Our Splunk Expertise
+- [ Splunk Enterprise ](https://www.crestdata.ai/solutions/splunk/#collapse-1801)
+- [ Splunk UBA ](https://www.crestdata.ai/solutions/splunk/#collapse-1802)
+- [ Splunk Threat Intelligence Management ](https://www.crestdata.ai/solutions/splunk/#collapse-1803)
+- [ Splunk SOAR ](https://www.crestdata.ai/solutions/splunk/#collapse-1804)
+- [ Splunk Observability Cloud  ](https://www.crestdata.ai/solutions/splunk/#collapse-1805)
+- [ Splunk IT Service Intelligence (ITSI) ](https://www.crestdata.ai/solutions/splunk/#collapse-1806)
+- [ How does Crest Data help organizations maximize the value of their Splunk investment? ](https://www.crestdata.ai/solutions/splunk/#collapse-2041)
+- [ Does Crest Data develop custom Splunk Apps and Technology Add-ons (TAs)? ](https://www.crestdata.ai/solutions/splunk/#collapse-2042)
+- [ How does Crest Data help improve security operations with Splunk Enterprise Security? ](https://www.crestdata.ai/solutions/splunk/#collapse-2043)
+- [ How does Crest Data support Splunk SOAR and security automation initiatives? ](https://www.crestdata.ai/solutions/splunk/#collapse-2044)
+- [ Can Crest Data help organizations migrate to Splunk Cloud or modernize existing Splunk environments? ](https://www.crestdata.ai/solutions/splunk/#collapse-2045)
+- [ What makes Crest Data different from other Splunk service providers? ](https://www.crestdata.ai/solutions/splunk/#collapse-2046)
+- [ How does Crest Data help organizations adopt AI and automation within Splunk? ](https://www.crestdata.ai/solutions/splunk/#collapse-2047)
+- Delivering AI-Driven Enterprise Workflow Automation at Scale
+- Crest Data helps enterprises simplify complex operations and accelerate digital execution through workflow automation.
+- Why Crest Data for Workflow Automation?
+- [ Enterprise Workflow Automation at Scale ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1541)
+- [ Proven Outcomes ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1542)
+- [ Integration at Scale ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1543)
+- [ Deep ITSM & CMDB Expertise ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1544)
+- [ SecOps Domain Expertise ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1545)
+- Workflow Automation Consulting
+- Enterprise Workflow Platform Implementation
+- Enterprise Integrations & Data Connectivity
+- Platform Optimization & Support
+- [ How does Crest Data help enterprises improve operational efficiency through workflow automation? ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1601)
+- [ What workflow automation services does Crest Data provide? ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1602)
+- [ Which enterprise workflow and automation platforms does Crest Data support? ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1603)
+- [ How does Crest Data automate complex workflows across enterprise systems? ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1604)
+- [ Does Crest Data provide AI-led workflow automation services? ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1605)
+- [ How does Crest Data improve workflow visibility and operational monitoring? ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1606)
+- [ Does Crest Data provide managed workflow automation and operational support services? ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1607)
+- [ What makes Crest Data different from other workflow automation service providers? ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1608)
+- [ Why do organizations choose Crest Data instead of building ServiceNow workflows internally? ](https://www.crestdata.ai/solutions/workflow-automation/#collapse-1609)
+- Automation for Hassle-free, Error-free Migration
+- The Splunk to Datadog Migration App by Crest Data simplifies the process of moving your monitoring and logging data from Splunk to Datadog
+- Automated Visualization
+- Query
+- In-Depth Migration
+- Flexible Migration
+- Threat Monitoring
+- [ Industry-Leading Expertise ](https://www.crestdata.ai/splunk-to-datadog-migration/#collapse-1061)
+- [ Efficiency and Precision ](https://www.crestdata.ai/splunk-to-datadog-migration/#collapse-1062)
+- [ Dedicated Support ](https://www.crestdata.ai/splunk-to-datadog-migration/#collapse-1063)
+- [ Future-Proof Solutions ](https://www.crestdata.ai/splunk-to-datadog-migration/#collapse-1064)
+- Webinar on Migrating from
+- [ What are the key differences between Splunk and Datadog? ](https://www.crestdata.ai/splunk-to-datadog-migration/#collapse-2561)
+- [ What does a Splunk to Datadog migration involve? ](https://www.crestdata.ai/splunk-to-datadog-migration/#collapse-2562)
+- [ Does Cisco own Splunk now? ](https://www.crestdata.ai/splunk-to-datadog-migration/#collapse-2563)
+- [ Is Splunk a SIEM, and does Datadog support that too? ](https://www.crestdata.ai/splunk-to-datadog-migration/#collapse-2564)
+- [ How long does a Splunk to Datadog migration usually take? ](https://www.crestdata.ai/splunk-to-datadog-migration/#collapse-2565)
+- [ What is Datadog Bits AI, and where does it fit in after migration? ](https://www.crestdata.ai/splunk-to-datadog-migration/#collapse-2566)
+- Simplify and accelerate the transition to Dynatrace
+- Crest Data and Dynatrace have partnered to offer a service that simplifies and accelerates migration from Splunk to Dynatrace
+- Accelerated migration
+- Expert-level resources
+- Future-Proof Flexibility
+- System Monitoring
+- [ Industry-Leading Expertise ](https://www.crestdata.ai/splunk-to-dynatrace-migrations/#collapse-2191)
+- [ Implementation Excellence ](https://www.crestdata.ai/splunk-to-dynatrace-migrations/#collapse-2192)
+- [ Built for What’s Next ](https://www.crestdata.ai/splunk-to-dynatrace-migrations/#collapse-2193)
+- [ What is Dynatrace? ](https://www.crestdata.ai/splunk-to-dynatrace-migrations/#collapse-2091)
+- [ What does Dynatrace do? ](https://www.crestdata.ai/splunk-to-dynatrace-migrations/#collapse-2092)
+- [ Does Dynatrace support OpenTelemetry? ](https://www.crestdata.ai/splunk-to-dynatrace-migrations/#collapse-2093)
+- [ How does Dynatrace OneAgent work? ](https://www.crestdata.ai/splunk-to-dynatrace-migrations/#collapse-2094)
+- [ How long does a Splunk to Dynatrace migration take? ](https://www.crestdata.ai/splunk-to-dynatrace-migrations/#collapse-2095)
+- We Operate In
+- Trusted by Global Technology Leaders
+- Sign in to view Jay’s full profile
+- View mutual connections with Jay
+- About
+- Welcome back
+- 727 followers
+- Pravesh Bajpai
+- Crest Data
+- Jay Patel
+- Yash Somani
+- Pratibha Prakash
+- [Senior DevOps Engineer Crest Data, Ahmedabad, Gujarat, India  ](https://in.linkedin.com/jobs/view/senior-devops-engineer-at-crest-data-4333894374?trk=public_profile__posts_feed-job-posting-content)
+- Patti J.
+- Bhavesh Chauhan
+- Being Networks
+- Sonatype
+- Experience & Education
+- See their title, tenure and more.
+- View Jay’s full profile
+- Explore more posts
+- Explore collaborative articles
+- Add new skills with these courses
+- Jay can help you find your next opportunity
+- Join LinkedIn
+- Security verification
+- Sign in
+- Sign in to view Ronak’s full profile
+- View mutual connections with Ronak
+- 848 followers
+- [Talent Acquisition - Executive/Sr. Executive/Manager Crest Data, Ahmedabad, Gujarat, India  ](https://in.linkedin.com/jobs/view/talent-acquisition-executive-sr-executive-manager-at-crest-data-4233336651?trk=public_profile__posts_feed-job-posting-content)
+- Monish Shah
+- Hardik dwivedi
+- Devanshi Shah
+- Riddhi Kansara
+- [Senior Software Engineer / Technical Lead -(Java with React.js) Crest Data, Ahmedabad, Gujarat, India  ](https://in.linkedin.com/jobs/view/senior-software-engineer-technical-lead-java-with-react-js-at-crest-data-2759330179?trk=public_profile__reactions_feed-job-posting-content)
+- View Ronak’s full experience
+- Licenses & Certifications
+- [ DataCamp ](https://www.linkedin.com/school/datacampinc/?trk=public_profile_profile-section-card_subtitle-click)
+- Big Data University
+- [ IBM ](https://www.linkedin.com/company/ibm?trk=public_profile_profile-section-card_subtitle-click)
+- View Ronak’s full profile
+- Other similar profiles
+- Vivek Patel
+- Vipul Jain
+- Anurag Tiwari
+- Harshita Bajpai
+- Pragnya Priyadarsani
+- Shubham Jain
+- Vivek Gautam
+- Sudipta Das
+- Muhammad Azhar Shaikh
+- Jatin Kothari
+- Sonam Prabha. PMP®
+- Jitendra Kumar
+- Arti Kumari
+- Sunil Kumar Kakarla
+- Satyendra Gupta, SPS®, PSPO®, PSM®
+- Shivam K.
+- Ajay Jamwal
+- MANOJ KUMAR MOHAPATRA
+- Anshul Gupta
+- Others named **Ronak Shah** in **India**
+- AI Product Engineer
+- Use AI to assess how you fit
+- Sign in to access AI-powered advices
+- Sign in to evaluate your skills
+- Sign in to tailor your resume
+- Team Talent Acquisition at Crest Data.ai
+- Sign in to set job alerts for “Product Engineer” roles.
+- Similar jobs
+- [ Improzo ](https://www.linkedin.com/company/improzo?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Cognologix Technologies ](https://in.linkedin.com/company/cognologix?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Onit ](https://www.linkedin.com/company/onit?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Pattern ](https://www.linkedin.com/company/pattern-hq?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Onit India ](https://in.linkedin.com/company/onit-india?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Accenture in India ](https://in.linkedin.com/company/accentureindia?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Bajaj Finserv ](https://in.linkedin.com/company/bajaj-finserv-lending?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Medline ](https://www.linkedin.com/company/medlineinc?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Leapfrog Technology, Inc. ](https://www.linkedin.com/company/lftechnology?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Deloitte ](https://www.linkedin.com/company/deloitte?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Medline India ](https://in.linkedin.com/company/medline-india?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Dar ](https://lb.linkedin.com/company/dar-al-handasah?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ HARMAN India ](https://in.linkedin.com/company/harmanindia?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Codvo.ai ](https://www.linkedin.com/company/codvo?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Teradata ](https://www.linkedin.com/company/teradata?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ VOIS ](https://uk.linkedin.com/company/vois?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Quest Global ](https://sg.linkedin.com/company/quest-global?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Advanced Energy ](https://www.linkedin.com/company/advancedenergy?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Rearc ](https://www.linkedin.com/company/rearc-llc?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Setoo ](https://in.linkedin.com/company/setoos?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Crisil ](https://in.linkedin.com/company/crisil?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Siemens Digital Industries Software ](https://www.linkedin.com/company/siemenssoftware?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- People also viewed
+- AI Engineer
+- AiML Ops
+- Artificial Intelligence Engineer
+- AI Developer II
+- Gen AI Expert
+- AI Engineer - Remote
+- Similar Searches
+- Sign in to see who you already know at Crest Data
+- Senior SOC Analyst
+- [ Eventus Security ](https://sg.linkedin.com/company/eventus-security?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ NEXPLAY SECURE ](https://www.linkedin.com/company/nexplaysecure?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Adani Enterprises Limited ](https://in.linkedin.com/company/adani-enterprises-ltd-?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Cyware ](https://www.linkedin.com/company/cyware?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Adani Group ](https://in.linkedin.com/company/adani-group?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Atech Cloud - India ](https://in.linkedin.com/company/atechcloud-india?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ S&P Global ](https://www.linkedin.com/company/spglobal?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Dishman Carbogen Amcis Ltd ](https://in.linkedin.com/company/imdcal?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Adani Power ](https://in.linkedin.com/company/adani-power-limited?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ DRC Systems ](https://in.linkedin.com/company/drc-systems?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Tata Consultancy Services ](https://in.linkedin.com/company/tata-consultancy-services?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Aeromesh Systems ](https://in.linkedin.com/company/aeromesh-systems?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Arrow Electronics ](https://www.linkedin.com/company/arrow-electronics?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Deutsche Bahn ](https://de.linkedin.com/company/deutschebahn?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Arrow Components ](https://www.linkedin.com/company/arrow-components?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Cisco ](https://www.linkedin.com/company/cisco?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Black Box ](https://www.linkedin.com/company/black-box?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Infocusp Innovations ](https://in.linkedin.com/company/infocusp?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- [ Nextgen Clearing Ltd ](https://uk.linkedin.com/company/nextgen-clearing?trk=public_jobs_similar-jobs_main-jobs-card-subtitle)
+- Application Security Engineer (Senior) ID71667
+- System Analyst
+- Senior Information Technology Support Engineer
+- Application Security Engineer (Tech Lead) ID71665
+- IT Compliance Analyst
+- Information Technology Analyst
+- Senior IT Support Engineer
+- Senior IT Advisor
+- IT Service Analyst II - Internal IT Support - Admin
+- Senior Risk Analyst
+- Devanshi Raichura’s Post
+- Explore content categories
+- Sign in to view more content
+- Jignesh Patel’s Post
+- More from this author
+- Rohit Jaraut’s Post
+- Shweta Parikh’s Post
+- Smit Belani’s Post
+- Yash Somani’s Post

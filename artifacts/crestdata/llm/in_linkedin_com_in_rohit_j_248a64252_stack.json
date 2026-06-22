@@ -1,0 +1,20 @@
+{
+    "subject_company": "LinkedIn",
+    "technologies": [
+        {
+            "name": "Google",
+            "category": "Authentication Service",
+            "evidence": "Continue with Google",
+            "reasoning": "The text mentions 'Continue with Google', which implies that LinkedIn uses Google's authentication service.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "LinkedIn",
+            "category": "Social Media Platform",
+            "evidence": "LinkedIn \u00a9 2026",
+            "reasoning": "The text explicitly mentions LinkedIn as the company.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://in/linkedin/com/in/rohit/j/248a64252"
+}

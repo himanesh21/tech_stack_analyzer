@@ -1,0 +1,62 @@
+{
+    "subject_company": "Crest Data Systems Private Limited",
+    "technologies": [
+        {
+            "name": "Google Analytics",
+            "category": "Third-party analytics tool",
+            "evidence": "We use third-party analytics tools which collect information which your browser sends when you visit our web page. Google Analytics: It collects and uses information as per Google\u2019s privacy policy.",
+            "reasoning": "The text explicitly mentions Google Analytics as a third-party analytics tool used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "HTML pages",
+            "category": "Web Technology",
+            "evidence": "Traffic information such as time and/or duration of your interaction with us ... HTML pages, graphics, etc.",
+            "reasoning": "The text mentions HTML pages as part of the information collected about users' interactions with the website.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Cookies",
+            "category": "Web Tracking Technology",
+            "evidence": "Cookies preferences",
+            "reasoning": "The text mentions 'Cookies preferences' as part of the information collected from users.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "IP address",
+            "category": "Networking",
+            "evidence": "Your computer hardware and software, IP address, browser type, domain names, the internet service provider (ISP), the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, clickstream data, access times and referring website addresses without access your identification",
+            "reasoning": "The text explicitly mentions IP address as part of the information collected about users' devices.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "LinkedIn",
+            "category": "Social Media Platform",
+            "evidence": "[ Linkedin ](https://www.linkedin.com/company/crest-data/)",
+            "reasoning": "The text provides a link to Crest Data's LinkedIn page, implying usage.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Twitter",
+            "category": "Social Media Platform",
+            "evidence": "[ X-twitter ](https://x.com/crestdata_ai)",
+            "reasoning": "The text provides a link to Crest Data's Twitter page, implying usage.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Instagram",
+            "category": "Social Media Platform",
+            "evidence": "[ Instagram ](https://www.instagram.com/crest.data/?utm_source=ig_web_button_share_sheet)",
+            "reasoning": "The text provides a link to Crest Data's Instagram page, implying usage.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Facebook",
+            "category": "Social Media Platform",
+            "evidence": "[ Facebook ](https://www.facebook.com/profile.php?id=61559624523744)",
+            "reasoning": "The text provides a link to Crest Data's Facebook page, implying usage.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/privacy/policy"
+}

@@ -1,0 +1,48 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "MLflow",
+            "category": "MLOps",
+            "evidence": "Integrated MLflow, PyTorch, and AWS SageMaker for seamless experiment tracking",
+            "reasoning": "MLflow is explicitly mentioned as part of the MLOps infrastructure implemented by Crest Data for the client.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "PyTorch",
+            "category": "Deep Learning Framework",
+            "evidence": "Integrated MLflow, PyTorch, and AWS SageMaker for seamless experiment tracking",
+            "reasoning": "PyTorch is explicitly mentioned as part of the MLOps infrastructure implemented by Crest Data for the client.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS SageMaker",
+            "category": "Managed Machine Learning Service",
+            "evidence": "Integrated MLflow, PyTorch, and AWS SageMaker for seamless experiment tracking",
+            "reasoning": "AWS SageMaker is explicitly mentioned as part of the MLOps infrastructure implemented by Crest Data for the client.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ROS",
+            "category": "Robot Operating System",
+            "evidence": "Streamlined ROS OS integration for robotics systems",
+            "reasoning": "ROS is explicitly mentioned as being integrated for robotics systems.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Kubernetes",
+            "category": "Container Orchestration",
+            "evidence": "Kubernetes : Container orchestration for scalable infrastructure",
+            "reasoning": "Kubernetes is explicitly listed under the technologies leveraged.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Custom Annotation Tools",
+            "category": "Data Labeling",
+            "evidence": "Custom annotation pipelines for complex sensor fusion data",
+            "reasoning": "Custom annotation tools are explicitly mentioned as being developed for sensor fusion data labeling.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/accelerating/autonomous/driving/research"
+}

@@ -1,0 +1,48 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Graph RAG (Retrieval-Augmented Generation)",
+            "category": "Conversational AI and Knowledge Retrieval",
+            "evidence": "Unveiling the Power of Graph RAG: Revolutionizing Conversational AI and Knowledge Retrieval",
+            "reasoning": "The text explicitly mentions Graph RAG and its application in conversational AI and knowledge retrieval.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Generative AI",
+            "category": "Artificial Intelligence",
+            "evidence": "Transforming Security Analytics with Generative AI",
+            "reasoning": "The text explicitly mentions Generative AI and its application in security analytics.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AI agents",
+            "category": "Artificial Intelligence",
+            "evidence": "AI Agents: Transforming Enterprise Operations",
+            "reasoning": "The text explicitly mentions AI agents and their role in transforming enterprise operations.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Multi-agent intelligence",
+            "category": "Artificial Intelligence",
+            "evidence": "How Multi-Agent Intelligence Can Reshape Modern Enterprise IT Solutions",
+            "reasoning": "The text explicitly mentions multi-agent intelligence and its potential to reshape modern enterprise IT solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Open Source AI",
+            "category": "Artificial Intelligence",
+            "evidence": "Navigating the Crossroads: Open Source vs. Proprietary AI in the Data Economy",
+            "reasoning": "The text explicitly mentions Open Source AI in the context of comparing it with proprietary AI.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Proprietary AI",
+            "category": "Artificial Intelligence",
+            "evidence": "Navigating the Crossroads: Open Source vs. Proprietary AI in the Data Economy",
+            "reasoning": "The text explicitly mentions Proprietary AI in the context of comparing it with open source AI.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/ai/agents"
+}

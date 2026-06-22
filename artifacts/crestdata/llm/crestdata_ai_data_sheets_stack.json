@@ -1,0 +1,69 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Multiple integrations with Datadog mentioned across various data sheets",
+            "reasoning": "The text mentions multiple data sheets related to integrations with Datadog, indicating that Datadog is likely used by Crest Data for observability and monitoring purposes.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "TruLens",
+            "category": "Observability",
+            "evidence": "TruLens Integration with Datadog",
+            "reasoning": "The text explicitly mentions TruLens integration with Datadog, indicating that TruLens is used by Crest Data for observability and performance monitoring of LLM applications.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Kong AI Gateway",
+            "category": "API Gateway",
+            "evidence": "Kong AI Gateway Integration with Datadog",
+            "reasoning": "The text explicitly mentions Kong AI Gateway integration with Datadog, indicating that Kong AI Gateway is used by Crest Data for managing AI-powered applications.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dell EMC Isilon",
+            "category": "Storage",
+            "evidence": "Dell EMC Isilon Integration with Datadog",
+            "reasoning": "The text explicitly mentions Dell EMC Isilon integration with Datadog, indicating that Dell EMC Isilon is used by Crest Data for storage and infrastructure monitoring.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Microsoft Defender",
+            "category": "Security",
+            "evidence": "Microsoft Defender Integration with Datadog",
+            "reasoning": "The text explicitly mentions Microsoft Defender integration with Datadog, indicating that Microsoft Defender is used by Crest Data for security and threat protection.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "NetApp AIQUM",
+            "category": "Storage",
+            "evidence": "NetApp AIQUM integration with Datadog",
+            "reasoning": "The text explicitly mentions NetApp AIQUM integration with Datadog, indicating that NetApp AIQUM is used by Crest Data for storage and performance monitoring.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "NetApp E-Series SANtricity",
+            "category": "Storage",
+            "evidence": "NetApp E-Series SANtricity Integration with Datadog",
+            "reasoning": "The text explicitly mentions NetApp E-Series SANtricity integration with Datadog, indicating that NetApp E-Series SANtricity is used by Crest Data for storage and performance monitoring.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Anomali Threatstream",
+            "category": "Threat Intelligence",
+            "evidence": "Anomali Threatstream Integration with Datadog",
+            "reasoning": "The text explicitly mentions Anomali Threatstream integration with Datadog, indicating that Anomali Threatstream is used by Crest Data for threat intelligence and security monitoring.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CyberArk Identity",
+            "category": "Identity and Access Management",
+            "evidence": "CyberArk Identity Integration with Datadog",
+            "reasoning": "The text explicitly mentions CyberArk Identity integration with Datadog, indicating that CyberArk Identity is used by Crest Data for identity and access management.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/data/sheets"
+}

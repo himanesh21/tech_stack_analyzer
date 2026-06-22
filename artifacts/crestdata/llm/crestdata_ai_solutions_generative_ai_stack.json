@@ -1,0 +1,41 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS Bedrock",
+            "category": "Cloud Provider",
+            "evidence": "Build scalable enterprise AI solutions using AWS Bedrock, ChatGPT-5.2, and flexible multi-LLM architectures designed for production workloads.",
+            "reasoning": "AWS Bedrock is explicitly mentioned as a technology used in building scalable enterprise AI solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ChatGPT-5.2",
+            "category": "AI Model",
+            "evidence": "Build scalable enterprise AI solutions using AWS Bedrock, ChatGPT-5.2, and flexible multi-LLM architectures designed for production workloads.",
+            "reasoning": "ChatGPT-5.2 is explicitly mentioned as a technology used in building scalable enterprise AI solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Accelerating Enterprise Observability with AI-Driven Migration to Dynatrace",
+            "reasoning": "Dynatrace is explicitly mentioned in the context of observability and AI-driven migration.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Retrieval-Augmented Generation (RAG)",
+            "category": "AI Framework",
+            "evidence": "Our Retrieval-Augmented Generation (RAG) systems combine the creativity of large language models with enterprise knowledge sources to deliver accurate, context-aware responses.",
+            "reasoning": "RAG is explicitly mentioned as a technology used in delivering accurate and context-aware responses.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Large Language Models (LLMs)",
+            "category": "AI Model",
+            "evidence": "Leveraging advanced AI agents, retrieval-augmented generation (RAG), fine-tuned large language models, and robust guardrails, we deliver custom generative AI solutions.",
+            "reasoning": "LLMs are explicitly mentioned as a technology used in delivering custom generative AI solutions.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/generative/ai"
+}

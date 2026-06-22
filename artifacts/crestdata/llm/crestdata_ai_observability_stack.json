@@ -1,0 +1,27 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Deploy production-ready LLM observability in weeks, not months. Crest Data's Datadog-powered Quick Start helps organizations implement AI observability, LLM monitoring,\u2026",
+            "reasoning": "The text explicitly mentions that Crest Data uses Datadog to power their Quick Start for AI observability and LLM monitoring.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Citrix DaaS",
+            "category": "Virtual Desktop Infrastructure",
+            "evidence": "Learn how Crest Data\u2019s Citrix DaaS integration for Datadog helps enterprises monitor session performance, machine resource utilization, connection reliability, application\u2026",
+            "reasoning": "The text explicitly mentions that Crest Data has an integration for Citrix DaaS with Datadog.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk",
+            "category": "SIEM",
+            "evidence": "Enterprise observability is evolving from reactive monitoring to AI-driven predictive intelligence. Learn how observability tool migration, including Splunk to Datadog\u2026",
+            "reasoning": "The text mentions that some enterprises migrate from Splunk to Datadog, but it does not directly imply that Crest Data uses Splunk.",
+            "relationship": "speculative"
+        }
+    ],
+    "url": "https://crestdata/ai/observability"
+}

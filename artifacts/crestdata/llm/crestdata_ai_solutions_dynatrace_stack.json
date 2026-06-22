@@ -1,0 +1,62 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Crest Data partners with you to deliver a tailored, consultative Dynatrace approach",
+            "reasoning": "Dynatrace is explicitly mentioned as a key technology partner for Crest Data's observability solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Open Telemetry (OTel)",
+            "category": "Observability",
+            "evidence": "Custom agents that collect and transform real-time data to simplify analysis and correlation [e.g. Open Telemetry (OTel), CNCF standards]",
+            "reasoning": "Open Telemetry is explicitly mentioned as a standard supported by Crest Data's custom agents for data collection.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CNCF standards",
+            "category": "Observability",
+            "evidence": "Custom agents that collect and transform real-time data to simplify analysis and correlation [e.g. Open Telemetry (OTel), CNCF standards]",
+            "reasoning": "CNCF standards are explicitly mentioned alongside Open Telemetry as supported standards for custom agents.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Can Crest Data migrate from Datadog, Splunk, New Relic, AppDynamics, or other monitoring platforms to Dynatrace?",
+            "reasoning": "Datadog is mentioned as one of the legacy monitoring platforms that Crest Data can migrate from to Dynatrace.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Splunk",
+            "category": "SIEM",
+            "evidence": "Can Crest Data migrate from Datadog, Splunk, New Relic, AppDynamics, or other monitoring platforms to Dynatrace?",
+            "reasoning": "Splunk is mentioned as one of the legacy monitoring platforms that Crest Data can migrate from to Dynatrace.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "New Relic",
+            "category": "Observability",
+            "evidence": "Can Crest Data migrate from Datadog, Splunk, New Relic, AppDynamics, or other monitoring platforms to Dynatrace?",
+            "reasoning": "New Relic is mentioned as one of the legacy monitoring platforms that Crest Data can migrate from to Dynatrace.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "AppDynamics",
+            "category": "Observability",
+            "evidence": "Can Crest Data migrate from Datadog, Splunk, New Relic, AppDynamics, or other monitoring platforms to Dynatrace?",
+            "reasoning": "AppDynamics is mentioned as one of the legacy monitoring platforms that Crest Data can migrate from to Dynatrace.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Gartner Magic Quadrant",
+            "category": "Research Report",
+            "evidence": "Deep Technical Proficiency Across all eight observability leaders recognized in the Gartner Magic Quadrant",
+            "reasoning": "Gartner Magic Quadrant is mentioned as a reference for evaluating observability leaders.",
+            "relationship": "speculative"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/dynatrace"
+}

@@ -1,0 +1,41 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "LangGraph",
+            "category": "AI Framework",
+            "evidence": "We design enterprise AI agent architecture using modern AI agent tools and frameworks like LangGraph, LlamaIndex, CrewAI, and open-source LLMs to optimize performance and cost.",
+            "reasoning": "LangGraph is mentioned as one of the frameworks used by Crest Data for designing enterprise AI agent architectures.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "LlamaIndex",
+            "category": "AI Framework",
+            "evidence": "We design enterprise AI agent architecture using modern AI agent tools and frameworks like LangGraph, LlamaIndex, CrewAI, and open-source LLMs to optimize performance and cost.",
+            "reasoning": "LlamaIndex is mentioned alongside LangGraph as a framework used for AI agent architecture design.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CrewAI",
+            "category": "AI Framework",
+            "evidence": "We design enterprise AI agent architecture using modern AI agent tools and frameworks like LangGraph, LlamaIndex, CrewAI, and open-source LLMs to optimize performance and cost.",
+            "reasoning": "CrewAI is listed among the frameworks utilized by Crest Data for AI agent architecture.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Accelerating Enterprise Observability with AI-Driven Migration to Dynatrace",
+            "reasoning": "Dynatrace is mentioned in the context of a case study about accelerating enterprise observability.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "AWS Bedrock",
+            "category": "Cloud Provider",
+            "evidence": "Crest Data developed a sophisticated Multi-Agentic AI System for Netskope, leveraging AWS Bedrock to re...",
+            "reasoning": "AWS Bedrock is mentioned as being used in a project for Netskope.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/ai/agents"
+}

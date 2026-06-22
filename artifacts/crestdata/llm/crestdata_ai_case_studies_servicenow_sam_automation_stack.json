@@ -1,0 +1,69 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "The organization implemented an automated SAM solution on ServiceNow to streamline end-to-end workflows.",
+            "reasoning": "ServiceNow is explicitly mentioned as the platform used for implementing the automated SAM solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Discovery",
+            "category": "IT Asset Management",
+            "evidence": "The integration automatically checks if a corresponding software model exists in the CMDB using the Discovery tool.",
+            "reasoning": "Discovery is explicitly mentioned as a tool used for software model validation.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CMDB",
+            "category": "IT Asset Management",
+            "evidence": "The integration automatically checks if a corresponding software model exists in the CMDB using the Discovery tool.",
+            "reasoning": "CMDB is implied as a database used for storing software product models.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "sc_request",
+            "category": "IT Service Management",
+            "evidence": "Users initiate requests for software via the Service Catalog, specifying the software they require. This generates an entry in the sc_request and sc_req_item tables, and triggers the creation of a catalog task for verification.",
+            "reasoning": "sc_request is explicitly mentioned as a table used in the Service Catalog integration.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "sc_req_item",
+            "category": "IT Service Management",
+            "evidence": "Users initiate requests for software via the Service Catalog, specifying the software they require. This generates an entry in the sc_request and sc_req_item tables, and triggers the creation of a catalog task for verification.",
+            "reasoning": "sc_req_item is explicitly mentioned as a table used in the Service Catalog integration.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "alm_license",
+            "category": "IT Asset Management",
+            "evidence": "License/Entitlement Information (linked to alm_license)",
+            "reasoning": "alm_license is explicitly mentioned as a reference for license information.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "core_company",
+            "category": "IT Asset Management",
+            "evidence": "Publisher (reference to core_company)",
+            "reasoning": "core_company is explicitly mentioned as a reference for publisher information.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "cmdb_software_product_model",
+            "category": "IT Asset Management",
+            "evidence": "If no software model exists, an automated process creates a new entry in the cmdb_software_product_model table.",
+            "reasoning": "cmdb_software_product_model is explicitly mentioned as a table used for storing software product models.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Software Usage Table",
+            "category": "IT Asset Management",
+            "evidence": "The next step in the integration is to check if the required license for the software is available by checking the Software Usage Table for unused licenses.",
+            "reasoning": "Software Usage Table is explicitly mentioned as a table used for tracking software usage.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/servicenow/sam/automation"
+}

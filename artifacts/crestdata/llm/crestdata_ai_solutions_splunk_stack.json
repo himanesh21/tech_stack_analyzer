@@ -1,0 +1,97 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Splunk",
+            "category": "SIEM",
+            "evidence": "Crest Data offers comprehensive Splunk services that extract intelligent, actionable insights from raw telemetry data into real-time operational intelligence",
+            "reasoning": "The text explicitly mentions that Crest Data provides Splunk services, including Splunk Implementation, Splunk Development and Integration, Splunk Managed Services, and Splunk Migration.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk Enterprise",
+            "category": "SIEM",
+            "evidence": "Crest Data helps enterprises rapidly operationalize Splunk Implementation using the full Splunk suite \u2013 including Splunk Enterprise",
+            "reasoning": "The text explicitly mentions Splunk Enterprise as part of the Splunk suite used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk Cloud Platform",
+            "category": "SIEM",
+            "evidence": "Crest Data helps enterprises rapidly operationalize Splunk Implementation using the full Splunk suite \u2013 including Splunk Cloud Platform",
+            "reasoning": "The text explicitly mentions Splunk Cloud Platform as part of the Splunk suite used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk Enterprise Security",
+            "category": "SIEM",
+            "evidence": "Crest Data helps enterprises rapidly operationalize Splunk Implementation using the full Splunk suite \u2013 including Splunk Enterprise Security",
+            "reasoning": "The text explicitly mentions Splunk Enterprise Security as part of the Splunk suite used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk UBA",
+            "category": "SIEM",
+            "evidence": "Crest Data provides dedicated engineering support across development, maintenance, release validation, and customer support functions for Splunk UBA",
+            "reasoning": "The text explicitly mentions Splunk UBA as a product used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk SOAR",
+            "category": "SOAR",
+            "evidence": "Crest Data specializes in managing and enhancing integrations that power the automation ecosystems for Splunk SOAR",
+            "reasoning": "The text explicitly mentions Splunk SOAR as a product used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk Observability Cloud",
+            "category": "Observability",
+            "evidence": "Crest Data utilizes Splunk Observability Cloud to perform real-time, cloud-native monitoring across infrastructure, applications, microservices, and Kubernetes",
+            "reasoning": "The text explicitly mentions Splunk Observability Cloud as a product used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk IT Service Intelligence (ITSI)",
+            "category": "IT Service Intelligence",
+            "evidence": "Crest Data leverages Splunk IT Service Intelligence to help enterprises gain comprehensive visibility into business-critical services",
+            "reasoning": "The text explicitly mentions Splunk IT Service Intelligence as a product used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Cloud Trail",
+            "category": "Cloud Security",
+            "evidence": "Crest developed Databricks notebooks to collect and parse AWS Cloud Trail",
+            "reasoning": "The text mentions AWS Cloud Trail as a data source used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS VPC logs",
+            "category": "Cloud Security",
+            "evidence": "Crest developed Databricks notebooks to collect and parse AWS VPC logs",
+            "reasoning": "The text mentions AWS VPC logs as a data source used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Syslogs",
+            "category": "Log Management",
+            "evidence": "Crest developed Databricks notebooks to collect and parse Syslogs data",
+            "reasoning": "The text mentions Syslogs as a data source used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Built integration with ServiceNow and ACI platform",
+            "reasoning": "The text mentions ServiceNow as a product integrated with by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Databricks",
+            "category": "Data Analytics",
+            "evidence": "Crest developed Databricks notebooks to collect and parse data",
+            "reasoning": "The text mentions Databricks as a platform used by Crest Data.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/splunk"
+}

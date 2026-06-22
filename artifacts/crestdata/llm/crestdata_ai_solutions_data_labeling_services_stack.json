@@ -1,0 +1,27 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Accelerating Enterprise Observability with AI-Driven Migration to Dynatrace",
+            "reasoning": "The text mentions a case study titled 'Accelerating Enterprise Observability with AI-Driven Migration to Dynatrace', which strongly implies that Dynatrace is used by Crest Data for observability purposes.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "AWS Bedrock",
+            "category": "Cloud Provider",
+            "evidence": "Crest Data developed a sophisticated Multi-Agentic AI System for Netskope, leveraging AWS Bedrock",
+            "reasoning": "The text explicitly mentions AWS Bedrock as a technology used by Crest Data in a case study for Netskope.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dexter.ai",
+            "category": "AI-Powered Code Smell Remediator",
+            "evidence": "Dexter.ai \u2013 AI-Powered Code Smell Remediator",
+            "reasoning": "The text mentions Dexter.ai as an AI solution developed by Crest Data, implying its usage.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/data/labeling/services"
+}

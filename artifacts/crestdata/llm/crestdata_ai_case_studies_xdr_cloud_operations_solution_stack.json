@@ -1,0 +1,125 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Crest Data built a cost-effective and secure cloud solution on AWS with Infrastructure as Code (IaC) and GitOps principles",
+            "reasoning": "AWS is used as the cloud provider for the solution, providing scalable and secure infrastructure.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Terraform",
+            "category": "Infrastructure as Code (IaC) Tool",
+            "evidence": "Crest Data developed the infrastructure using Infrastructure as Code (IaC) with Terraform and Helm charts.",
+            "reasoning": "Terraform is used for infrastructure automation, allowing for version-controlled and reproducible infrastructure deployments.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Helm",
+            "category": "Package Manager for Kubernetes",
+            "evidence": "Crest Data developed the infrastructure using Infrastructure as Code (IaC) with Terraform and Helm charts.",
+            "reasoning": "Helm is used for package management and deployment of Kubernetes applications.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "GitHub Actions",
+            "category": "Continuous Integration/Continuous Deployment (CI/CD) Tool",
+            "evidence": "GitHub Actions and ArgoCD were used to deploy these stacks on merge.",
+            "reasoning": "GitHub Actions is used for automating deployment pipelines, enabling efficient and reliable deployment of infrastructure and applications.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ArgoCD",
+            "category": "Continuous Deployment (CD) Tool",
+            "evidence": "GitHub Actions and ArgoCD were used to deploy these stacks on merge.",
+            "reasoning": "ArgoCD is used for continuous deployment, providing a declarative and automated way to deploy applications.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Prometheus",
+            "category": "Monitoring System",
+            "evidence": "Tenant environments have their own Prometheus instances, securely scraped over mutual TLS (mTLS) by a SaaS Prometheus deployment.",
+            "reasoning": "Prometheus is used for monitoring and scraping metrics from tenant environments.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ELK Stack",
+            "category": "Logging and Analytics Platform",
+            "evidence": "Logs are shipped from the tenant environment with Logstash or Filebeat to a central Elasticsearch cluster and presented with Kibana.",
+            "reasoning": "The ELK Stack (Elasticsearch, Logstash, Kibana) is used for logging and analytics, providing a centralized platform for log collection and analysis.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon EKS",
+            "category": "Container Orchestration Platform",
+            "evidence": "Amazon EKS is used for hosting tenant workloads and observability tools.",
+            "reasoning": "Amazon EKS provides a managed container orchestration platform for deploying and managing containerized applications.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS EFS",
+            "category": "File System",
+            "evidence": "It uses AWS EFS and EBS for storage and AWS S3 for long-term, cold storage.",
+            "reasoning": "AWS EFS provides a scalable and durable file system for storing and sharing files across multiple instances.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS EBS",
+            "category": "Block Storage",
+            "evidence": "It uses AWS EFS and EBS for storage and AWS S3 for long-term, cold storage.",
+            "reasoning": "AWS EBS provides block-level storage for instances, allowing for efficient and reliable storage of data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS S3",
+            "category": "Object Storage",
+            "evidence": "It uses AWS EFS and EBS for storage and AWS S3 for long-term, cold storage.",
+            "reasoning": "AWS S3 provides a highly durable and scalable object storage solution for storing and retrieving large amounts of data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "NGINX",
+            "category": "Web Server and Load Balancer",
+            "evidence": "Microservices and observability traffic is secured via mTLS using NGINX ingress controllers.",
+            "reasoning": "NGINX is used as an ingress controller, providing a secure and efficient way to manage incoming traffic and secure microservices.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Secrets Manager",
+            "category": "Secrets Management Tool",
+            "evidence": "Infrastructure code is version-controlled, and services are upgraded seamlessly with zero downtime using rolling upgrades, while secrets are stored securely using AWS Secrets Manager.",
+            "reasoning": "AWS Secrets Manager provides a secure way to store and manage sensitive data, such as API keys and credentials.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Kibana",
+            "category": "Data Visualization and Exploration Tool",
+            "evidence": "Logs are shipped from the tenant environment with Logstash or Filebeat to a central Elasticsearch cluster and presented with Kibana.",
+            "reasoning": "Kibana provides a user-friendly interface for visualizing and exploring data stored in Elasticsearch.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Logstash",
+            "category": "Log Collection and Processing Tool",
+            "evidence": "Logs are shipped from the tenant environment with Logstash or Filebeat to a central Elasticsearch cluster and presented with Kibana.",
+            "reasoning": "Logstash provides a flexible and efficient way to collect, process, and forward log data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Filebeat",
+            "category": "Log Shipper",
+            "evidence": "Logs are shipped from the tenant environment with Logstash or Filebeat to a central Elasticsearch cluster and presented with Kibana.",
+            "reasoning": "Filebeat provides a lightweight and efficient way to ship log data from instances to a central location.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Elasticsearch",
+            "category": "Search and Analytics Engine",
+            "evidence": "Logs are shipped from the tenant environment with Logstash or Filebeat to a central Elasticsearch cluster and presented with Kibana.",
+            "reasoning": "Elasticsearch provides a highly scalable and efficient search and analytics engine for storing and querying large amounts of data.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/xdr/cloud/operations/solution"
+}

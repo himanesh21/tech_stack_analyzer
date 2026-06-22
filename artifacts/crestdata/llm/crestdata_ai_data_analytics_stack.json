@@ -1,0 +1,62 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "We partner with AWS, Datadog, Dynatrace, Azure, and GCP to deliver enterprise-grade data analytics services.",
+            "reasoning": "Crest Data partners with AWS for cloud services, indicating explicit usage.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "We partner with AWS, Datadog, Dynatrace, Azure, and GCP to deliver enterprise-grade data analytics services.",
+            "reasoning": "Crest Data partners with Datadog for observability services, indicating explicit usage.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "We partner with AWS, Datadog, Dynatrace, Azure, and GCP to deliver enterprise-grade data analytics services.",
+            "reasoning": "Crest Data partners with Dynatrace for observability services, indicating explicit usage.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Azure",
+            "category": "Cloud Provider",
+            "evidence": "We partner with AWS, Datadog, Dynatrace, Azure, and GCP to deliver enterprise-grade data analytics services.",
+            "reasoning": "Crest Data partners with Azure for cloud services, indicating explicit usage.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "GCP",
+            "category": "Cloud Provider",
+            "evidence": "We partner with AWS, Datadog, Dynatrace, Azure, and GCP to deliver enterprise-grade data analytics services.",
+            "reasoning": "Crest Data partners with GCP for cloud services, indicating explicit usage.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "Crest Data uses ServiceNow for IT service management, indicating explicit usage.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Wazuh",
+            "category": "Security",
+            "evidence": "Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "Crest Data integrates with Wazuh for threat intelligence, indicating explicit usage.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ThreatQ",
+            "category": "Security",
+            "evidence": "Enabling Enterprise-Scale Threat Investigations with a Browser-Based Intelligence Extension",
+            "reasoning": "Crest Data uses ThreatQ for threat investigations, indicating explicit usage.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/data/analytics"
+}

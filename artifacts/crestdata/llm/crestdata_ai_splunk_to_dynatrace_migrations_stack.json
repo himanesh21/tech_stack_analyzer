@@ -1,0 +1,41 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Crest Data and Dynatrace have partnered to offer a service that simplifies and accelerates migration from Splunk to Dynatrace",
+            "reasoning": "The text explicitly mentions Dynatrace as a key component of the partnership between Crest Data and Dynatrace, and describes its features and capabilities.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk",
+            "category": "SIEM",
+            "evidence": "Crest Data and Dynatrace have partnered to offer a service that simplifies and accelerates migration from Splunk to Dynatrace",
+            "reasoning": "The text explicitly mentions Splunk as the platform being migrated from to Dynatrace.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "OpenTelemetry",
+            "category": "Observability Standard",
+            "evidence": "Dynatrace is really into OpenTelemetry - they support it fully and are even helping to make it better.",
+            "reasoning": "The text explicitly mentions OpenTelemetry as a standard supported by Dynatrace.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "OneAgent",
+            "category": "Observability Agent",
+            "evidence": "Dynatrace has this thing called OneAgent - it's like a special tool that you put on each computer or server you want to keep an eye on.",
+            "reasoning": "The text explicitly mentions OneAgent as a tool used by Dynatrace for monitoring.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ActiveGate",
+            "category": "Observability Security Layer",
+            "evidence": "OneAgent communicates with the Dynatrace platform via ActiveGate, a secure communication layer that handles data routing and encryption.",
+            "reasoning": "The text explicitly mentions ActiveGate as a secure communication layer used by Dynatrace.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/splunk/to/dynatrace/migrations"
+}

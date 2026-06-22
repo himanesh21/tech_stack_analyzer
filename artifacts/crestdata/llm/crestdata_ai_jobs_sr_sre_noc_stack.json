@@ -1,0 +1,90 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "ping",
+            "category": "Network Troubleshooting Tool",
+            "evidence": "Troubleshoot network issues using tools like ping, traceroute, netstat, and tcpdump.",
+            "reasoning": "The job description explicitly mentions the use of ping for troubleshooting network issues.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "traceroute",
+            "category": "Network Troubleshooting Tool",
+            "evidence": "Troubleshoot network issues using tools like ping, traceroute, netstat, and tcpdump.",
+            "reasoning": "The job description explicitly mentions the use of traceroute for troubleshooting network issues.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "netstat",
+            "category": "Network Troubleshooting Tool",
+            "evidence": "Troubleshoot network issues using tools like ping, traceroute, netstat, and tcpdump.",
+            "reasoning": "The job description explicitly mentions the use of netstat for troubleshooting network issues.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "tcpdump",
+            "category": "Network Troubleshooting Tool",
+            "evidence": "Troubleshoot network issues using tools like ping, traceroute, netstat, and tcpdump.",
+            "reasoning": "The job description explicitly mentions the use of tcpdump for troubleshooting network issues.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "BGP",
+            "category": "Routing Protocol",
+            "evidence": "Hands-on experience with routing protocols such as BGP and OSPF.",
+            "reasoning": "The job description explicitly mentions BGP as a required routing protocol experience.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "OSPF",
+            "category": "Routing Protocol",
+            "evidence": "Hands-on experience with routing protocols such as BGP and OSPF.",
+            "reasoning": "The job description explicitly mentions OSPF as a required routing protocol experience.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "IPv4",
+            "category": "Network Protocol",
+            "evidence": "Expertise in IPv4/IPv6, VPN technologies, L2 switching, UBT, and VSF/VSX.",
+            "reasoning": "The job description explicitly mentions IPv4 as a required expertise.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "IPv6",
+            "category": "Network Protocol",
+            "evidence": "Expertise in IPv4/IPv6, VPN technologies, L2 switching, UBT, and VSF/VSX.",
+            "reasoning": "The job description explicitly mentions IPv6 as a required expertise.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "VPN",
+            "category": "Network Security Technology",
+            "evidence": "Expertise in IPv4/IPv6, VPN technologies, L2 switching, UBT, and VSF/VSX.",
+            "reasoning": "The job description explicitly mentions VPN technologies as a required expertise.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "L2 switching",
+            "category": "Network Technology",
+            "evidence": "Expertise in IPv4/IPv6, VPN technologies, L2 switching, UBT, and VSF/VSX.",
+            "reasoning": "The job description explicitly mentions L2 switching as a required expertise.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "UBT",
+            "category": "Network Technology",
+            "evidence": "Expertise in IPv4/IPv6, VPN technologies, L2 switching, UBT, and VSF/VSX.",
+            "reasoning": "The job description explicitly mentions UBT as a required expertise.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "VSF/VSX",
+            "category": "Network Technology",
+            "evidence": "Expertise in IPv4/IPv6, VPN technologies, L2 switching, UBT, and VSF/VSX.",
+            "reasoning": "The job description explicitly mentions VSF/VSX as a required expertise.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/jobs/sr/sre/noc"
+}

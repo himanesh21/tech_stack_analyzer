@@ -1,0 +1,62 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "The result was a faster, safer transition, preserving the integrity of existing logic, unlocking AI-enabled insights, and establishing a scalable foundation for future observability and operational efficiency.",
+            "reasoning": "Dynatrace is explicitly mentioned as the target platform for migration, and its features such as AI-enabled insights and observability are highlighted.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "SIEM",
+            "category": "Security Information and Event Management",
+            "evidence": "The organization aimed to modernize its monitoring strategy by moving away from fragmented, manually managed systems to a unified, AI-driven observability platform.",
+            "reasoning": "SIEM is mentioned as the legacy platform that the organization wants to move away from, implying its previous use.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "SPL",
+            "category": "Query Language",
+            "evidence": "Automated the conversion of 75% of security and performance alerts, translating complex SPL logic into Dynatrace DQL and deploying them directly into the target environment.",
+            "reasoning": "SPL is explicitly mentioned as the query language used in the legacy system, which needed to be converted to DQL for Dynatrace.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "DQL",
+            "category": "Query Language",
+            "evidence": "Automated the conversion of 75% of security and performance alerts, translating complex SPL logic into Dynatrace DQL and deploying them directly into the target environment.",
+            "reasoning": "DQL is explicitly mentioned as the target query language used in Dynatrace, which was used for converting SPL logic.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Trusted by 150+ global customers and backed by 5,500+ successful projects, Crest Data collaborates with leading partners including Dynatrace, AWS, Datadog, Google, ServiceNow and more",
+            "reasoning": "AWS is mentioned as one of the partners Crest Data collaborates with, implying its potential use.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Trusted by 150+ global customers and backed by 5,500+ successful projects, Crest Data collaborates with leading partners including Dynatrace, AWS, Datadog, Google, ServiceNow and more",
+            "reasoning": "Datadog is mentioned as one of the partners Crest Data collaborates with, implying its potential use.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Google",
+            "category": "Cloud Provider",
+            "evidence": "Trusted by 150+ global customers and backed by 5,500+ successful projects, Crest Data collaborates with leading partners including Dynatrace, AWS, Datadog, Google, ServiceNow and more",
+            "reasoning": "Google is mentioned as one of the partners Crest Data collaborates with, implying its potential use.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Trusted by 150+ global customers and backed by 5,500+ successful projects, Crest Data collaborates with leading partners including Dynatrace, AWS, Datadog, Google, ServiceNow and more",
+            "reasoning": "ServiceNow is mentioned as one of the partners Crest Data collaborates with, implying its potential use.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/accelerating/dynatrace/migration/for/better/observability/and/business/outcomes"
+}

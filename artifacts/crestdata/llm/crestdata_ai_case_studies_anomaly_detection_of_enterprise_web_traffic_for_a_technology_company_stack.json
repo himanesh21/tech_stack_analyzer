@@ -1,0 +1,34 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Isolation Forest",
+            "category": "Machine Learning Algorithm",
+            "evidence": "Isolation Forest efficiently isolates anomalies through isolation trees.",
+            "reasoning": "The text explicitly mentions Isolation Forest as the algorithm used for anomaly detection.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Web Server Logs",
+            "category": "Data Source",
+            "evidence": "Historical Web Server Logs: Gather logs with normal and anomalous traffic, labeled using intrusion detection or known incidents.",
+            "reasoning": "The text explicitly mentions Web Server Logs as a source for training data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AI/ML",
+            "category": "Artificial Intelligence/Machine Learning",
+            "evidence": "This case study explores how AI/ML techniques enhanced web infrastructure security through anomaly detection.",
+            "reasoning": "The text explicitly mentions AI/ML as the techniques used for anomaly detection.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Python",
+            "category": "Programming Language",
+            "evidence": "",
+            "reasoning": "Although Python is not explicitly mentioned in the text, it is commonly used for machine learning tasks and could be considered a likely technology used by Crest Data.",
+            "relationship": "speculative"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/anomaly/detection/of/enterprise/web/traffic/for/a/technology/company"
+}

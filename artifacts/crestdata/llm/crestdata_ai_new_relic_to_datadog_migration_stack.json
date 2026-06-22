@@ -1,0 +1,48 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "New Relic",
+            "category": "Observability",
+            "evidence": "New Relic is a cloud observability platform that provides application performance monitoring (APM), infrastructure monitoring, log management, browser monitoring, and synthetic monitoring, all within a unified telemetry data platform.",
+            "reasoning": "New Relic is mentioned as the platform being migrated from.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "The New Relic to Datadog Migration Platform is an innovative Application designed to facilitate the seamless migration of visualizations from New Relic to Datadog.",
+            "reasoning": "Datadog is mentioned as the platform being migrated to.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "NRQL",
+            "category": "Query Language",
+            "evidence": "New Relic uses NRQL (New Relic Query Language) for data exploration.",
+            "reasoning": "NRQL is mentioned as the query language used by New Relic.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "When companies look at how to keep an eye on their systems, they consider a few top choices - like New Relic, Datadog, Dynatrace, Splunk Observability Cloud, and Elastic.",
+            "reasoning": "Dynatrace is mentioned as one of the top observability platforms considered alongside New Relic.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Splunk Observability Cloud",
+            "category": "Observability",
+            "evidence": "When companies look at how to keep an eye on their systems, they consider a few top choices - like New Relic, Datadog, Dynatrace, Splunk Observability Cloud, and Elastic.",
+            "reasoning": "Splunk Observability Cloud is mentioned as one of the top observability platforms considered alongside New Relic.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Elastic",
+            "category": "Observability",
+            "evidence": "When companies look at how to keep an eye on their systems, they consider a few top choices - like New Relic, Datadog, Dynatrace, Splunk Observability Cloud, and Elastic.",
+            "reasoning": "Elastic is mentioned as one of the top observability platforms considered alongside New Relic.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/new/relic/to/datadog/migration"
+}

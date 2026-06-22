@@ -1,0 +1,34 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Google SecOps SIEM",
+            "category": "SIEM",
+            "evidence": "",
+            "reasoning": "Although not explicitly mentioned in the provided text, there is a reference to 'Accelerate Threat Detection and Reduce Triage Time with Successful Integration with Google SecOps SIEM' in the next article link, which implies a potential connection.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "Machine Learning",
+            "category": "Programming Language/Framework",
+            "evidence": "The text mentions 'machine learning models' and 'train models for a range of threat detection use cases', which implies the use of machine learning.",
+            "reasoning": "The text explicitly mentions the use of machine learning for threat detection.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "MLOps",
+            "category": "AI/ML",
+            "evidence": "Crest Data offer specialized services in AI & ML and MLOps",
+            "reasoning": "The text explicitly mentions MLOps as a service offered by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Data Labeling & Annotation",
+            "category": "Data Annotation",
+            "evidence": "Crest Data offer specialized services in Data Labeling & Annotation for Security",
+            "reasoning": "The text explicitly mentions Data Labeling & Annotation as a service offered by Crest Data.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/ai/ready/data/labeling/for/advanced/threat/detection"
+}

@@ -1,0 +1,69 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Amazon CloudWatch",
+            "category": "Observability",
+            "evidence": "As an Amazon Web Services Advanced Services Partner, with the AWS Cloud Operations Competency in Monitoring and Observability, Crest Data delivers enterprise-grade Amazon CloudWatch services and strategic AWS CloudWatch solutions across complex cloud ecosystems.",
+            "reasoning": "The text explicitly mentions Amazon CloudWatch as a key service provided by Crest Data for observability and monitoring.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "As an Amazon Web Services Advanced Services Partner, with the AWS Cloud Operations Competency in Monitoring and Observability, Crest Data delivers enterprise-grade Amazon CloudWatch services and strategic AWS CloudWatch solutions across complex cloud ecosystems.",
+            "reasoning": "The text explicitly mentions AWS as the cloud provider with which Crest Data works.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Deep experience delivering CloudWatch integration services across AWS, Azure, GCP, Datadog, Dynatrace, Splunk, Elastic, QRadar, and other leading observability and security platforms.",
+            "reasoning": "The text mentions Datadog as one of the observability platforms Crest Data integrates with.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Deep experience delivering CloudWatch integration services across AWS, Azure, GCP, Datadog, Dynatrace, Splunk, Elastic, QRadar, and other leading observability and security platforms.",
+            "reasoning": "The text mentions Dynatrace as one of the observability platforms Crest Data integrates with.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Splunk",
+            "category": "SIEM",
+            "evidence": "Deep experience delivering CloudWatch integration services across AWS, Azure, GCP, Datadog, Dynatrace, Splunk, Elastic, QRadar, and other leading observability and security platforms.",
+            "reasoning": "The text mentions Splunk as one of the platforms Crest Data integrates with.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Elastic",
+            "category": "Observability",
+            "evidence": "Deep experience delivering CloudWatch integration services across AWS, Azure, GCP, Datadog, Dynatrace, Splunk, Elastic, QRadar, and other leading observability and security platforms.",
+            "reasoning": "The text mentions Elastic as one of the observability platforms Crest Data integrates with.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "QRadar",
+            "category": "SIEM",
+            "evidence": "Deep experience delivering CloudWatch integration services across AWS, Azure, GCP, Datadog, Dynatrace, Splunk, Elastic, QRadar, and other leading observability and security platforms.",
+            "reasoning": "The text mentions QRadar as one of the platforms Crest Data integrates with.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Azure",
+            "category": "Cloud Provider",
+            "evidence": "Deep experience delivering CloudWatch integration services across AWS, Azure, GCP, Datadog, Dynatrace, Splunk, Elastic, QRadar, and other leading observability and security platforms.",
+            "reasoning": "The text mentions Azure as one of the cloud providers Crest Data works with.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "GCP",
+            "category": "Cloud Provider",
+            "evidence": "Deep experience delivering CloudWatch integration services across AWS, Azure, GCP, Datadog, Dynatrace, Splunk, Elastic, QRadar, and other leading observability and security platforms.",
+            "reasoning": "The text mentions GCP as one of the cloud providers Crest Data works with.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/amazon/cloudwatch"
+}

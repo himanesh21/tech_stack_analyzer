@@ -1,0 +1,41 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Python",
+            "category": "Programming Language",
+            "evidence": "\u2022 Proficiency in Core Python, Rest API development, and Django/Flask frameworks",
+            "reasoning": "The job posting explicitly requires proficiency in Python as a core skill for the Lead Engineer role.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Django",
+            "category": "Framework",
+            "evidence": "\u2022 Proficiency in Core Python, Rest API development, and Django/Flask frameworks",
+            "reasoning": "Django is explicitly listed as a required framework in the job description.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Flask",
+            "category": "Framework",
+            "evidence": "\u2022 Proficiency in Core Python, Rest API development, and Django/Flask frameworks",
+            "reasoning": "Flask is explicitly mentioned as a required framework alongside Django.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "REST API",
+            "category": "API/Service",
+            "evidence": "\u2022 Proficiency in Core Python, Rest API development, and Django/Flask frameworks",
+            "reasoning": "REST API development is explicitly required as part of the job responsibilities.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Agile",
+            "category": "IT Service Management",
+            "evidence": "\u2022 Familiarity with Agile methodology and customer-facing roles.",
+            "reasoning": "Agile methodology is explicitly mentioned as a required skill for project delivery.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://in/linkedin/com/in/ronak/shah/531944b7"
+}

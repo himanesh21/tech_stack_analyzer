@@ -1,0 +1,111 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "The decision was driven by AWS\u2019s comprehensive ecosystem of managed services, native support for infrastructure automation, and enterprise-grade security features.",
+            "reasoning": "AWS is explicitly mentioned as the chosen cloud provider for the new venture due to its advantages over LiquidWeb.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon EC2",
+            "category": "Cloud Provider",
+            "evidence": "The solution leverages a range of AWS services, including Amazon EC2, Amazon Aurora PostgreSQL, Amazon CloudFront, AWS Lambda, Amazon S3, and AWS Secrets Manager.",
+            "reasoning": "Amazon EC2 is explicitly listed as part of the AWS services used in the solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon Aurora PostgreSQL",
+            "category": "Database",
+            "evidence": "The solution leverages a range of AWS services, including Amazon EC2, Amazon Aurora PostgreSQL, Amazon CloudFront, AWS Lambda, Amazon S3, and AWS Secrets Manager.",
+            "reasoning": "Amazon Aurora PostgreSQL is explicitly listed as part of the AWS services used in the solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Network",
+            "evidence": "The solution leverages a range of AWS services, including Amazon EC2, Amazon Aurora PostgreSQL, Amazon CloudFront, AWS Lambda, Amazon S3, and AWS Secrets Manager.",
+            "reasoning": "Amazon CloudFront is explicitly listed as part of the AWS services used in the solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Lambda",
+            "category": "Serverless Computing",
+            "evidence": "The solution leverages a range of AWS services, including Amazon EC2, Amazon Aurora PostgreSQL, Amazon CloudFront, AWS Lambda, Amazon S3, and AWS Secrets Manager.",
+            "reasoning": "AWS Lambda is explicitly listed as part of the AWS services used in the solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon S3",
+            "category": "Cloud Storage",
+            "evidence": "The solution leverages a range of AWS services, including Amazon EC2, Amazon Aurora PostgreSQL, Amazon CloudFront, AWS Lambda, Amazon S3, and AWS Secrets Manager.",
+            "reasoning": "Amazon S3 is explicitly listed as part of the AWS services used in the solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Secrets Manager",
+            "category": "Secrets Management",
+            "evidence": "The solution leverages a range of AWS services, including Amazon EC2, Amazon Aurora PostgreSQL, Amazon CloudFront, AWS Lambda, Amazon S3, and AWS Secrets Manager.",
+            "reasoning": "AWS Secrets Manager is explicitly listed as part of the AWS services used in the solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Docker Compose",
+            "category": "Containerization",
+            "evidence": "A containerized application stack using Docker Compose enables modular deployment and operational consistency.",
+            "reasoning": "Docker Compose is explicitly mentioned as used for containerized application stack.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Prometheus",
+            "category": "Observability",
+            "evidence": "integrating open-source observability tools like Grafana, Prometheus, Loki, and Fluent Bit to deliver end-to-end monitoring across metrics, logs, and system health.",
+            "reasoning": "Prometheus is explicitly listed as part of the observability tools used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Grafana",
+            "category": "Observability",
+            "evidence": "integrating open-source observability tools like Grafana, Prometheus, Loki, and Fluent Bit to deliver end-to-end monitoring across metrics, logs, and system health.",
+            "reasoning": "Grafana is explicitly listed as part of the observability tools used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Loki",
+            "category": "Observability",
+            "evidence": "integrating open-source observability tools like Grafana, Prometheus, Loki, and Fluent Bit to deliver end-to-end monitoring across metrics, logs, and system health.",
+            "reasoning": "Loki is explicitly listed as part of the observability tools used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Fluent Bit",
+            "category": "Observability",
+            "evidence": "integrating open-source observability tools like Grafana, Prometheus, Loki, and Fluent Bit to deliver end-to-end monitoring across metrics, logs, and system health.",
+            "reasoning": "Fluent Bit is explicitly listed as part of the observability tools used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Terraform",
+            "category": "Infrastructure as Code",
+            "evidence": "Entire infrastructure defined using Infrastructure as Code (IaC) with Terraform.",
+            "reasoning": "Terraform is explicitly mentioned as used for infrastructure as code.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "GitLab CI/CD",
+            "category": "Continuous Integration/Continuous Deployment",
+            "evidence": "GitLab pipelines automate deployment of Terraform stacks on code merges, enabling true continuous deployment.",
+            "reasoning": "GitLab CI/CD is explicitly mentioned as used for automation and deployment.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "LiquidWeb",
+            "category": "Cloud Provider",
+            "evidence": "The customer\u2019s existing products were hosted on LiquidWeb, which had served them adequately for simpler workloads.",
+            "reasoning": "LiquidWeb is mentioned as the previous cloud provider.",
+            "relationship": "speculative"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/business/applications/through/resilient/aws/architecture"
+}

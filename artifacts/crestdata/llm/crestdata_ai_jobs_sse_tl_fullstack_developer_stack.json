@@ -1,0 +1,83 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Node",
+            "category": "Programming Language",
+            "evidence": "Extensive software development experience in backend technologies (Node/Python/Java).",
+            "reasoning": "The job description explicitly mentions Node as a required backend technology.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Python",
+            "category": "Programming Language",
+            "evidence": "Extensive software development experience in backend technologies (Node/Python/Java).",
+            "reasoning": "The job description explicitly mentions Python as a required backend technology.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Java",
+            "category": "Programming Language",
+            "evidence": "Extensive software development experience in backend technologies (Node/Python/Java).",
+            "reasoning": "The job description explicitly mentions Java as a required backend technology.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "React",
+            "category": "Framework",
+            "evidence": "Extensive experience in JavaScript technologies (React/Angular).",
+            "reasoning": "The job description explicitly mentions React as a required JavaScript technology.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Angular",
+            "category": "Framework",
+            "evidence": "Extensive experience in JavaScript technologies (React/Angular).",
+            "reasoning": "The job description explicitly mentions Angular as a required JavaScript technology.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "JavaScript",
+            "category": "Programming Language",
+            "evidence": "Extensive experience in JavaScript technologies (React/Angular).",
+            "reasoning": "The job description implies that JavaScript is a required technology, as it mentions JavaScript technologies.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "RESTful web services",
+            "category": "API Framework",
+            "evidence": "Experience in developing RESTful web services using any framework.",
+            "reasoning": "The job description explicitly mentions experience with RESTful web services.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Agile",
+            "category": "Software Development Methodology",
+            "evidence": "Experience working with Agile software development methodology.",
+            "reasoning": "The job description explicitly mentions experience with Agile methodology.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Linux",
+            "category": "Operating System",
+            "evidence": "Experience with Linux programming, or expertise in the areas of Big Data and/or Data Analytics, is a plus.",
+            "reasoning": "The job description mentions Linux programming as a plus.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "Big Data",
+            "category": "Data Processing Framework",
+            "evidence": "Experience with Linux programming, or expertise in the areas of Big Data and/or Data Analytics, is a plus.",
+            "reasoning": "The job description mentions Big Data as a plus.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "Data Analytics",
+            "category": "Data Analysis",
+            "evidence": "Experience with Linux programming, or expertise in the areas of Big Data and/or Data Analytics, is a plus.",
+            "reasoning": "The job description mentions Data Analytics as a plus.",
+            "relationship": "speculative"
+        }
+    ],
+    "url": "https://crestdata/ai/jobs/sse/tl/fullstack/developer"
+}

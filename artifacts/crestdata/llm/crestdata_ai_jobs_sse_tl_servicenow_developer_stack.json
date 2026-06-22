@@ -1,0 +1,104 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Consult internal customers on industry and ServiceNow best practices",
+            "reasoning": "The job description explicitly mentions ServiceNow as a key technology used by the company.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "JavaScript",
+            "category": "Programming Language",
+            "evidence": "Expertise in writing JavaScript code",
+            "reasoning": "The job description explicitly mentions JavaScript as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Angular",
+            "category": "Framework",
+            "evidence": "Experience in developing UI pages with JavaScript, Angular/React",
+            "reasoning": "The job description explicitly mentions Angular as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "React",
+            "category": "Framework",
+            "evidence": "Experience in developing UI pages with JavaScript, Angular/React",
+            "reasoning": "The job description explicitly mentions React as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "REST APIs",
+            "category": "API",
+            "evidence": "Familiarity with REST APIs and integrations",
+            "reasoning": "The job description explicitly mentions REST APIs as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "HTML",
+            "category": "Markup Language",
+            "evidence": "Expertise with UI technologies including HTML, CSS, and AJAX practices",
+            "reasoning": "The job description explicitly mentions HTML as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CSS",
+            "category": "Styling Language",
+            "evidence": "Expertise with UI technologies including HTML, CSS, and AJAX practices",
+            "reasoning": "The job description explicitly mentions CSS as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AJAX",
+            "category": "Web Development Technique",
+            "evidence": "Expertise with UI technologies including HTML, CSS, and AJAX practices",
+            "reasoning": "The job description explicitly mentions AJAX as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CMDB",
+            "category": "IT Service Management",
+            "evidence": "Work experience in CMDB, ITSM, SPM, and SecOps modules",
+            "reasoning": "The job description mentions CMDB as a good-to-have experience.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ITSM",
+            "category": "IT Service Management",
+            "evidence": "Work experience in CMDB, ITSM, SPM, and SecOps modules",
+            "reasoning": "The job description mentions ITSM as a good-to-have experience.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "SPM",
+            "category": "IT Service Management",
+            "evidence": "Work experience in CMDB, ITSM, SPM, and SecOps modules",
+            "reasoning": "The job description mentions SPM as a good-to-have experience.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "SecOps",
+            "category": "Security Operations",
+            "evidence": "Work experience in CMDB, ITSM, SPM, and SecOps modules",
+            "reasoning": "The job description mentions SecOps as a good-to-have experience.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Agile",
+            "category": "Methodology",
+            "evidence": "Worked on Agile-based projects and comfortable with DevOps-based deployments",
+            "reasoning": "The job description mentions Agile as a good-to-have experience.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "DevOps",
+            "category": "Methodology",
+            "evidence": "Worked on Agile-based projects and comfortable with DevOps-based deployments",
+            "reasoning": "The job description mentions DevOps as a good-to-have experience.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/jobs/sse/tl/servicenow/developer"
+}

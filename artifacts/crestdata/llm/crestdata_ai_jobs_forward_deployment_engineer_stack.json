@@ -1,0 +1,83 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Python",
+            "category": "Programming Language",
+            "evidence": "Strong programming skills in Python / Java / JavaScript (Node.js)",
+            "reasoning": "The job description explicitly mentions Python as a required programming skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Java",
+            "category": "Programming Language",
+            "evidence": "Strong programming skills in Python / Java / JavaScript (Node.js)",
+            "reasoning": "The job description explicitly mentions Java as a required programming skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "JavaScript",
+            "category": "Programming Language",
+            "evidence": "Strong programming skills in Python / Java / JavaScript (Node.js)",
+            "reasoning": "The job description explicitly mentions JavaScript (Node.js) as a required programming skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Familiarity with cloud platforms such as AWS, Azure, or GCP",
+            "reasoning": "The job description explicitly mentions AWS as a cloud platform that the engineer should be familiar with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Azure",
+            "category": "Cloud Provider",
+            "evidence": "Familiarity with cloud platforms such as AWS, Azure, or GCP",
+            "reasoning": "The job description explicitly mentions Azure as a cloud platform that the engineer should be familiar with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "GCP",
+            "category": "Cloud Provider",
+            "evidence": "Familiarity with cloud platforms such as AWS, Azure, or GCP",
+            "reasoning": "The job description explicitly mentions GCP as a cloud platform that the engineer should be familiar with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "SQL",
+            "category": "Database",
+            "evidence": "Knowledge of databases (SQL / NoSQL)",
+            "reasoning": "The job description explicitly mentions SQL as a type of database that the engineer should be familiar with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "NoSQL",
+            "category": "Database",
+            "evidence": "Knowledge of databases (SQL / NoSQL)",
+            "reasoning": "The job description explicitly mentions NoSQL as a type of database that the engineer should be familiar with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Docker",
+            "category": "DevOps Tool",
+            "evidence": "Knowledge of databases (SQL / NoSQL) and DevOps tools (Docker, CI/CD, Kubernetes)",
+            "reasoning": "The job description explicitly mentions Docker as a DevOps tool that the engineer should be familiar with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Kubernetes",
+            "category": "DevOps Tool",
+            "evidence": "Knowledge of databases (SQL / NoSQL) and DevOps tools (Docker, CI/CD, Kubernetes)",
+            "reasoning": "The job description explicitly mentions Kubernetes as a DevOps tool that the engineer should be familiar with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CI/CD",
+            "category": "DevOps Tool",
+            "evidence": "Knowledge of databases (SQL / NoSQL) and DevOps tools (Docker, CI/CD, Kubernetes)",
+            "reasoning": "The job description explicitly mentions CI/CD as a DevOps tool that the engineer should be familiar with.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/jobs/forward/deployment/engineer"
+}

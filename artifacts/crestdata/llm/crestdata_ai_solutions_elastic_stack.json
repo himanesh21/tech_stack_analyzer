@@ -1,0 +1,55 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Elastic",
+            "category": "Observability, Security, Enterprise Search",
+            "evidence": "Elastic offers a cutting-edge AI platform to search, observe, and secure this data landscape.",
+            "reasoning": "The text explicitly mentions Elastic as a key technology used by Crest Data to provide observability, security, and enterprise search services.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Delivering High-Availability Business Applications Through a Resilient AWS Architecture",
+            "reasoning": "The text strongly implies that Crest Data uses AWS as a cloud provider, as there is a case study on delivering high-availability business applications through a resilient AWS architecture.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Scaling Enterprise Sybase Monitoring Through Datadog Integration",
+            "reasoning": "The text strongly implies that Crest Data uses Datadog for observability, as there is a case study on scaling enterprise Sybase monitoring through Datadog integration.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Accelerating Dynatrace Migration for Better Observability and Business Outcomes",
+            "reasoning": "The text strongly implies that Crest Data uses Dynatrace for observability, as there is a case study on accelerating Dynatrace migration for better observability and business outcomes.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "The text strongly implies that Crest Data uses ServiceNow for IT service management, as there is a case study on intelligent SAM on ServiceNow.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Wazuh",
+            "category": "Security",
+            "evidence": "Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "The text strongly implies that Crest Data uses Wazuh for security, as there is a case study on extending threat intelligence reach with a native Wazuh integration.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ThreatQ",
+            "category": "Security",
+            "evidence": "Enabling Enterprise-Scale Threat Investigations with a Browser-Based Intelligence Extension",
+            "reasoning": "The text strongly implies that Crest Data uses ThreatQ for security, as there is a case study on enabling enterprise-scale threat investigations with a browser-based intelligence extension.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/elastic"
+}

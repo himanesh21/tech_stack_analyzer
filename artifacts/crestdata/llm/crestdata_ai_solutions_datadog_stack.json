@@ -1,0 +1,55 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Crest Data is an Advanced Datadog partner",
+            "reasoning": "Crest Data is explicitly mentioned as an Advanced Datadog partner, indicating a strong relationship with Datadog.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk",
+            "category": "SIEM",
+            "evidence": "Automated migration engine enabling up to 55% faster migrations from Splunk, New Relic, and Elastic to Datadog",
+            "reasoning": "Splunk is mentioned as one of the platforms that Crest Data can migrate from to Datadog, implying that some clients may be using Splunk.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "New Relic",
+            "category": "Observability",
+            "evidence": "Automated migration engine enabling up to 55% faster migrations from Splunk, New Relic, and Elastic to Datadog",
+            "reasoning": "New Relic is mentioned as one of the platforms that Crest Data can migrate from to Datadog, implying that some clients may be using New Relic.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Elastic",
+            "category": "Search and Analytics",
+            "evidence": "Automated migration engine enabling up to 55% faster migrations from Splunk, New Relic, and Elastic to Datadog",
+            "reasoning": "Elastic is mentioned as one of the platforms that Crest Data can migrate from to Datadog, implying that some clients may be using Elastic.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Microsoft 365 Defender",
+            "category": "Security",
+            "evidence": "Microsoft 365 Defender Integration with Datadog",
+            "reasoning": "Microsoft 365 Defender is mentioned as being integrated with Datadog, implying usage by Crest Data clients.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dell EMC Isilon",
+            "category": "Storage",
+            "evidence": "Dell EMC Isilon Integration with Datadog",
+            "reasoning": "Dell EMC Isilon is mentioned as being integrated with Datadog, implying usage by Crest Data clients.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "CyberArk",
+            "category": "Privileged Access Management",
+            "evidence": "Improving Privileged Access Management Visibility and Governance with Datadog",
+            "reasoning": "CyberArk is mentioned in the context of improving privileged access management visibility and governance with Datadog, implying usage by Crest Data clients.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/datadog"
+}

@@ -1,0 +1,76 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Kubernetes",
+            "category": "Container Orchestration",
+            "evidence": "Kubernetes at scale",
+            "reasoning": "The text mentions 'Kubernetes at scale' as one of the key themes discussed at KubeCon + CloudNativeCon India 2026, which implies that Crest Data is involved with Kubernetes.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Platform Engineering",
+            "category": "Software Development",
+            "evidence": "Platform Engineering",
+            "reasoning": "The text explicitly mentions 'Platform Engineering' as one of the key themes discussed at KubeCon + CloudNativeCon India 2026, which implies that Crest Data is involved with Platform Engineering.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Observability",
+            "category": "Monitoring and Logging",
+            "evidence": "Observability & AI-driven Operations",
+            "reasoning": "The text mentions 'Observability & AI-driven Operations' as one of the key themes discussed at KubeCon + CloudNativeCon India 2026, which implies that Crest Data is involved with Observability.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Distributed databases",
+            "category": "Database",
+            "evidence": "Distributed databases powering the next generation of resilient and globally scalable applications",
+            "reasoning": "The text mentions 'Distributed databases' as one of the key themes discussed at KubeCon + CloudNativeCon India 2026, which implies that Crest Data is involved with Distributed databases.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Cast AI",
+            "category": "Cloud Cost Optimization",
+            "evidence": "teams from Cast AI",
+            "reasoning": "The text mentions 'teams from Cast AI' as one of the participants at KubeCon + CloudNativeCon India 2026, which implies that Cast AI is a technology used or involved with Crest Data.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Chainguard",
+            "category": "Cloud Security",
+            "evidence": "teams from Chainguard",
+            "reasoning": "The text mentions 'teams from Chainguard' as one of the participants at KubeCon + CloudNativeCon India 2026, which implies that Chainguard is a technology used or involved with Crest Data.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Microsoft Azure",
+            "category": "Cloud Provider",
+            "evidence": "teams from Microsoft Azure",
+            "reasoning": "The text mentions 'teams from Microsoft Azure' as one of the participants at KubeCon + CloudNativeCon India 2026, which implies that Microsoft Azure is a technology used or involved with Crest Data.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "VMware",
+            "category": "Virtualization",
+            "evidence": "teams from VMware",
+            "reasoning": "The text mentions 'teams from VMware' as one of the participants at KubeCon + CloudNativeCon India 2026, which implies that VMware is a technology used or involved with Crest Data.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ClickHouse",
+            "category": "Database",
+            "evidence": "teams from ClickHouse",
+            "reasoning": "The text mentions 'teams from ClickHouse' as one of the participants at KubeCon + CloudNativeCon India 2026, which implies that ClickHouse is a technology used or involved with Crest Data.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Grafana Labs",
+            "category": "Monitoring and Logging",
+            "evidence": "teams from Grafana Labs",
+            "reasoning": "The text mentions 'teams from Grafana Labs' as one of the participants at KubeCon + CloudNativeCon India 2026, which implies that Grafana Labs is a technology used or involved with Crest Data.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://in/linkedin/com/in/jay/patel/173505220"
+}

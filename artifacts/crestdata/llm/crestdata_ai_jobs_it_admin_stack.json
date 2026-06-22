@@ -1,0 +1,76 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Linux",
+            "category": "Operating System",
+            "evidence": "Strong hands-on experience with Linux distributions: Red Hat, CentOS, Ubuntu.",
+            "reasoning": "The job description explicitly mentions the requirement for experience with Linux distributions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Red Hat",
+            "category": "Operating System",
+            "evidence": "Strong hands-on experience with Linux distributions: Red Hat, CentOS, Ubuntu.",
+            "reasoning": "Red Hat is explicitly mentioned as one of the Linux distributions required.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CentOS",
+            "category": "Operating System",
+            "evidence": "Strong hands-on experience with Linux distributions: Red Hat, CentOS, Ubuntu.",
+            "reasoning": "CentOS is explicitly mentioned as one of the Linux distributions required.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Ubuntu",
+            "category": "Operating System",
+            "evidence": "Strong hands-on experience with Linux distributions: Red Hat, CentOS, Ubuntu.",
+            "reasoning": "Ubuntu is explicitly mentioned as one of the Linux distributions required.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "VMware",
+            "category": "Virtualization",
+            "evidence": "Experience with server and service deployment on VMware, AWS, GCP, or Azure.",
+            "reasoning": "VMware is explicitly mentioned as one of the platforms for server deployment.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Experience with server and service deployment on VMware, AWS, GCP, or Azure.",
+            "reasoning": "AWS is explicitly mentioned as one of the cloud platforms for server deployment.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "GCP",
+            "category": "Cloud Provider",
+            "evidence": "Experience with server and service deployment on VMware, AWS, GCP, or Azure.",
+            "reasoning": "GCP is explicitly mentioned as one of the cloud platforms for server deployment.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Azure",
+            "category": "Cloud Provider",
+            "evidence": "Experience with server and service deployment on VMware, AWS, GCP, or Azure.",
+            "reasoning": "Azure is explicitly mentioned as one of the cloud platforms for server deployment.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CI/CD tools",
+            "category": "DevOps",
+            "evidence": "Knowledge of CI/CD tools and pipelines (basic to intermediate level).",
+            "reasoning": "The job description explicitly mentions the requirement for knowledge of CI/CD tools and pipelines.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "SSL certificates",
+            "category": "Security",
+            "evidence": "Experience with SSL certificate installation, renewal, and configuration.",
+            "reasoning": "The job description explicitly mentions the requirement for experience with SSL certificate management.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/jobs/it/admin"
+}

@@ -1,0 +1,76 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Amazon CloudWatch",
+            "category": "Cloud Provider",
+            "evidence": "Amazon CloudWatch",
+            "reasoning": "The text explicitly mentions Amazon CloudWatch.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "AWS",
+            "reasoning": "The text explicitly mentions AWS.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS CloudWatch",
+            "category": "Cloud Provider",
+            "evidence": "AWS CloudWatch",
+            "reasoning": "The text explicitly mentions AWS CloudWatch.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Artificial Intelligence",
+            "category": "AI/ML",
+            "evidence": "Artificial Intelligence",
+            "reasoning": "The text explicitly mentions Artificial Intelligence.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AIOps",
+            "category": "AI/ML",
+            "evidence": "AIOps",
+            "reasoning": "The text explicitly mentions AIOps.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AI Agents",
+            "category": "AI/ML",
+            "evidence": "AI Agents",
+            "reasoning": "The text explicitly mentions AI Agents.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "LinkedIn",
+            "category": "Social Media",
+            "evidence": "Linkedin",
+            "reasoning": "The text mentions LinkedIn as a social media platform used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "X-twitter",
+            "category": "Social Media",
+            "evidence": "X-twitter",
+            "reasoning": "The text mentions X-twitter as a social media platform used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Instagram",
+            "category": "Social Media",
+            "evidence": "Instagram",
+            "reasoning": "The text mentions Instagram as a social media platform used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Facebook",
+            "category": "Social Media",
+            "evidence": "Facebook",
+            "reasoning": "The text mentions Facebook as a social media platform used by Crest Data.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/6"
+}

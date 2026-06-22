@@ -1,0 +1,62 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Splunk",
+            "category": "Observability / Monitoring",
+            "evidence": "Experience working with tools like Splunk, Datadog, Dynatrace, Elastic, cloud-native tools, or security platforms",
+            "reasoning": "The job description explicitly mentions Splunk as one of the tools the company expects the candidate to have experience with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability / Monitoring",
+            "evidence": "Experience working with tools like Splunk, Datadog, Dynatrace, Elastic, cloud-native tools, or security platforms",
+            "reasoning": "The job description explicitly mentions Datadog as one of the tools the company expects the candidate to have experience with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability / Monitoring",
+            "evidence": "Experience working with tools like Splunk, Datadog, Dynatrace, Elastic, cloud-native tools, or security platforms",
+            "reasoning": "The job description explicitly mentions Dynatrace as one of the tools the company expects the candidate to have experience with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Elastic",
+            "category": "Observability / Monitoring",
+            "evidence": "Experience working with tools like Splunk, Datadog, Dynatrace, Elastic, cloud-native tools, or security platforms",
+            "reasoning": "The job description explicitly mentions Elastic as one of the tools the company expects the candidate to have experience with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud platforms",
+            "evidence": "Strong fundamentals in at least one of the following domains: Security (SIEM, SOAR, SOC, Cloud Security, etc.)  * Observability / Monitoring  * Cloud platforms (AWS, Azure, GCP)",
+            "reasoning": "The job description explicitly mentions AWS as one of the cloud platforms the company expects the candidate to have strong fundamentals in.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Azure",
+            "category": "Cloud platforms",
+            "evidence": "Strong fundamentals in at least one of the following domains: Security (SIEM, SOAR, SOC, Cloud Security, etc.)  * Observability / Monitoring  * Cloud platforms (AWS, Azure, GCP)",
+            "reasoning": "The job description explicitly mentions Azure as one of the cloud platforms the company expects the candidate to have strong fundamentals in.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "GCP",
+            "category": "Cloud platforms",
+            "evidence": "Strong fundamentals in at least one of the following domains: Security (SIEM, SOAR, SOC, Cloud Security, etc.)  * Observability / Monitoring  * Cloud platforms (AWS, Azure, GCP)",
+            "reasoning": "The job description explicitly mentions GCP as one of the cloud platforms the company expects the candidate to have strong fundamentals in.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "SSE/TL ServiceNow Developer",
+            "reasoning": "The company has another job posting for an SSE/TL ServiceNow Developer, implying that ServiceNow is a technology used or supported by the company.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/jobs/technical/sales/engineer"
+}

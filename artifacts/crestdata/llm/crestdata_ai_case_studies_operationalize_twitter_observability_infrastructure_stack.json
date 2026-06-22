@@ -1,0 +1,34 @@
+{
+    "subject_company": "Twitter",
+    "technologies": [
+        {
+            "name": "Splunk",
+            "category": "Observability",
+            "evidence": "Crest Data provided a comprehensive solution for managing Twitter\u2019s Observability and Splunk Infrastructure.",
+            "reasoning": "The text explicitly mentions that Crest Data managed Twitter's Splunk infrastructure, indicating that Splunk was used by Twitter.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Puppet",
+            "category": "Automation Tool",
+            "evidence": "To streamline the configuration process, Puppet is employed to handle Splunk Day 0 and Day 1 configurations once the infrastructure is deployed.",
+            "reasoning": "The text explicitly states that Puppet is used for handling Splunk configurations, indicating its usage by Twitter.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Airflow",
+            "category": "Automation Tool",
+            "evidence": "Additionally, Airflow is utilized to automate Day 2 Changes, including Splunk Upgrades.",
+            "reasoning": "The text explicitly mentions Airflow as a tool used for automating changes and upgrades, indicating its usage by Twitter.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Jenkins",
+            "category": "CI/CD Tool",
+            "evidence": "Jenkins Parameterized Pipelines are employed to facilitate the deployment of Puppet and Airflow.",
+            "reasoning": "The text explicitly mentions Jenkins as a tool used for deploying Puppet and Airflow, indicating its usage by Twitter.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/operationalize/twitter/observability/infrastructure"
+}

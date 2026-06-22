@@ -1,0 +1,83 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Delivering High-Availability Business Applications Through a Resilient AWS Architecture",
+            "reasoning": "Crest Data uses AWS for cloud migration and high-availability business applications.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Scaling Enterprise Sybase Monitoring Through Datadog Integration",
+            "reasoning": "Crest Data uses Datadog for monitoring and observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Accelerating Dynatrace Migration for Better Observability and Business Outcomes",
+            "reasoning": "Crest Data uses Dynatrace for observability and migration.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "Crest Data uses ServiceNow for IT service management and automation.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Wazuh",
+            "category": "SIEM",
+            "evidence": "Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "Crest Data uses Wazuh for threat intelligence and SIEM.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ThreatQ",
+            "category": "Threat Intelligence",
+            "evidence": "Enabling Enterprise-Scale Threat Investigations with a Browser-Based Intelligence Extension",
+            "reasoning": "Crest Data uses ThreatQ for threat investigations and intelligence.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CyberArk",
+            "category": "Privileged Access Management",
+            "evidence": "Improving Privileged Access Management Visibility and Governance with Datadog",
+            "reasoning": "Crest Data uses CyberArk for privileged access management.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "SIEM",
+            "category": "SIEM",
+            "evidence": "We help organizations design, build, and continuously optimize SIEM platforms to maximize visibility, accelerate response, and extract real value from security investments.",
+            "reasoning": "Crest Data works with SIEM platforms.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "SOAR",
+            "category": "SOAR",
+            "evidence": "We help organizations design, build, and continuously optimize SIEM and SOAR platforms to maximize visibility, accelerate response, and extract real value from security investments.",
+            "reasoning": "Crest Data works with SOAR platforms.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "XDR",
+            "category": "Extended Detection and Response",
+            "evidence": "Our enterprise security solutions are built for real-world scale and complexity; from onboarding hundreds of tenants to processing tens of terabytes of data daily.",
+            "reasoning": "Crest Data works with XDR as part of their security solutions.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "IAM",
+            "category": "Identity and Access Management",
+            "evidence": "Our identity and access management services protect user identities by assessing IAM posture, securing Active Directory environments, and leveraging attack surface management tools.",
+            "reasoning": "Crest Data works with IAM solutions.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/security"
+}

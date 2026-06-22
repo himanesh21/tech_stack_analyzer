@@ -1,0 +1,62 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "ITSM",
+            "category": "IT Service Management",
+            "evidence": "Crest Data works with you as a strategic partner, offering managed ITSM services for Day 2 operations for your ITSM solution.",
+            "reasoning": "The text explicitly mentions ITSM as a platform that Crest Data provides managed services for.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Delivering High-Availability Business Applications Through a Resilient AWS Architecture",
+            "reasoning": "The text strongly implies that Crest Data uses AWS for cloud services, as there is a case study focused on AWS architecture.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Accelerating Dynatrace Migration for Better Observability and Business Outcomes",
+            "reasoning": "The text strongly implies that Crest Data uses Dynatrace for observability, as there is a case study focused on Dynatrace migration.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Scaling Enterprise Sybase Monitoring Through Datadog Integration",
+            "reasoning": "The text strongly implies that Crest Data uses Datadog for monitoring and observability, as there is a case study focused on Datadog integration.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "The text strongly implies that Crest Data uses ServiceNow for IT service management, as there is a case study focused on ServiceNow automation.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Wazuh",
+            "category": "SIEM",
+            "evidence": "Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "The text strongly implies that Crest Data uses Wazuh for threat intelligence and SIEM, as there is a case study focused on Wazuh integration.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ThreatQ",
+            "category": "Threat Intelligence",
+            "evidence": "Enabling Enterprise-Scale Threat Investigations with a Browser-Based Intelligence Extension",
+            "reasoning": "The text strongly implies that Crest Data uses ThreatQ for threat intelligence, as there is a case study focused on ThreatQ integration.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "CyberArk",
+            "category": "Privileged Access Management",
+            "evidence": "Improving Privileged Access Management Visibility and Governance with Datadog",
+            "reasoning": "The text strongly implies that Crest Data uses CyberArk for privileged access management, as there is a case study focused on CyberArk visibility and governance.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/itsm"
+}

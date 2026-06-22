@@ -1,0 +1,27 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Threat Intelligence platform",
+            "category": "Threat Intelligence Platform",
+            "evidence": "The extension integrates directly with: Threat Intelligence platform for threat intelligence lookup, enrichment, and indicator management",
+            "reasoning": "The text explicitly mentions that the browser extension integrates with a Threat Intelligence platform for threat intelligence lookup, enrichment, and indicator management.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "SIEM platform",
+            "category": "SIEM",
+            "evidence": "The extension integrates directly with: SIEM platform for sightings and incident investigation",
+            "reasoning": "The text explicitly mentions that the browser extension integrates with a SIEM platform for sightings and incident investigation.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Browser Extension",
+            "category": "Browser Extension",
+            "evidence": "Crest Data built a browser extension designed specifically to streamline threat investigation workflows.",
+            "reasoning": "The text explicitly mentions that Crest Data built a browser extension to streamline threat investigation workflows.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/enterprise/scale/threat/investigations/with/browser/based/intelligence/extension"
+}

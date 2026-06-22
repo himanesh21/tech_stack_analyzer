@@ -1,0 +1,27 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Crest Data implemented its CyberArk PAM integration along with specialized Datadog dashboard development services to provide a centralized observability layer on top of the customer\u2019s privileged access environment.",
+            "reasoning": "Datadog is explicitly mentioned as the observability platform used to provide a centralized view of the customer's privileged access environment.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CyberArk",
+            "category": "Privileged Access Management",
+            "evidence": "The customer had CyberArk PAM deployed, but needed better visibility into how privileged assets were actually used.",
+            "reasoning": "CyberArk is explicitly mentioned as the privileged access management system used by the customer.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Privileged Session Manager (PSM)",
+            "category": "Privileged Session Management",
+            "evidence": "The customer wanted better visibility into Privileged Session Manager events.",
+            "reasoning": "PSM is explicitly mentioned as a component of the customer's privileged access environment.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/strengthening/access/management/visibility/and/governance/with/datadog"
+}

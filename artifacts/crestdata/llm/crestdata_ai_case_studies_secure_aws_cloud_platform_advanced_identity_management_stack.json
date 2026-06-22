@@ -1,0 +1,139 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "The customer needed a secure, scalable, and highly available cloud environment to manage identity, permissions, and operations at enterprise scale. This case study outlines how Crest Data designed and deployed a multi-region AWS cloud operations platform built for resilience and advanced identity governance spanning multiple Regions and Availability Zones, protected by AWS WAF and Shield, powered by Route 53 for reliable DNS, and optimized with an Application Load Balancer (ALB) to efficiently distribute traffic across application tiers",
+            "reasoning": "AWS is explicitly mentioned as the cloud provider for the multi-region cloud operations platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS WAF",
+            "category": "Security",
+            "evidence": "protected by AWS WAF and Shield",
+            "reasoning": "AWS WAF is explicitly mentioned as part of the security measures for the cloud platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Shield",
+            "category": "Security",
+            "evidence": "protected by AWS WAF and Shield",
+            "reasoning": "AWS Shield is explicitly mentioned as part of the security measures for the cloud platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Route 53",
+            "category": "Networking",
+            "evidence": "powered by Route 53 for reliable DNS",
+            "reasoning": "Route 53 is explicitly mentioned for its role in providing reliable DNS.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Application Load Balancer (ALB)",
+            "category": "Networking",
+            "evidence": "optimized with an Application Load Balancer (ALB) to efficiently distribute traffic across application tiers",
+            "reasoning": "ALB is explicitly mentioned for its role in distributing traffic.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon CloudWatch",
+            "category": "Observability",
+            "evidence": "unified observability through CloudWatch, Athena, Prometheus, Grafana, and ELK",
+            "reasoning": "CloudWatch is explicitly mentioned as part of the observability platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon Athena",
+            "category": "Data Analytics",
+            "evidence": "unified observability through CloudWatch, Athena, Prometheus, Grafana, and ELK",
+            "reasoning": "Athena is explicitly mentioned as part of the observability platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Prometheus",
+            "category": "Observability",
+            "evidence": "unified observability through CloudWatch, Athena, Prometheus, Grafana, and ELK",
+            "reasoning": "Prometheus is explicitly mentioned as part of the observability platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Grafana",
+            "category": "Observability",
+            "evidence": "unified observability through CloudWatch, Athena, Prometheus, Grafana, and ELK",
+            "reasoning": "Grafana is explicitly mentioned as part of the observability platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ELK stack (Elasticsearch, Logstash, Kibana)",
+            "category": "Observability",
+            "evidence": "unified observability through CloudWatch, Athena, Prometheus, Grafana, and ELK",
+            "reasoning": "ELK stack is explicitly mentioned as part of the observability platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon RDS (PostgreSQL and MySQL)",
+            "category": "Database",
+            "evidence": "Core services leverage Amazon RDS (PostgreSQL and MySQL, both Multi-AZ) for relational workloads",
+            "reasoning": "Amazon RDS is explicitly mentioned for its role in relational workloads.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon ElastiCache (Redis)",
+            "category": "Database",
+            "evidence": "Core services leverage Amazon ElastiCache (Redis) for low-latency caching",
+            "reasoning": "ElastiCache is explicitly mentioned for its role in caching.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon S3",
+            "category": "Storage",
+            "evidence": "Amazon S3 as the foundation of a durable data lake",
+            "reasoning": "S3 is explicitly mentioned as the foundation of a durable data lake.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS KMS",
+            "category": "Security",
+            "evidence": "Encrypted EBS volumes and AWS KMS secure data at rest",
+            "reasoning": "KMS is explicitly mentioned for its role in securing data at rest.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Config",
+            "category": "Security",
+            "evidence": "AWS Config enforces compliance by evaluating resource configurations against best practices",
+            "reasoning": "AWS Config is explicitly mentioned for its role in enforcing compliance.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS GuardDuty",
+            "category": "Security",
+            "evidence": "Amazon GuardDuty provides continuous threat detection",
+            "reasoning": "GuardDuty is explicitly mentioned for its role in threat detection.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Terraform",
+            "category": "Infrastructure as Code",
+            "evidence": "Provisioned cloud infrastructure using Terraform and AWS CloudFormation",
+            "reasoning": "Terraform is explicitly mentioned for its role in provisioning infrastructure.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS CloudFormation",
+            "category": "Infrastructure as Code",
+            "evidence": "Provisioned cloud infrastructure using Terraform and AWS CloudFormation",
+            "reasoning": "CloudFormation is explicitly mentioned for its role in provisioning infrastructure.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "OpenTelemetry",
+            "category": "Observability",
+            "evidence": "Implemented OpenTelemetry for distributed tracing across microservices",
+            "reasoning": "OpenTelemetry is explicitly mentioned for its role in distributed tracing.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/secure/aws/cloud/platform/advanced/identity/management"
+}

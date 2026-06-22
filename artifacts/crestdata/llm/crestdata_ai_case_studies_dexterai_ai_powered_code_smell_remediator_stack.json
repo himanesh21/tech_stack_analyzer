@@ -1,0 +1,55 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Dexter.ai",
+            "category": "AI-Powered Code Smell Remediator",
+            "evidence": "Dexter.ai is an AI-powered extension for Visual Studio Code that addresses this gap.",
+            "reasoning": "Dexter.ai is explicitly mentioned as the AI-powered code smell remediator developed by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Visual Studio Code",
+            "category": "Integrated Development Environment (IDE)",
+            "evidence": "Dexter.ai is an extension for Visual Studio Code.",
+            "reasoning": "Visual Studio Code is explicitly mentioned as the IDE where Dexter.ai operates.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "SonarQube for IDE (SonarLint)",
+            "category": "Linting Tool",
+            "evidence": "Dexter.ai integrates with existing linting extensions such as SonarQube for IDE (SonarLint).",
+            "reasoning": "SonarQube for IDE (SonarLint) is explicitly mentioned as a linting tool integrated with Dexter.ai.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Langchain",
+            "category": "Programming Library or Framework",
+            "evidence": "Tags: [Langchain]",
+            "reasoning": "Langchain is mentioned in the tags section, implying its potential usage or relevance.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Python",
+            "category": "Programming Language",
+            "evidence": "While Dexter.ai currently supports Python, its architecture is designed to easily scale to support additional languages.",
+            "reasoning": "Python is explicitly mentioned as a currently supported programming language.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Java",
+            "category": "Programming Language",
+            "evidence": "Dexter.ai\u2019s architecture is designed to easily scale to support additional languages (Java, JavaScript,and more) in the future.",
+            "reasoning": "Java is mentioned as a language that Dexter.ai plans to support in the future.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "JavaScript",
+            "category": "Programming Language",
+            "evidence": "Dexter.ai\u2019s architecture is designed to easily scale to support additional languages (Java, JavaScript,and more) in the future.",
+            "reasoning": "JavaScript is mentioned as a language that Dexter.ai plans to support in the future.",
+            "relationship": "speculative"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/dexterai/ai/powered/code/smell/remediator"
+}

@@ -1,0 +1,69 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Databricks",
+            "category": "Data Processing and Analytics",
+            "evidence": "Our expertise in Databricks empowers organizations to streamline their data processing, analytics, and AI capabilities, transforming data into actionable insights faster than ever before.",
+            "reasoning": "Databricks is explicitly mentioned as a key technology used by Crest Data to empower organizations in streamlining data processing, analytics, and AI capabilities.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Git",
+            "category": "Version Control System",
+            "evidence": "Enhance collaboration through seamless integration with version control systems like Git.",
+            "reasoning": "Git is explicitly mentioned as a version control system integrated with Databricks for collaborative version control.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Delivering High-Availability Business Applications Through a Resilient AWS Architecture",
+            "reasoning": "AWS is strongly implied to be used by Crest Data through the mention of a case study focused on delivering high-availability business applications through a resilient AWS architecture.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability and Monitoring",
+            "evidence": "Scaling Enterprise Sybase Monitoring Through Datadog Integration",
+            "reasoning": "Datadog is strongly implied to be used by Crest Data through the mention of a case study focused on scaling enterprise Sybase monitoring through Datadog integration.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability and Monitoring",
+            "evidence": "Accelerating Dynatrace Migration for Better Observability and Business Outcomes",
+            "reasoning": "Dynatrace is strongly implied to be used by Crest Data through the mention of a case study focused on accelerating Dynatrace migration for better observability and business outcomes.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "ServiceNow is strongly implied to be used by Crest Data through the mention of a case study focused on intelligent SAM on ServiceNow for automated licensing and provisioning.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Wazuh",
+            "category": "Threat Intelligence and Security",
+            "evidence": "Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "Wazuh is strongly implied to be used by Crest Data through the mention of a case study focused on extending threat intelligence reach with a native Wazuh integration.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "CyberArk",
+            "category": "Privileged Access Management",
+            "evidence": "Improving Privileged Access Management Visibility and Governance with Datadog",
+            "reasoning": "CyberArk is speculatively implied to be used by Crest Data through the mention of improving privileged access management visibility and governance with Datadog, although not directly mentioned.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "ThreatQ",
+            "category": "Threat Intelligence",
+            "evidence": "Enabling Enterprise-Scale Threat Investigations with a Browser-Based Intelligence Extension",
+            "reasoning": "ThreatQ is strongly implied to be used by Crest Data through the mention of a case study focused on enabling enterprise-scale threat investigations with a browser-based intelligence extension.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/databricks"
+}

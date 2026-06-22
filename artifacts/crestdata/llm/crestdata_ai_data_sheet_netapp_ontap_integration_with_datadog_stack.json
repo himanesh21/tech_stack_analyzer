@@ -1,0 +1,27 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "NetApp ONTAP",
+            "category": "Storage System",
+            "evidence": "Maximize the performance and security of NetApp ONTAP storage systems",
+            "reasoning": "The text explicitly mentions NetApp ONTAP as the storage system being integrated with Datadog.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability Platform",
+            "evidence": "The NetApp ONTAP Integration App, available on Datadog Marketplace",
+            "reasoning": "The text explicitly mentions Datadog as the platform being used for integration with NetApp ONTAP.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "REST API",
+            "category": "API Protocol",
+            "evidence": "uses a custom check to pull data from NetApp ONTAP Platform via REST API\u2019s",
+            "reasoning": "The text explicitly mentions REST API as the protocol being used to pull data from NetApp ONTAP.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/data/sheet/netapp/ontap/integration/with/datadog"
+}

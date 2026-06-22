@@ -1,0 +1,34 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "CREST provides services for implementing and migrating cloud infrastructure on leading cloud providers like AWS, Microsoft Azure, Google Cloud, and few other.",
+            "reasoning": "The text explicitly mentions AWS as one of the cloud providers that Crest Data works with for implementing and migrating cloud infrastructure.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Microsoft Azure",
+            "category": "Cloud Provider",
+            "evidence": "CREST provides services for implementing and migrating cloud infrastructure on leading cloud providers like AWS, Microsoft Azure, Google Cloud, and few other.",
+            "reasoning": "The text explicitly mentions Microsoft Azure as one of the cloud providers that Crest Data works with for implementing and migrating cloud infrastructure.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Google Cloud",
+            "category": "Cloud Provider",
+            "evidence": "CREST provides services for implementing and migrating cloud infrastructure on leading cloud providers like AWS, Microsoft Azure, Google Cloud, and few other.",
+            "reasoning": "The text explicitly mentions Google Cloud as one of the cloud providers that Crest Data works with for implementing and migrating cloud infrastructure.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AIOps",
+            "category": "IT Operations Management",
+            "evidence": "A smarter approach to AIOps begins effectively by performing the essential steps to make AIOps possible.",
+            "reasoning": "The text explicitly mentions AIOps as a key area of focus for Crest Data's approach to cloud migration and IT operations.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/cloud/migration"
+}

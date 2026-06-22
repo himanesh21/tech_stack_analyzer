@@ -1,0 +1,13 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "![Dynatrace Logo](https://www.crestdata.ai/wp-content/uploads/2026/01/Dynatrace-1.png)",
+            "reasoning": "The presence of the Dynatrace logo on the Crest Data website implies that they use Dynatrace for observability.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/customers"
+}

@@ -1,0 +1,20 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Datadog Agent",
+            "category": "Observability",
+            "evidence": "Datadog Agent",
+            "reasoning": "The Datadog Agent is explicitly mentioned as part of the integration with Fortinet FortiGate.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Fortinet FortiGate",
+            "category": "Next-Generation Firewall (NGFW)",
+            "evidence": "Fortinet FortiGate is a next-generation firewall (NGFW) platform that provides advanced security features, including intrusion prevention, application control, antivirus, and web filtering, all within a single, integrated appliance.",
+            "reasoning": "Fortinet FortiGate is explicitly mentioned as a next-generation firewall platform used for advanced security features.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/data/sheet/fortinet/fortigate/integration/with/datadog"
+}

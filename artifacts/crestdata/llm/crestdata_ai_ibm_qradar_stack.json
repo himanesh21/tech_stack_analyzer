@@ -1,0 +1,55 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "IBM QRadar",
+            "category": "SIEM",
+            "evidence": "Crest Data offers comprehensive IBM QRadar Services",
+            "reasoning": "IBM QRadar is explicitly mentioned as a key offering for Crest Data's services, including implementation, migration, integration, and managed services.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Delivering High-Availability Business Applications Through a Resilient AWS Architecture",
+            "reasoning": "AWS is mentioned in the context of a case study related to Crest Data's services, indicating its use in their solutions.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Scaling Enterprise Sybase Monitoring Through Datadog Integration",
+            "reasoning": "Datadog is mentioned in the context of a case study related to Crest Data's services, indicating its use in their solutions.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Accelerating Dynatrace Migration for Better Observability and Business Outcomes",
+            "reasoning": "Dynatrace is mentioned in the context of a case study related to Crest Data's services, indicating its use in their solutions.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Wazuh",
+            "category": "Threat Intelligence",
+            "evidence": "Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "Wazuh is mentioned in the context of a case study related to Crest Data's services, indicating its use in their solutions.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "CyberArk",
+            "category": "Privileged Access Management",
+            "evidence": "Improving Privileged Access Management Visibility and Governance with Datadog",
+            "reasoning": "CyberArk is mentioned in the context of a case study related to Crest Data's services, indicating its use in their solutions.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "ServiceNow is mentioned in the context of a case study related to Crest Data's services, indicating its use in their solutions.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/ibm/qradar"
+}

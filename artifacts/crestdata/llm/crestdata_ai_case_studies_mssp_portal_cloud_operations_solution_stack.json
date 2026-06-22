@@ -1,0 +1,111 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "The architecture spans multiple AWS Regions and Availability Zones (AZs), leveraging AWS-managed services across all layers.",
+            "reasoning": "The text explicitly mentions AWS as the cloud provider used for the MSSP Portal Cloud Operations Solution.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon EKS",
+            "category": "Container Orchestration",
+            "evidence": "Application microservices run on an Amazon EKS Kubernetes cluster, with its control plane distributed across AZs for resilience.",
+            "reasoning": "The text explicitly mentions Amazon EKS as the container orchestration service used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon RDS",
+            "category": "Database",
+            "evidence": "Data persistence is managed by Amazon RDS in a Multi-AZ configuration, ensuring durability and availability.",
+            "reasoning": "The text explicitly mentions Amazon RDS as the database service used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS WAF",
+            "category": "Web Application Firewall",
+            "evidence": "The platform is secured within a dedicated VPC, protected at the edge by AWS WAF against web-based threats.",
+            "reasoning": "The text explicitly mentions AWS WAF as the web application firewall used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon Route 53",
+            "category": "DNS",
+            "evidence": "Amazon Route 53 delivers highly available DNS services, while Amazon CloudFront accelerates global web traffic, offloads origin servers, and enhances overall system reliability.",
+            "reasoning": "The text explicitly mentions Amazon Route 53 as the DNS service used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Network",
+            "evidence": "Amazon CloudFront accelerates global web traffic, offloads origin servers, and enhances overall system reliability.",
+            "reasoning": "The text explicitly mentions Amazon CloudFront as the content delivery network used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Terraform",
+            "category": "Infrastructure as Code",
+            "evidence": "All infrastructure and workloads are provisioned and managed as code. Terraform scripts and Kubernetes Helm charts automate the setup and configuration of cloud resources, guaranteeing consistency and repeatability in deployments.",
+            "reasoning": "The text explicitly mentions Terraform as the infrastructure as code tool used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Kubernetes Helm",
+            "category": "Package Manager",
+            "evidence": "Terraform scripts and Kubernetes Helm charts automate the setup and configuration of cloud resources, guaranteeing consistency and repeatability in deployments.",
+            "reasoning": "The text explicitly mentions Kubernetes Helm as the package manager used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Elasticsearch",
+            "category": "Search and Observability",
+            "evidence": "The platform implements logs monitoring with Elasticsearch, Logstash, and Kibana (ELK stack) and metrics monitoring with Prometheus and Grafana, providing real-time insights, anomaly detection, and unified dashboards across all tenants.",
+            "reasoning": "The text explicitly mentions Elasticsearch as part of the ELK stack used for observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Logstash",
+            "category": "Log Processing",
+            "evidence": "The platform implements logs monitoring with Elasticsearch, Logstash, and Kibana (ELK stack) and metrics monitoring with Prometheus and Grafana, providing real-time insights, anomaly detection, and unified dashboards across all tenants.",
+            "reasoning": "The text explicitly mentions Logstash as part of the ELK stack used for observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Kibana",
+            "category": "Visualization",
+            "evidence": "The platform implements logs monitoring with Elasticsearch, Logstash, and Kibana (ELK stack) and metrics monitoring with Prometheus and Grafana, providing real-time insights, anomaly detection, and unified dashboards across all tenants.",
+            "reasoning": "The text explicitly mentions Kibana as part of the ELK stack used for observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Prometheus",
+            "category": "Metrics Monitoring",
+            "evidence": "The platform implements logs monitoring with Elasticsearch, Logstash, and Kibana (ELK stack) and metrics monitoring with Prometheus and Grafana, providing real-time insights, anomaly detection, and unified dashboards across all tenants.",
+            "reasoning": "The text explicitly mentions Prometheus as the metrics monitoring tool used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Grafana",
+            "category": "Visualization",
+            "evidence": "A central Grafana server in a dedicated 'Tools' VPC is VPC-peered with all environments, providing unified dashboards aggregating metrics from all tenants.",
+            "reasoning": "The text explicitly mentions Grafana as the visualization tool used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Jenkins",
+            "category": "CI/CD",
+            "evidence": "Jenkins pipelines automate deployment of Terraform/Helm stacks on code merges.",
+            "reasoning": "The text explicitly mentions Jenkins as the CI/CD tool used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Secrets Manager",
+            "category": "Secrets Management",
+            "evidence": "AWS Secrets Manager stores deployment credentials and certificates securely.",
+            "reasoning": "The text explicitly mentions AWS Secrets Manager as the secrets management tool used.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/mssp/portal/cloud/operations/solution"
+}

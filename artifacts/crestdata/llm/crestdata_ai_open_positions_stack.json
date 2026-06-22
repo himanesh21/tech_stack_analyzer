@@ -1,0 +1,20 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "React.js",
+            "category": "Programming Language",
+            "evidence": "SSE/TL React.js Developer",
+            "reasoning": "The job posting for SSE/TL React.js Developer explicitly mentions React.js as a technology used by the company.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "SSE/TL ServiceNow Developer",
+            "reasoning": "The job posting for SSE/TL ServiceNow Developer explicitly mentions ServiceNow as a technology used by the company.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/open/positions"
+}

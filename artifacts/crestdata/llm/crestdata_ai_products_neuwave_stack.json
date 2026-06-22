@@ -1,0 +1,97 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Splunk",
+            "category": "SIEM",
+            "evidence": "The platform significantly reduces the manual effort by over 60% over traditional methods. There is an AI-based inbuilt validation engine that intelligently verifies that the constructs are recreated correctly and it automatically generates assets for the target environment.",
+            "reasoning": "The text mentions that Crest Data's Agentic AI Migration product can migrate from Splunk to other platforms, implying that Splunk is one of the supported legacy platforms.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Elastic",
+            "category": "Observability",
+            "evidence": "The product automatically generates high-fidelity connectors, parsers for all industry-leading schemas (OCSF, UDM, CIM, ECS, ASIM), detection rules and dashboard content.",
+            "reasoning": "The text mentions Elastic as one of the platforms for which the product generates parsers, implying that Elastic is a supported platform.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "The platform significantly reduces the manual effort by over 60% over traditional methods. There is an AI-based inbuilt validation engine that intelligently verifies that the constructs are recreated correctly and it automatically generates assets for the target environment.",
+            "reasoning": "The text mentions that Crest Data's Agentic AI Migration product can migrate to Dynatrace, implying that Dynatrace is one of the supported modern platforms.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "The system generates dynamic investigation workflows by analyzing alert trigger metrics, historical incident patterns, and organization-defined SOPs.",
+            "reasoning": "The text mentions Datadog as one of the popular observability products that the platform analyzes alerts from.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "New Relic",
+            "category": "Observability",
+            "evidence": "The system generates dynamic investigation workflows by analyzing alert trigger metrics, historical incident patterns, and organization-defined SOPs.",
+            "reasoning": "The text mentions New Relic as one of the popular observability products that the platform analyzes alerts from.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "AWS Cloudwatch",
+            "category": "Cloud Provider",
+            "evidence": "The platform significantly reduces the manual effort by over 60% over traditional methods. There is an AI-based inbuilt validation engine that intelligently verifies that the constructs are recreated correctly and it automatically generates assets for the target environment.",
+            "reasoning": "The text mentions that Crest Data's Agentic AI Migration product can migrate from AWS Cloudwatch to other platforms, implying that AWS Cloudwatch is one of the supported legacy platforms.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Google SecOps",
+            "category": "Security Analytics",
+            "evidence": "Popular SIEM and security analytics platforms such as Splunk, QRadar, Elastic, Sumo Logic, and Google SecOps identify incident sources across infrastructure and applications.",
+            "reasoning": "The text mentions Google SecOps as one of the security analytics platforms that identify incident sources.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Sumo Logic",
+            "category": "Security Analytics",
+            "evidence": "Popular SIEM and security analytics platforms such as Splunk, QRadar, Elastic, Sumo Logic, and Google SecOps identify incident sources across infrastructure and applications.",
+            "reasoning": "The text mentions Sumo Logic as one of the security analytics platforms that identify incident sources.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "QRadar",
+            "category": "SIEM",
+            "evidence": "Popular SIEM and security analytics platforms such as Splunk, QRadar, Elastic, Sumo Logic, and Google SecOps identify incident sources across infrastructure and applications.",
+            "reasoning": "The text mentions QRadar as one of the SIEM platforms that identify incident sources.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "MITRE ATT&CK",
+            "category": "Threat Intelligence",
+            "evidence": "Neuwave leverages AI-native intelligence to analyze alerts, map them to MITRE ATT&CK tactics, and generate structured investigation workflows aligned to organizational SOPs.",
+            "reasoning": "The text mentions MITRE ATT&CK as a framework used to map alerts to tactics.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Agentic AI",
+            "category": "Artificial Intelligence",
+            "evidence": "Crest Data built an Agentic AI-powered platform to improve how security and observability integrations are built and deployed.",
+            "reasoning": "The text mentions Agentic AI as a technology used to power the platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Built for modern multi-cloud environments, Agentic AI Migrations enables organizations to modernize monitoring and security operations across platforms such as AWS and Google SecOps while maintaining operational continuity.",
+            "reasoning": "The text mentions AWS as one of the cloud providers supported by the platform.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Google",
+            "category": "Cloud Provider",
+            "evidence": "Built for modern multi-cloud environments, Agentic AI Migrations enables organizations to modernize monitoring and security operations across platforms such as AWS and Google SecOps while maintaining operational continuity.",
+            "reasoning": "The text mentions Google as one of the cloud providers supported by the platform.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/products/neuwave"
+}

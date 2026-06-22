@@ -1,0 +1,90 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "The proposed solution was implemented on AWS, which provided the necessary services for a multi-tenant SaaS solution.",
+            "reasoning": "AWS was chosen for its mature ecosystem of CloudOps services that enable automation, observability, and ease of use at scale.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon ECS",
+            "category": "Container Orchestration",
+            "evidence": "The architecture used Amazon ECS for containerized workloads.",
+            "reasoning": "Amazon ECS was used for its ability to run large-scale, parallel vulnerability scans.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Lambda",
+            "category": "Serverless Computing",
+            "evidence": "The scanning workflow is orchestrated using Amazon EventBridge and AWS Lambda.",
+            "reasoning": "AWS Lambda was used for event-driven automation and to trigger daily scans.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon SQS",
+            "category": "Message Queue",
+            "evidence": "The architecture used Amazon SQS for decoupled orchestration.",
+            "reasoning": "Amazon SQS was used for its ability to handle decoupled orchestration.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon DocumentDB",
+            "category": "Database",
+            "evidence": "The platform used Amazon DocumentDB for secure, managed storage.",
+            "reasoning": "Amazon DocumentDB was used for its ability to provide secure and managed storage.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon CloudWatch",
+            "category": "Observability",
+            "evidence": "The platform integrated Amazon CloudWatch metrics, dashboards, and alerts to track scanner performance and task health.",
+            "reasoning": "Amazon CloudWatch was used for centralized monitoring and observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon S3",
+            "category": "Object Storage",
+            "evidence": "All scan results are aggregated and stored in Amazon S3.",
+            "reasoning": "Amazon S3 was used for its durable and cost-effective storage capabilities.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Amazon EventBridge",
+            "category": "Event Management",
+            "evidence": "The scanning workflow is orchestrated using Amazon EventBridge and AWS Lambda.",
+            "reasoning": "Amazon EventBridge was used to trigger the scans once a day.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "VPC Endpoints",
+            "category": "Networking",
+            "evidence": "VPC endpoints were introduced for services like S3 to reduce data transfer through NAT gateways.",
+            "reasoning": "VPC endpoints were used to optimize networking costs and ensure security.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Crest Data has strategic partnerships with leading technology providers such as Datadog.",
+            "reasoning": "Datadog is mentioned as one of the partners, but its usage in this specific project is not clear.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Crest Data has strategic partnerships with leading technology providers such as Dynatrace.",
+            "reasoning": "Dynatrace is mentioned as one of the partners, but its usage in this specific project is not clear.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Crest Data has strategic partnerships with leading technology providers such as ServiceNow.",
+            "reasoning": "ServiceNow is mentioned as one of the partners, but its usage in this specific project is not clear.",
+            "relationship": "speculative"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/enterprise/devsecops/with/ai/multi/tenant/aws"
+}

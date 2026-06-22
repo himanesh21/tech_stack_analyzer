@@ -1,0 +1,41 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Our comprehensive suite of cloud infrastructure services encompasses cloud migration, CloudOps, and managed IT service management (ITSM) to advanced artificial intelligence for IT operations (AIOps). We help enterprises choose the optimal infrastructure configuration to accelerate their business growth on cloud platforms like AWS, Microsoft Azure, Google Cloud, and more.",
+            "reasoning": "Crest Data provides services on AWS, as mentioned in multiple sections of the text, including case studies and solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Microsoft Azure",
+            "category": "Cloud Provider",
+            "evidence": "We help enterprises choose the optimal infrastructure configuration to accelerate their business growth on cloud platforms like AWS, Microsoft Azure, Google Cloud, and more.",
+            "reasoning": "Crest Data provides services on Microsoft Azure, as mentioned in the text as one of the cloud platforms they support.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Google Cloud",
+            "category": "Cloud Provider",
+            "evidence": "We help enterprises choose the optimal infrastructure configuration to accelerate their business growth on cloud platforms like AWS, Microsoft Azure, Google Cloud, and more.",
+            "reasoning": "Crest Data provides services on Google Cloud, as mentioned in the text as one of the cloud platforms they support.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Kubernetes",
+            "category": "Container Orchestration",
+            "evidence": "Crest Data specializes in Kubernetes, containerization, Infrastructure as Code (IaC), cloud-native infrastructure, CI/CD automation, observability, SRE, DevOps, hybrid cloud architecture, and infrastructure automation across enterprise environments.",
+            "reasoning": "Crest Data's specialization in Kubernetes is explicitly mentioned as part of their technology stack.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk",
+            "category": "Observability",
+            "evidence": "Crest Data offered a comprehensive solution for managing Twitter's Observability and Splunk Infrastructure...",
+            "reasoning": "Splunk is mentioned in the context of a case study where Crest Data managed Twitter's Observability and Splunk Infrastructure.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/cloud/and/infrastructure"
+}

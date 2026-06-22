@@ -1,0 +1,146 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "LangGraph",
+            "category": "AI Framework",
+            "evidence": "Hands-on experience with some of the following is a strong plus: LangGraph / LangChain for stateful, graph-based agent workflows and tool-calling patterns",
+            "reasoning": "LangGraph is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "LangChain",
+            "category": "AI Framework",
+            "evidence": "Hands-on experience with some of the following is a strong plus: LangGraph / LangChain for stateful, graph-based agent workflows and tool-calling patterns",
+            "reasoning": "LangChain is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ClaudeSDK",
+            "category": "AI Platform",
+            "evidence": "Hands-on experience with some of the following is a strong plus: ClaudeSDK for enterprise-grade multi-agent orchestration",
+            "reasoning": "ClaudeSDK is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CrewAI",
+            "category": "AI Framework",
+            "evidence": "Hands-on experience with some of the following is a strong plus: CrewAI for role-based multi-agent coordination and task delegation patterns, including production deployment options through managed runtimes",
+            "reasoning": "CrewAI is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "LlamaIndex",
+            "category": "AI Platform",
+            "evidence": "Hands-on experience with some of the following is a strong plus: LlamaIndex or Haystack for retrieval-heavy workflows, knowledge-grounded agents, and document-aware reasoning patterns",
+            "reasoning": "LlamaIndex is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Haystack",
+            "category": "AI Platform",
+            "evidence": "Hands-on experience with some of the following is a strong plus: LlamaIndex or Haystack for retrieval-heavy workflows, knowledge-grounded agents, and document-aware reasoning patterns",
+            "reasoning": "Haystack is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "OpenAI",
+            "category": "AI Model Platform",
+            "evidence": "Experience with model platforms such as OpenAI, Azure OpenAI, Anthropic, AWS Bedrock, or Google Vertex AI",
+            "reasoning": "OpenAI is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Azure OpenAI",
+            "category": "AI Model Platform",
+            "evidence": "Experience with model platforms such as OpenAI, Azure OpenAI, Anthropic, AWS Bedrock, or Google Vertex AI",
+            "reasoning": "Azure OpenAI is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Anthropic",
+            "category": "AI Model Platform",
+            "evidence": "Experience with model platforms such as OpenAI, Azure OpenAI, Anthropic, AWS Bedrock, or Google Vertex AI",
+            "reasoning": "Anthropic is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Bedrock",
+            "category": "AI Model Platform",
+            "evidence": "Experience with model platforms such as OpenAI, Azure OpenAI, Anthropic, AWS Bedrock, or Google Vertex AI",
+            "reasoning": "AWS Bedrock is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Google Vertex AI",
+            "category": "AI Model Platform",
+            "evidence": "Experience with model platforms such as OpenAI, Azure OpenAI, Anthropic, AWS Bedrock, or Google Vertex AI",
+            "reasoning": "Google Vertex AI is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Pinecone",
+            "category": "Vector Retrieval System",
+            "evidence": "Vector and hybrid retrieval systems such as Pinecone, Weaviate, Elasticsearch, or OpenSearch",
+            "reasoning": "Pinecone is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Weaviate",
+            "category": "Vector Retrieval System",
+            "evidence": "Vector and hybrid retrieval systems such as Pinecone, Weaviate, Elasticsearch, or OpenSearch",
+            "reasoning": "Weaviate is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Elasticsearch",
+            "category": "Search and Retrieval System",
+            "evidence": "Vector and hybrid retrieval systems such as Pinecone, Weaviate, Elasticsearch, or OpenSearch",
+            "reasoning": "Elasticsearch is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "OpenSearch",
+            "category": "Search and Retrieval System",
+            "evidence": "Vector and hybrid retrieval systems such as Pinecone, Weaviate, Elasticsearch, or OpenSearch",
+            "reasoning": "OpenSearch is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Postgres",
+            "category": "Database",
+            "evidence": "Working knowledge of Postgres, Redis, object storage, and document processing pipelines",
+            "reasoning": "Postgres is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Redis",
+            "category": "In-Memory Data Store",
+            "evidence": "Working knowledge of Postgres, Redis, object storage, and document processing pipelines",
+            "reasoning": "Redis is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "OpenTelemetry",
+            "category": "Observability Framework",
+            "evidence": "OpenTelemetry for tracing, telemetry, and workflow observability across agent/tool chains",
+            "reasoning": "OpenTelemetry is explicitly mentioned as a preferred tech platform.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Python",
+            "category": "Programming Language",
+            "evidence": "Strong coding ability in Python, Typescript, or similar",
+            "reasoning": "Python is explicitly mentioned as a required programming language.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Typescript",
+            "category": "Programming Language",
+            "evidence": "Strong coding ability in Python, Typescript, or similar",
+            "reasoning": "Typescript is explicitly mentioned as a required programming language.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://in/linkedin/com/jobs/view/ai/product/engineer/at/crest/data/4426742358"
+}

@@ -1,0 +1,48 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "We design, implement, and modernize enterprise workflow automation across platforms to reduce manual effort, improve accuracy, and drive operational resilience. Our automation-first approach combines deep platform expertise, AI-driven decisioning, and scalable architectures to deliver workflow automation solutions that streamline IT, employee, and customer workflows. From modernizing legacy processes to enabling intelligent agents and real-time insights, we apply business process automation principles to ensure workflows are upgrade-ready, data-driven, and built for scale. With strong capabilities across ServiceNow and enterprise ecosystems, Crest Data enables organizations to deploy AI-driven workflow automation faster and continuously optimize business-critical workflows.",
+            "reasoning": "The text explicitly mentions ServiceNow as a platform where Crest Data has strong capabilities and has implemented 300+ integrations for seamless business process automation, workflow orchestration, and data consistency.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "![Delivering High-Availability Business Applications Through a Resilient AWS Architecture](https://www.crestdata.ai/case-studies/business-applications-through-resilient-aws-architecture/)",
+            "reasoning": "The text implies AWS usage through a case study link and mentions 'Driving RegTech Business Growth and Operational Efficiency Through AWS Cloud Migration' in another case study, indicating AWS is used for cloud migration and high-availability business applications.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "![Accelerating Dynatrace Migration for Better Observability and Business Outcomes](https://www.crestdata.ai/case-studies/accelerating-dynatrace-migration-for-better-observability-and-business-outcomes/)",
+            "reasoning": "The text implies Dynatrace usage through a case study link focused on accelerating Dynatrace migration for better observability and business outcomes, indicating Dynatrace is used for observability solutions.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "![Scaling Enterprise Sybase Monitoring Through Datadog Integration](https://www.crestdata.ai/case-studies/scaling-enterprise-sybase-monitoring-through-datadog-integration/)",
+            "reasoning": "The text implies Datadog usage through a case study link about scaling enterprise Sybase monitoring through Datadog integration, and another case study on strengthening CDN observability and digital experience visibility for retail with Datadog, indicating Datadog is used for monitoring and observability.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Wazuh",
+            "category": "Threat Intelligence",
+            "evidence": "![Extending Threat Intelligence Reach with a Native Wazuh Integration](https://www.crestdata.ai/case-studies/threat-intelligence-with-native-wazuh-integration/)",
+            "reasoning": "The text implies Wazuh usage through a case study link about extending threat intelligence reach with a native Wazuh integration, indicating Wazuh is used for threat intelligence.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "CyberArk",
+            "category": "Privileged Access Management",
+            "evidence": "![Improving Privileged Access Management Visibility and Governance with Datadog](https://www.crestdata.ai/case-studies/strengthening-access-management-visibility-and-governance-with-datadog/)",
+            "reasoning": "The text implies CyberArk usage in conjunction with Datadog for improving privileged access management visibility and governance, indicating CyberArk is used for privileged access management.",
+            "relationship": "speculative"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/workflow/automation"
+}

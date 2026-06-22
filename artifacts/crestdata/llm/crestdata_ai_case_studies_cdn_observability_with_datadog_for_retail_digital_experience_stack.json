@@ -1,0 +1,41 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "By bringing CDN observability into Datadog, we helped the customer move from fragmented monitoring to a more complete and operationally useful model for digital performance.",
+            "reasoning": "The text explicitly mentions Datadog as the observability platform used to bring CDN observability into a unified model.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Akamai",
+            "category": "CDN",
+            "evidence": "The customer was already using Akamai for content delivery and edge protection.",
+            "reasoning": "The text explicitly mentions Akamai as the CDN provider used by the customer.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Akamai DataStream 2",
+            "category": "CDN Telemetry",
+            "evidence": "The solution combined several telemetry sources into a single observability framework: Akamai DataStream 2 logs for request, response, cache, geography, and edge delivery visibility.",
+            "reasoning": "The text explicitly mentions Akamai DataStream 2 as a telemetry source used for CDN observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Synthetic Monitoring",
+            "category": "Monitoring",
+            "evidence": "The solution combined several telemetry sources into a single observability framework: Synthetic Monitoring for external validation of availability, DNS, TLS, and critical user journeys.",
+            "reasoning": "The text explicitly mentions Synthetic Monitoring as a telemetry source used for CDN observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Real User Monitoring (RUM)",
+            "category": "Monitoring",
+            "evidence": "The solution combined several telemetry sources into a single observability framework: Real User Monitoring (RUM) to measure actual customer experience across key digital touchpoints.",
+            "reasoning": "The text explicitly mentions RUM as a telemetry source used for CDN observability.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/cdn/observability/with/datadog/for/retail/digital/experience"
+}

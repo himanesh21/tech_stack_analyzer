@@ -1,0 +1,20 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Python",
+            "category": "Programming Language",
+            "evidence": "Senior Software Engineer \u2013 Python Experience: 4+ years",
+            "reasoning": "The company is actively recruiting for a Senior Software Engineer with Python expertise, which strongly implies Python is a core component of their software development stack.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Senior ServiceNow Developer Experience: 5+ years",
+            "reasoning": "The hiring requirement for a Senior ServiceNow Developer strongly implies that the company utilizes the ServiceNow platform for IT service management, workflow automation, or internal operations.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://linkedin/com/posts/rohitjaraut/hiring/hiring/python/activity/7373595689181700096/nqv4"
+}

@@ -1,0 +1,181 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "React.js",
+            "category": "Programming Language/Framework",
+            "evidence": "Strong proficiency in React.js, Redux, and TypeScript",
+            "reasoning": "The job description explicitly mentions React.js as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Redux",
+            "category": "State Management Library",
+            "evidence": "Strong proficiency in React.js, Redux, and TypeScript",
+            "reasoning": "The job description explicitly mentions Redux as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "TypeScript",
+            "category": "Programming Language",
+            "evidence": "Strong proficiency in React.js, Redux, and TypeScript",
+            "reasoning": "The job description explicitly mentions TypeScript as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "JavaScript",
+            "category": "Programming Language",
+            "evidence": "In-depth knowledge of JavaScript (ES6+), HTML5, and CSS3",
+            "reasoning": "The job description explicitly mentions JavaScript as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "HTML5",
+            "category": "Markup Language",
+            "evidence": "In-depth knowledge of JavaScript (ES6+), HTML5, and CSS3",
+            "reasoning": "The job description explicitly mentions HTML5 as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CSS3",
+            "category": "Styling Language",
+            "evidence": "In-depth knowledge of JavaScript (ES6+), HTML5, and CSS3",
+            "reasoning": "The job description explicitly mentions CSS3 as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Webpack",
+            "category": "Front-end Build Tool",
+            "evidence": "Proficiency in front-end build tools like Webpack, Babel, and Vite",
+            "reasoning": "The job description explicitly mentions Webpack as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Babel",
+            "category": "Front-end Build Tool",
+            "evidence": "Proficiency in front-end build tools like Webpack, Babel, and Vite",
+            "reasoning": "The job description explicitly mentions Babel as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Vite",
+            "category": "Front-end Build Tool",
+            "evidence": "Proficiency in front-end build tools like Webpack, Babel, and Vite",
+            "reasoning": "The job description explicitly mentions Vite as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "RESTful APIs",
+            "category": "API Technology",
+            "evidence": "Hands-on experience with RESTful APIs and GraphQL",
+            "reasoning": "The job description explicitly mentions RESTful APIs as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "GraphQL",
+            "category": "API Technology",
+            "evidence": "Hands-on experience with RESTful APIs and GraphQL",
+            "reasoning": "The job description explicitly mentions GraphQL as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Jest",
+            "category": "Testing Framework",
+            "evidence": "Knowledge of front-end testing frameworks such as Jest, React Testing Library, or Cypress",
+            "reasoning": "The job description explicitly mentions Jest as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "React Testing Library",
+            "category": "Testing Framework",
+            "evidence": "Knowledge of front-end testing frameworks such as Jest, React Testing Library, or Cypress",
+            "reasoning": "The job description explicitly mentions React Testing Library as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Cypress",
+            "category": "Testing Framework",
+            "evidence": "Knowledge of front-end testing frameworks such as Jest, React Testing Library, or Cypress",
+            "reasoning": "The job description explicitly mentions Cypress as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Git",
+            "category": "Version Control System",
+            "evidence": "Proficiency in Git, CI/CD pipelines, and Agile methodologies",
+            "reasoning": "The job description explicitly mentions Git as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management Platform",
+            "evidence": "5+ years of experience in ServiceNow implementations and software development",
+            "reasoning": "The job description explicitly mentions ServiceNow as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Next.js",
+            "category": "Server-side Rendering Framework",
+            "evidence": "Experience with server-side rendering frameworks like Next.js",
+            "reasoning": "The job description mentions Next.js as a good-to-have skill.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Platform",
+            "evidence": "Exposure to cloud platforms (AWS, Azure, or GCP)",
+            "reasoning": "The job description mentions AWS as a good-to-have skill.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "Azure",
+            "category": "Cloud Platform",
+            "evidence": "Exposure to cloud platforms (AWS, Azure, or GCP)",
+            "reasoning": "The job description mentions Azure as a good-to-have skill.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "GCP",
+            "category": "Cloud Platform",
+            "evidence": "Exposure to cloud platforms (AWS, Azure, or GCP)",
+            "reasoning": "The job description mentions GCP as a good-to-have skill.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "Node.js",
+            "category": "Runtime Environment",
+            "evidence": "Familiarity with backend technologies like Node.js or Python",
+            "reasoning": "The job description mentions Node.js as a good-to-have skill.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "Python",
+            "category": "Programming Language",
+            "evidence": "Familiarity with backend technologies like Node.js or Python",
+            "reasoning": "The job description mentions Python as a good-to-have skill.",
+            "relationship": "speculative"
+        },
+        {
+            "name": "Zustand",
+            "category": "State Management Library",
+            "evidence": "Experience with state management libraries like Redux, Zustand, or Recoil",
+            "reasoning": "The job description explicitly mentions Zustand as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Recoil",
+            "category": "State Management Library",
+            "evidence": "Experience with state management libraries like Redux, Zustand, or Recoil",
+            "reasoning": "The job description explicitly mentions Recoil as a required skill.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Angular",
+            "category": "Programming Language/Framework",
+            "evidence": "Experience in developing UI pages with JavaScript, Angular/React",
+            "reasoning": "The job description explicitly mentions Angular as a required skill.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/jobs/sse/tl/reactjs/developer"
+}

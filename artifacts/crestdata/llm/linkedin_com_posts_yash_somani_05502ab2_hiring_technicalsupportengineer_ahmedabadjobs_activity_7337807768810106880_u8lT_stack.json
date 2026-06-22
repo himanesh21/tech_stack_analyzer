@@ -1,0 +1,55 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Linux",
+            "category": "Operating System",
+            "evidence": "Must-Have Skills: \u2714\ufe0f Linux & troubleshooting fundamentals",
+            "reasoning": "The job description lists Linux as a required skill, implying the role will involve working with Linux systems, so the company likely uses Linux in its environment.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "SQL",
+            "category": "Database",
+            "evidence": "Must-Have Skills: \u2714\ufe0f SQL & application support experience",
+            "reasoning": "SQL is listed as a required skill, indicating the company works with relational databases that require SQL knowledge.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Network Protocols",
+            "category": "Networking",
+            "evidence": "Must-Have Skills: \u2714\ufe0f Understanding of network protocols",
+            "reasoning": "The requirement to understand network protocols suggests the company's services involve networking components that the engineer will support.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Good to Have: AWS / Azure fundamentals, Scripting skills, Syslog exposure",
+            "reasoning": "AWS is mentioned as a desirable knowledge area, implying the company utilizes AWS services in its infrastructure.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Azure",
+            "category": "Cloud Provider",
+            "evidence": "Good to Have: AWS / Azure fundamentals, Scripting skills, Syslog exposure",
+            "reasoning": "Azure is listed as a desirable skill, indicating the company likely leverages Azure cloud services.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Scripting",
+            "category": "Programming Language/Automation",
+            "evidence": "Good to Have: AWS / Azure fundamentals, Scripting skills, Syslog exposure",
+            "reasoning": "Scripting skills are highlighted as a plus, suggesting the role will involve writing scripts for automation or troubleshooting, and the company uses scripting in its workflows.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Syslog",
+            "category": "Logging/Observability",
+            "evidence": "Good to Have: AWS / Azure fundamentals, Scripting skills, Syslog exposure",
+            "reasoning": "Syslog exposure is mentioned as a desirable skill, implying the company's systems generate or consume syslog messages for logging and monitoring.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://linkedin/com/posts/yash/somani/05502ab2/hiring/technicalsupportengineer/ahmedabadjobs/activity/7337807768810106880/u8lT"
+}

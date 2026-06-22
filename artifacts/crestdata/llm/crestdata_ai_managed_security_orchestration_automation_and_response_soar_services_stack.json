@@ -1,0 +1,20 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Splunk Phantom",
+            "category": "SOAR Platform",
+            "evidence": "We help enterprises to integrate SOAR platforms like Splunk Phantom with other security solutions",
+            "reasoning": "The text explicitly mentions Splunk Phantom as a SOAR platform that Crest Data helps enterprises integrate with other security solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Python",
+            "category": "Programming Language",
+            "evidence": "analysts code using a visual UI or a programming language like Python to automate the SoC operations",
+            "reasoning": "The text explicitly mentions Python as a programming language used for automating SoC operations.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/managed/security/orchestration/automation/and/response/soar/services"
+}

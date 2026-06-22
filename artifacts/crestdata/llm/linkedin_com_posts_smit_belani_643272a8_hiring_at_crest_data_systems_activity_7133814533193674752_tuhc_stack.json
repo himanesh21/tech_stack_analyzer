@@ -1,0 +1,13 @@
+{
+    "subject_company": "Crest Data Systems",
+    "technologies": [
+        {
+            "name": "LinkedIn",
+            "category": "Social Media Platform",
+            "evidence": "Hiring at Crest Data Systems",
+            "reasoning": "The post is published on LinkedIn, implying that Crest Data Systems uses LinkedIn for recruitment and potentially other purposes.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://linkedin/com/posts/smit/belani/643272a8/hiring/at/crest/data/systems/activity/7133814533193674752/tuhc"
+}

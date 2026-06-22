@@ -1,0 +1,34 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "The case study showcases how Crest Data enabled the business to modernize observability by migrating from Splunk to Dynatrace, an AI-enabled observability platform.",
+            "reasoning": "Dynatrace is explicitly mentioned as the target observability platform for migration, highlighting its AI-enabled capabilities and role in achieving unified observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk",
+            "category": "SIEM",
+            "evidence": "The customer was previously using Splunk for observability, which had become a complex setup with over 3,000 dashboards and alerts.",
+            "reasoning": "Splunk is explicitly mentioned as the legacy platform being replaced due to its manual-first approach and complexity.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AI/ML",
+            "category": "Artificial Intelligence",
+            "evidence": "The case study mentions an 'AI-driven Migration Engine' and 'AI-enabled anomaly detection' provided by Dynatrace.",
+            "reasoning": "AI/ML is strongly implied as a key component of the migration process and the observability capabilities of Dynatrace.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dynatrace Query Language (DQL)",
+            "category": "Query Language",
+            "evidence": "The solution involved automating the translation of complex Splunk queries into Dynatrace Query Language (DQL).",
+            "reasoning": "DQL is explicitly mentioned as part of the migration process from Splunk to Dynatrace.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/accelerating/enterprise/observability/with/ai/driven/migration/to/dynatrace"
+}

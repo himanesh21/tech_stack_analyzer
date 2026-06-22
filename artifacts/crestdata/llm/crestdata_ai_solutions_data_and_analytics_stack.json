@@ -1,0 +1,62 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "We partner with AWS, Datadog, Dynatrace, Azure, and GCP to deliver enterprise-grade data analytics services.",
+            "reasoning": "Crest Data partners with AWS for cloud services, indicating its use for data analytics and other solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "We partner with AWS, Datadog, Dynatrace, Azure, and GCP to deliver enterprise-grade data analytics services.",
+            "reasoning": "Datadog is mentioned as a partner for observability and data analytics services, indicating its use in monitoring and analytics.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "We partner with AWS, Datadog, Dynatrace, Azure, and GCP to deliver enterprise-grade data analytics services.",
+            "reasoning": "Dynatrace is mentioned as a partner for observability and data analytics, indicating its use in monitoring and analytics.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Azure",
+            "category": "Cloud Provider",
+            "evidence": "We partner with AWS, Datadog, Dynatrace, Azure, and GCP to deliver enterprise-grade data analytics services.",
+            "reasoning": "Azure is mentioned as a partner for cloud services, indicating its use for data analytics and other solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "GCP",
+            "category": "Cloud Provider",
+            "evidence": "We partner with AWS, Datadog, Dynatrace, Azure, and GCP to deliver enterprise-grade data analytics services.",
+            "reasoning": "GCP is mentioned as a partner for cloud services, indicating its use for data analytics and other solutions.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "ServiceNow is mentioned in the context of IT service management, specifically for software asset management and automation.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Wazuh",
+            "category": "SIEM",
+            "evidence": "Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "Wazuh is mentioned in the context of threat intelligence and SIEM integrations, indicating its use for security analytics.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ThreatQ",
+            "category": "Threat Intelligence",
+            "evidence": "Enabling Enterprise-Scale Threat Investigations with a Browser-Based Intelligence Extension",
+            "reasoning": "ThreatQ is mentioned in the context of threat intelligence and investigations, indicating its use for security analytics.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/data/and/analytics"
+}

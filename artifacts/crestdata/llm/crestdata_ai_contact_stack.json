@@ -1,0 +1,41 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Linkedin",
+            "category": "Social Media",
+            "evidence": "https://www.linkedin.com/company/crest-data/",
+            "reasoning": "The company's LinkedIn page is explicitly mentioned as a link.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "X-twitter",
+            "category": "Social Media",
+            "evidence": "https://x.com/crestdata_ai",
+            "reasoning": "The company's X-twitter page is explicitly mentioned as a link.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Instagram",
+            "category": "Social Media",
+            "evidence": "https://www.instagram.com/crest.data/?utm_source=ig_web_button_share_sheet",
+            "reasoning": "The company's Instagram page is explicitly mentioned as a link.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Facebook",
+            "category": "Social Media",
+            "evidence": "https://www.facebook.com/profile.php?id=61559624523744",
+            "reasoning": "The company's Facebook page is explicitly mentioned as a link.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Soc2Type2",
+            "category": "Security Compliance",
+            "evidence": "Soc2Type2 (1)",
+            "reasoning": "The company's Soc2Type2 compliance is explicitly mentioned.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/contact"
+}

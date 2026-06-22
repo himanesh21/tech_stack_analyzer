@@ -1,0 +1,90 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Git",
+            "category": "Version Control System",
+            "evidence": "We manage the code base using robust version control tools like SVN, Git, CVS, and Mercurial",
+            "reasoning": "The text explicitly mentions Git as one of the version control tools used by Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Jenkins",
+            "category": "Continuous Integration Tool",
+            "evidence": "Our DevOps automation services enable our team to enable reliable continuous integration by automating build and validation workflows using tools such as Jenkins",
+            "reasoning": "The text explicitly mentions Jenkins as a tool used for continuous integration.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "GitHub",
+            "category": "Source Code Management Platform",
+            "evidence": "Our DevOps services help organizations implement secure and scalable source code management using modern Git-based workflows with platforms such as GitHub",
+            "reasoning": "The text explicitly mentions GitHub as a platform used for source code management.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "GitLab",
+            "category": "Source Code Management Platform",
+            "evidence": "Our DevOps services help organizations implement secure and scalable source code management using modern Git-based workflows with platforms such as GitLab",
+            "reasoning": "The text explicitly mentions GitLab as a platform used for source code management.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Bitbucket",
+            "category": "Source Code Management Platform",
+            "evidence": "Our DevOps services help organizations implement secure and scalable source code management using modern Git-based workflows with platforms such as Bitbucket",
+            "reasoning": "The text explicitly mentions Bitbucket as a platform used for source code management.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Ansible",
+            "category": "Configuration Management Tool",
+            "evidence": "Our configuration management services ensure consistent and compliant system configuration across environments using automation tools such as Ansible",
+            "reasoning": "The text explicitly mentions Ansible as a tool used for configuration management.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Docker",
+            "category": "Containerization Platform",
+            "evidence": "Our solutions leverage modern cloud-native technologies such as Docker and Kubernetes",
+            "reasoning": "The text explicitly mentions Docker as a platform used for containerization.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Kubernetes",
+            "category": "Container Orchestration Platform",
+            "evidence": "Our solutions leverage modern cloud-native technologies such as Docker and Kubernetes",
+            "reasoning": "The text explicitly mentions Kubernetes as a platform used for container orchestration.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Prometheus",
+            "category": "Monitoring and Observability Tool",
+            "evidence": "We help organizations implement monitoring, logging, and observability across applications and infrastructure to gain real-time operational visibility and faster incident response. Our DevOps services implement metrics and dashboards using Prometheus",
+            "reasoning": "The text explicitly mentions Prometheus as a tool used for monitoring and observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Grafana",
+            "category": "Monitoring and Observability Tool",
+            "evidence": "We help organizations implement monitoring, logging, and observability across applications and infrastructure to gain real-time operational visibility and faster incident response. Our DevOps services implement metrics and dashboards using Prometheus and Grafana",
+            "reasoning": "The text explicitly mentions Grafana as a tool used for monitoring and observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Splunk",
+            "category": "SIEM and Observability Platform",
+            "evidence": "We help organizations implement monitoring, logging, and observability across applications and infrastructure to gain real-time operational visibility and faster incident response. Our DevOps services implement metrics and dashboards using Prometheus and Grafana, and centralized logging using cloud-native platforms such as Loki, alongside enterprise solutions like the ELK Stack and Splunk",
+            "reasoning": "The text explicitly mentions Splunk as a platform used for SIEM and observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "As an AWS Advanced Tier Partner with AWS Cloud Competency, Crest Data helps enterprises design, implement, and operate DevOps platforms on AWS",
+            "reasoning": "The text explicitly mentions AWS as a cloud provider used by Crest Data.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/devops/automation"
+}

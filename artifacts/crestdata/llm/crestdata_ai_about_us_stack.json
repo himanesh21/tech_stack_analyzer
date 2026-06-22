@@ -1,0 +1,48 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Backed by strategic partnerships with AWS, Google, Datadog, Dynatrace, ServiceNow, NetApp, and more",
+            "reasoning": "The text explicitly mentions AWS as one of the strategic partnerships.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Google",
+            "category": "Cloud Provider",
+            "evidence": "Backed by strategic partnerships with AWS, Google, Datadog, Dynatrace, ServiceNow, NetApp, and more",
+            "reasoning": "The text explicitly mentions Google as one of the strategic partnerships.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Backed by strategic partnerships with AWS, Google, Datadog, Dynatrace, ServiceNow, NetApp, and more",
+            "reasoning": "The text explicitly mentions Datadog as one of the strategic partnerships.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Backed by strategic partnerships with AWS, Google, Datadog, Dynatrace, ServiceNow, NetApp, and more",
+            "reasoning": "The text explicitly mentions Dynatrace as one of the strategic partnerships.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Backed by strategic partnerships with AWS, Google, Datadog, Dynatrace, ServiceNow, NetApp, and more",
+            "reasoning": "The text explicitly mentions ServiceNow as one of the strategic partnerships.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "NetApp",
+            "category": "Data Storage",
+            "evidence": "Backed by strategic partnerships with AWS, Google, Datadog, Dynatrace, ServiceNow, NetApp, and more",
+            "reasoning": "The text explicitly mentions NetApp as one of the strategic partnerships.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/about/us"
+}

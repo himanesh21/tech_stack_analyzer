@@ -1,0 +1,62 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Expertise across AWS, hybrid, and on-prem environments with tools like MLflow, SageMaker, and PyTorch.",
+            "reasoning": "The text explicitly mentions AWS as one of the cloud environments Crest Data has expertise in.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "MLflow",
+            "category": "MLOps Tool",
+            "evidence": "Expertise across AWS, hybrid, and on-prem environments with tools like MLflow, SageMaker, and PyTorch.",
+            "reasoning": "The text explicitly mentions MLflow as one of the tools Crest Data uses.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "SageMaker",
+            "category": "MLOps Tool",
+            "evidence": "Expertise across AWS, hybrid, and on-prem environments with tools like MLflow, SageMaker, and PyTorch.",
+            "reasoning": "The text explicitly mentions SageMaker as one of the tools Crest Data uses.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "PyTorch",
+            "category": "Machine Learning Framework",
+            "evidence": "Expertise across AWS, hybrid, and on-prem environments with tools like MLflow, SageMaker, and PyTorch.",
+            "reasoning": "The text explicitly mentions PyTorch as one of the tools Crest Data uses.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability Tool",
+            "evidence": "Scaling Enterprise Sybase Monitoring Through Datadog Integration",
+            "reasoning": "The text strongly implies that Crest Data uses Datadog for monitoring and observability purposes.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability Tool",
+            "evidence": "Accelerating Dynatrace Migration for Better Observability and Business Outcomes",
+            "reasoning": "The text strongly implies that Crest Data uses Dynatrace for observability and migration services.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Wazuh",
+            "category": "Threat Intelligence Tool",
+            "evidence": "Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "The text strongly implies that Crest Data uses Wazuh for threat intelligence and integration services.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "The text strongly implies that Crest Data uses ServiceNow for IT service management and automation services.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/mlops"
+}

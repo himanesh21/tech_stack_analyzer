@@ -1,0 +1,132 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "The customer transitioned from an on-prem environment to the AWS Cloud to address these challenges.",
+            "reasoning": "The text explicitly mentions AWS as the cloud provider used for migration.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Terraform",
+            "category": "Infrastructure Automation",
+            "evidence": "All environments (Dev, Test, Prod) were provisioned using Terraform templates, ensuring repeatability, compliance, and zero manual console changes.",
+            "reasoning": "The text explicitly mentions Terraform as the tool used for infrastructure automation.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Nagios",
+            "category": "Monitoring",
+            "evidence": "Monitoring is provided by Nagios and AWS Cloudwatch in each environment.",
+            "reasoning": "The text explicitly mentions Nagios as the monitoring tool used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Cloudwatch",
+            "category": "Monitoring",
+            "evidence": "Monitoring is provided by Nagios and AWS Cloudwatch in each environment.",
+            "reasoning": "The text explicitly mentions AWS Cloudwatch as the monitoring tool used.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "PNP4Nagios",
+            "category": "Monitoring",
+            "evidence": "Nagios collects metrics from each server, and PNP4Nagios aggregates them into dashboards.",
+            "reasoning": "The text explicitly mentions PNP4Nagios as the tool used for aggregating metrics into dashboards.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Secrets Manager",
+            "category": "Security",
+            "evidence": "Secure secrets management with AWS Secrets Manager",
+            "reasoning": "The text explicitly mentions AWS Secrets Manager as the tool used for secrets management.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Auto Scaling",
+            "category": "Scalability",
+            "evidence": "The availability of applications has been improved from 90% to 99.99% by AWS Auto Scaling and Application Load Balancers.",
+            "reasoning": "The text explicitly mentions AWS Auto Scaling as the tool used for scalability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Application Load Balancers",
+            "category": "Scalability",
+            "evidence": "The availability of applications has been improved from 90% to 99.99% by AWS Auto Scaling and Application Load Balancers.",
+            "reasoning": "The text explicitly mentions Application Load Balancers as the tool used for scalability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "IAM",
+            "category": "Security",
+            "evidence": "Security posture has improved with the use of IAM, KMS encryption, CloudTrail logging, Security Hub, and WAF.",
+            "reasoning": "The text explicitly mentions IAM as the tool used for security.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "KMS encryption",
+            "category": "Security",
+            "evidence": "Security posture has improved with the use of IAM, KMS encryption, CloudTrail logging, Security Hub, and WAF.",
+            "reasoning": "The text explicitly mentions KMS encryption as the tool used for security.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CloudTrail",
+            "category": "Security",
+            "evidence": "Security posture has improved with the use of IAM, KMS encryption, CloudTrail logging, Security Hub, and WAF.",
+            "reasoning": "The text explicitly mentions CloudTrail as the tool used for security.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Security Hub",
+            "category": "Security",
+            "evidence": "Security posture has improved with the use of IAM, KMS encryption, CloudTrail logging, Security Hub, and WAF.",
+            "reasoning": "The text explicitly mentions Security Hub as the tool used for security.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "WAF",
+            "category": "Security",
+            "evidence": "Security posture has improved with the use of IAM, KMS encryption, CloudTrail logging, Security Hub, and WAF.",
+            "reasoning": "The text explicitly mentions WAF as the tool used for security.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS Cost Explorer",
+            "category": "Cost Optimization",
+            "evidence": "Reserved instances, autoscaling groups, and consolidated billing through AWS Cost Explorer and Cost Categories supported 30-40% cost savings compared to on-premises.",
+            "reasoning": "The text explicitly mentions AWS Cost Explorer as the tool used for cost optimization.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Cost Categories",
+            "category": "Cost Optimization",
+            "evidence": "Reserved instances, autoscaling groups, and consolidated billing through AWS Cost Explorer and Cost Categories supported 30-40% cost savings compared to on-premises.",
+            "reasoning": "The text explicitly mentions Cost Categories as the tool used for cost optimization.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "With 1,200+ experts and a track record of 5,500+ successful projects across 150+ global customers, and backed by strong partnerships with AWS, Google, Microsoft, Datadog, Dynatrace, ServiceNow, and NetApp, Crest Data delivers outcome-focused solutions that strengthen security, improve platform reliability, and enable sustainable digital growth.",
+            "reasoning": "The text mentions Dynatrace as one of the partners of Crest Data, implying its potential usage.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "With 1,200+ experts and a track record of 5,500+ successful projects across 150+ global customers, and backed by strong partnerships with AWS, Google, Microsoft, Datadog, Dynatrace, ServiceNow, and NetApp, Crest Data delivers outcome-focused solutions that strengthen security, improve platform reliability, and enable sustainable digital growth.",
+            "reasoning": "The text mentions Datadog as one of the partners of Crest Data, implying its potential usage.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "With 1,200+ experts and a track record of 5,500+ successful projects across 150+ global customers, and backed by strong partnerships with AWS, Google, Microsoft, Datadog, Dynatrace, ServiceNow, and NetApp, Crest Data delivers outcome-focused solutions that strengthen security, improve platform reliability, and enable sustainable digital growth.",
+            "reasoning": "The text mentions ServiceNow as one of the partners of Crest Data, implying its potential usage.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/regtech/business/growth/through/aws/cloud/migration"
+}

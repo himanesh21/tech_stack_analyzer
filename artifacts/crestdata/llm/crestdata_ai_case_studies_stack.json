@@ -1,0 +1,41 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Strengthening CDN Observability and Digital Experience Visibility for Retail with Datadog",
+            "reasoning": "The case study titled 'Strengthening CDN Observability and Digital Experience Visibility for Retail with Datadog' explicitly mentions Datadog as a technology used by Crest Data for observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Accelerating Dynatrace Migration for Better Observability and Business Outcomes",
+            "reasoning": "The case study titled 'Accelerating Dynatrace Migration for Better Observability and Business Outcomes' explicitly mentions Dynatrace as a technology used by Crest Data for observability.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Delivering High-Availability Business Applications Through a Resilient AWS Architecture",
+            "reasoning": "The case study titled 'Delivering High-Availability Business Applications Through a Resilient AWS Architecture' explicitly mentions AWS as a technology used by Crest Data for cloud infrastructure.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "The case study titled 'Intelligent SAM on ServiceNow: Automated Licensing & Provisioning' explicitly mentions ServiceNow as a technology used by Crest Data for IT service management.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Wazuh",
+            "category": "SIEM",
+            "evidence": "Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "The case study titled 'Extending Threat Intelligence Reach with a Native Wazuh Integration' explicitly mentions Wazuh as a technology used by Crest Data for threat intelligence and SIEM.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies"
+}

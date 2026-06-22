@@ -1,0 +1,48 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "5+ years of datacenter technologies and cloud (AWS/GCP)",
+            "reasoning": "The job description explicitly mentions AWS as a required technology for the Sr. SRE position.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "GCP",
+            "category": "Cloud Provider",
+            "evidence": "5+ years of datacenter technologies and cloud (AWS/GCP)",
+            "reasoning": "The job description explicitly mentions GCP as a required technology for the Sr. SRE position.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Git",
+            "category": "Version Control System",
+            "evidence": "Application deployment with Git, StackStorm, etc.",
+            "reasoning": "The job description explicitly mentions Git as a required technology for application deployment.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "StackStorm",
+            "category": "Automation Platform",
+            "evidence": "Application deployment with Git, StackStorm, etc.",
+            "reasoning": "The job description explicitly mentions StackStorm as a required technology for application deployment.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Linux",
+            "category": "Operating System",
+            "evidence": "Proficient in Linux command-line and system administration",
+            "reasoning": "The job description explicitly mentions Linux as a required technology for the Sr. SRE position.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "TCPdump",
+            "category": "Network Troubleshooting Tool",
+            "evidence": "Strong troubleshooting skills across networks and systems; familiarity with network protocols (TCP/IP, UDP, ICMP) and tools like TCPdump",
+            "reasoning": "The job description explicitly mentions TCPdump as a required tool for network troubleshooting.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/jobs/sr/sre"
+}

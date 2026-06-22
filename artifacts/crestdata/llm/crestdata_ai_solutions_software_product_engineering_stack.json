@@ -1,0 +1,62 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "Delivering High-Availability Business Applications Through a Resilient AWS Architecture",
+            "reasoning": "The text mentions AWS in the context of delivering high-availability business applications and driving RegTech business growth and operational efficiency through cloud migration.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Dynatrace",
+            "category": "Observability",
+            "evidence": "Accelerating Dynatrace Migration for Better Observability and Business Outcomes",
+            "reasoning": "The text mentions Dynatrace in the context of accelerating migration for better observability and business outcomes, and also AI-driven migration to Dynatrace.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Datadog",
+            "category": "Observability",
+            "evidence": "Scaling Enterprise Sybase Monitoring Through Datadog Integration",
+            "reasoning": "The text mentions Datadog in the context of scaling enterprise Sybase monitoring through integration, and also strengthening CDN observability and digital experience visibility for retail with Datadog.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Wazuh",
+            "category": "Threat Intelligence",
+            "evidence": "Extending Threat Intelligence Reach with a Native Wazuh Integration",
+            "reasoning": "The text mentions Wazuh in the context of extending threat intelligence reach with a native integration.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Intelligent SAM on ServiceNow: Automated Licensing & Provisioning",
+            "reasoning": "The text mentions ServiceNow in the context of intelligent SAM with automated licensing and provisioning.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CyberArk",
+            "category": "Privileged Access Management",
+            "evidence": "Improving Privileged Access Management Visibility and Governance with Datadog",
+            "reasoning": "The text mentions CyberArk in the context of improving privileged access management visibility and governance with Datadog.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ThreatQ",
+            "category": "Threat Intelligence",
+            "evidence": "Enabling Enterprise-Scale Threat Investigations with a Browser-Based Intelligence Extension",
+            "reasoning": "The text mentions ThreatQ in the context of enabling enterprise-scale threat investigations with a browser-based intelligence extension.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AI",
+            "category": "Artificial Intelligence",
+            "evidence": "Deep Expertise in AI-Infused Engineering",
+            "reasoning": "The text mentions AI-infused engineering and AI-driven migration to Dynatrace.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/software/product/engineering"
+}

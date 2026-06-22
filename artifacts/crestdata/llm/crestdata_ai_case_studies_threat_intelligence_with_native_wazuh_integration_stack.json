@@ -1,0 +1,34 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Wazuh",
+            "category": "SIEM",
+            "evidence": "A leading threat intelligence provider engaged Crest Data to build a native, production-ready integration with Wazuh, a widely adopted open-source SIEM and XDR platform.",
+            "reasoning": "Wazuh is explicitly mentioned as the SIEM and XDR platform that Crest Data integrated with.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "MITRE ATT&CK",
+            "category": "Threat Intelligence Framework",
+            "evidence": "MITRE ATT&CK technique mappings for suspicious files, and real-world exploit intelligence for detected CVEs.",
+            "reasoning": "MITRE ATT&CK is explicitly mentioned as a framework used to provide tactic IDs, technique IDs, technique names, and behavioral signatures.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "JSON",
+            "category": "Data Format",
+            "evidence": "IOCs covering IPs, domains, URLs, and file hashes are stored locally in structured JSON files with enrichment metadata.",
+            "reasoning": "JSON is explicitly mentioned as the data format used to store IOC data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Cron Job",
+            "category": "Automation Tool",
+            "evidence": "A cron job fetches the latest IOC threat lists from the threat intelligence platform across configurable threat categories.",
+            "reasoning": "Cron Job is explicitly mentioned as the tool used to fetch IOC threat lists.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/threat/intelligence/with/native/wazuh/integration"
+}

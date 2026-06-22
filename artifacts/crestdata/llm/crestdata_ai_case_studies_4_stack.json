@@ -1,0 +1,76 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Amazon CloudWatch",
+            "category": "Cloud Provider",
+            "evidence": "Amazon CloudWatch",
+            "reasoning": "The text explicitly mentions Amazon CloudWatch.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS",
+            "category": "Cloud Provider",
+            "evidence": "AWS",
+            "reasoning": "The text explicitly mentions AWS.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AIOps",
+            "category": "AI/ML",
+            "evidence": "AIOps",
+            "reasoning": "The text explicitly mentions AIOps.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Artificial Intelligence",
+            "category": "AI/ML",
+            "evidence": "Artificial Intelligence",
+            "reasoning": "The text explicitly mentions Artificial Intelligence.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AI Agents",
+            "category": "AI/ML",
+            "evidence": "AI Agents",
+            "reasoning": "The text explicitly mentions AI Agents.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "AWS CloudWatch",
+            "category": "Cloud Provider",
+            "evidence": "AWS CloudWatch",
+            "reasoning": "The text explicitly mentions AWS CloudWatch.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "LinkedIn",
+            "category": "Social Media",
+            "evidence": "Linkedin",
+            "reasoning": "The text mentions LinkedIn, implying usage for professional networking.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Twitter",
+            "category": "Social Media",
+            "evidence": "X-twitter",
+            "reasoning": "The text mentions X-twitter, implying usage for social media.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Instagram",
+            "category": "Social Media",
+            "evidence": "Instagram",
+            "reasoning": "The text mentions Instagram, implying usage for social media.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Facebook",
+            "category": "Social Media",
+            "evidence": "Facebook",
+            "reasoning": "The text mentions Facebook, implying usage for social media.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/case/studies/4"
+}

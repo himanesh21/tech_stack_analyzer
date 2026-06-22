@@ -1,0 +1,55 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "ServiceNow",
+            "category": "IT Service Management",
+            "evidence": "Crest Data enables organizations to run business-critical workflows through ServiceNow with speed and precision.",
+            "reasoning": "ServiceNow is explicitly mentioned as a key platform used by Crest Data for workflow automation and IT service management.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow ITSM",
+            "category": "IT Service Management",
+            "evidence": "We implement and optimize ITSM processes through ServiceNow ITSM implementation services to improve service reliability and operational efficiency.",
+            "reasoning": "ServiceNow ITSM is explicitly mentioned as a solution provided by Crest Data for IT service management.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow CMDB",
+            "category": "IT Service Management",
+            "evidence": "Built and deployed various custom Service Graph Connectors and CMDB integrations supporting full and delta data ingestion, relationship visualization, and audit-ready reporting across multi-cloud environments.",
+            "reasoning": "ServiceNow CMDB is explicitly mentioned as a component of Crest Data's solutions for IT service management.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow SecOps",
+            "category": "Security Operations",
+            "evidence": "We design and implement ServiceNow SecOps workflows to automate security incident intake, investigation, prioritization, and response.",
+            "reasoning": "ServiceNow SecOps is explicitly mentioned as a solution provided by Crest Data for security operations.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "ServiceNow GRC",
+            "category": "Governance, Risk, and Compliance",
+            "evidence": "We automate ServiceNow GRC workflows to streamline risk assessments, policy management, control testing, and compliance tracking.",
+            "reasoning": "ServiceNow GRC is explicitly mentioned as a solution provided by Crest Data for governance, risk, and compliance.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "CrowdStrike",
+            "category": "Security",
+            "evidence": "Crest built an app for Falcon Endpoint that reduces security incident exposure with automatic responses...",
+            "reasoning": "CrowdStrike is mentioned as a security tool integrated with ServiceNow for security incident response.",
+            "relationship": "strongly_implied"
+        },
+        {
+            "name": "Check Point",
+            "category": "Security",
+            "evidence": "The Check Point ServiceNow application integrates Security Operations allowing security analyst to create...",
+            "reasoning": "Check Point is mentioned as a security tool integrated with ServiceNow for security operations.",
+            "relationship": "strongly_implied"
+        }
+    ],
+    "url": "https://crestdata/ai/solutions/servicenow"
+}

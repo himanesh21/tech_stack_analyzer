@@ -1,0 +1,48 @@
+{
+    "subject_company": "Crest Data",
+    "technologies": [
+        {
+            "name": "Python",
+            "category": "Programming Language",
+            "evidence": "Tech Stack: Python, TensorFlow, PyTorch, Keras, NumPy, Pandas",
+            "reasoning": "The text explicitly mentions Python as part of the tech stack for the AI/ML Engineer position at Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "TensorFlow",
+            "category": "Machine Learning Framework",
+            "evidence": "Tech Stack: Python, TensorFlow, PyTorch, Keras, NumPy, Pandas",
+            "reasoning": "The text explicitly mentions TensorFlow as part of the tech stack for the AI/ML Engineer position at Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "PyTorch",
+            "category": "Machine Learning Framework",
+            "evidence": "Tech Stack: Python, TensorFlow, PyTorch, Keras, NumPy, Pandas",
+            "reasoning": "The text explicitly mentions PyTorch as part of the tech stack for the AI/ML Engineer position at Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Keras",
+            "category": "Machine Learning Framework",
+            "evidence": "Tech Stack: Python, TensorFlow, PyTorch, Keras, NumPy, Pandas",
+            "reasoning": "The text explicitly mentions Keras as part of the tech stack for the AI/ML Engineer position at Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "NumPy",
+            "category": "Library",
+            "evidence": "Tech Stack: Python, TensorFlow, PyTorch, Keras, NumPy, Pandas",
+            "reasoning": "The text explicitly mentions NumPy as part of the tech stack for the AI/ML Engineer position at Crest Data.",
+            "relationship": "explicitly_used"
+        },
+        {
+            "name": "Pandas",
+            "category": "Library",
+            "evidence": "Tech Stack: Python, TensorFlow, PyTorch, Keras, NumPy, Pandas",
+            "reasoning": "The text explicitly mentions Pandas as part of the tech stack for the AI/ML Engineer position at Crest Data.",
+            "relationship": "explicitly_used"
+        }
+    ],
+    "url": "https://linkedin/com/posts/shweta/popat/59aba1b3/hiring/machinelearning/ai/activity/7217109002722131970/dsIo"
+}
